@@ -15,7 +15,7 @@ function fetch(iteration, callback) {
       let parsedObj = {}
       for(item in responseObj['list-items']) {
         let itemItself = responseObj['list-items'][item]
-        parsedObj[itemItself.order-50] = itemItself.title
+        parsedObj[itemItself.order] = itemItself.title
       }
       callback(parsedObj)
     })
@@ -24,7 +24,7 @@ function fetch(iteration, callback) {
 
 function gatherData() {
   let prmArray = []
-  for(let i = 1; i <= 20; i++) {
+  for(let i = 0; i <= 21; i++) {
     let prm = new Promise( (resolve, reject) => {
       fetch(i, resolve)
     })
