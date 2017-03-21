@@ -4,7 +4,7 @@ const http = require('http')
 function fetch(iteration, callback) {
   return http.get({
       host: 'fortune.com',
-      path: 'http://fortune.com/data/franchise-list/500629/'+(iteration)
+      path: 'http://fortune.com/data/franchise-list/352816/'+(iteration)
   }, response => {
     let body = ''
     response.on('data', d => {
@@ -44,7 +44,7 @@ function gatherData() {
 }
 
 function fsCurry(text) {
-  fs.writeFile('./2014.json', JSON.stringify(text, null, 2), err => {
+  fs.writeFile('./2008.json', JSON.stringify(text, null, 2), err => {
     if(err) return console.error(err)
   })
   console.log('file saved.')
