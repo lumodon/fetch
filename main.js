@@ -15,10 +15,12 @@ function fetch(iteration, callback) {
       let parsedObj = {}
       for(item in responseObj['articles']) {
         let itemItself = responseObj['articles'][item]
-        parsedObj[itemItself.rank] = itemItself.title
+        parsedObj[itemItself.rank] = {
+          'title': itemItself.title,
+          'website': itemItself.highlights.Website
+        }
       }
       callback(parsedObj)
-      callback(responseObj)
     })
   })
 }
@@ -36,6 +38,7 @@ function gatherData() {
   Promise.all(prmArray)
     .then( entireObject => {
       entireObject.forEach( (chunkOfData, iterator) => {
+        console.log(iterator)
         parentObj[iterator] = chunkOfData
       })
       fsCurry(parentObj)
