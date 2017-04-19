@@ -1,3994 +1,2002 @@
 {
   "1": {
     "title": "Exxon Mobil Corporation",
-    "website": "www.exxonmobil.com"
+    "website": "www.exxonmobil.com",
+    "ticker": "xom"
   },
   "2": {
     "title": "Wal-Mart Stores, Inc.",
-    "website": "www.corporate.walmart.com"
+    "website": "www.corporate.walmart.com",
+    "ticker": "wmt"
   },
   "3": {
     "title": "Chevron Corporation",
-    "website": "www.chevron.com"
+    "website": "www.chevron.com",
+    "ticker": "cvx"
   },
   "4": {
     "title": "ConocoPhillips",
-    "website": "www.conocophillips.com"
+    "website": "www.conocophillips.com",
+    "ticker": "cop"
   },
   "5": {
     "title": "General Motors Company",
-    "website": "www.gm.com"
+    "website": "www.gm.com",
+    "ticker": "gm"
   },
   "6": {
     "title": "General Electric Company",
-    "website": "www.ge.com"
+    "website": "www.ge.com",
+    "ticker": "ge"
   },
   "7": {
     "title": "Berkshire Hathaway Inc.",
-    "website": "www.berkshirehathaway.com"
+    "website": "www.berkshirehathaway.com",
+    "ticker": "brka"
   },
   "8": {
     "title": "Fannie Mae",
-    "website": "www.fanniemae.com"
+    "website": "www.fanniemae.com",
+    "ticker": "fnma"
   },
   "9": {
     "title": "Ford Motor Company",
-    "website": "www.ford.com"
+    "website": "www.ford.com",
+    "ticker": "f"
   },
   "10": {
     "title": "Hewlett-Packard Company",
-    "website": "www.hp.com"
+    "website": "www.hp.com",
+    "ticker": "hpq"
   },
   "11": {
     "title": "AT&T Inc.",
-    "website": "www.att.com"
+    "website": "www.att.com",
+    "ticker": "t"
   },
   "12": {
     "title": "Valero Energy Corporation",
-    "website": "www.valero.com"
+    "website": "www.valero.com",
+    "ticker": "vlo"
   },
   "13": {
     "title": "Bank of America Corporation",
-    "website": "www.bankofamerica.com"
+    "website": "www.bankofamerica.com",
+    "ticker": "bac"
   },
   "14": {
     "title": "McKesson Corporation",
-    "website": "www.mckesson.com"
+    "website": "www.mckesson.com",
+    "ticker": "mck"
   },
   "15": {
     "title": "Verizon Communications Inc.",
-    "website": "www.verizon.com"
+    "website": "www.verizon.com",
+    "ticker": "vz"
   },
   "16": {
     "title": "J.P. Morgan Chase & Co.",
-    "website": "www.jpmorganchase.com"
+    "website": "www.jpmorganchase.com",
+    "ticker": "jpm"
   },
   "17": {
     "title": "Apple, Inc.",
-    "website": "www.apple.com"
+    "website": "www.apple.com",
+    "ticker": "aapl"
   },
   "18": {
     "title": "CVS Caremark Corporation",
-    "website": "info.cvscaremark.com"
+    "website": "info.cvscaremark.com",
+    "ticker": "cvs"
   },
   "19": {
     "title": "International Business Machines Corporation",
-    "website": "www.ibm.com"
+    "website": "www.ibm.com",
+    "ticker": "ibm"
   },
   "20": {
     "title": "Citigroup Inc.",
-    "website": "www.citigroup.com"
+    "website": "www.citigroup.com",
+    "ticker": "c"
   },
   "21": {
     "title": "Cardinal Health, Inc.",
-    "website": "www.cardinal.com"
+    "website": "www.cardinal.com",
+    "ticker": "cah"
   },
   "22": {
     "title": "UnitedHealth Group Incorporated",
-    "website": "www.unitedhealthgroup.com"
+    "website": "www.unitedhealthgroup.com",
+    "ticker": "unh"
   },
   "23": {
     "title": "The Kroger Company",
-    "website": "www.thekrogerco.com"
+    "website": "www.thekrogerco.com",
+    "ticker": "kr"
   },
   "24": {
     "title": "Costco Wholesale Corporation",
-    "website": "www.costco.com"
+    "website": "www.costco.com",
+    "ticker": "cost"
   },
   "25": {
     "title": "Freddie Mac",
-    "website": "www.freddiemac.com"
+    "website": "www.freddiemac.com",
+    "ticker": "fmcc"
   },
   "26": {
     "title": "Wells Fargo & Company",
-    "website": "www.wellsfargo.com"
+    "website": "www.wellsfargo.com",
+    "ticker": "wfc"
   },
   "27": {
     "title": "The Procter & Gamble Company",
-    "website": "www.pg.com"
+    "website": "www.pg.com",
+    "ticker": "pg"
   },
   "28": {
     "title": "Archer-Daniels-Midland Company",
-    "website": "www.adm.com"
+    "website": "www.adm.com",
+    "ticker": "adm"
   },
   "29": {
     "title": "AmerisourceBergen Corp.",
-    "website": "www.amerisourcebergen.com"
+    "website": "www.amerisourcebergen.com",
+    "ticker": "abc"
   },
   "30": {
     "title": "INTL FCStone Inc.",
-    "website": "www.intlfcstone.com"
+    "website": "www.intlfcstone.com",
+    "ticker": "intl"
   },
   "31": {
     "title": "Marathon Petroleum Corporation",
-    "website": "www.marathonpetroleum.com"
+    "website": "www.marathonpetroleum.com",
+    "ticker": "mpc"
   },
   "32": {
     "title": "Walgreen Co.",
-    "website": "www.walgreens.com"
+    "website": "www.walgreens.com",
+    "ticker": "wag"
   },
   "33": {
     "title": "American International Group,Inc.",
-    "website": "www.aig.com"
+    "website": "www.aig.com",
+    "ticker": "aig"
   },
   "34": {
     "title": "MetLife, Inc.",
-    "website": "www.metlife.com"
+    "website": "www.metlife.com",
+    "ticker": "met"
   },
   "35": {
     "title": "The Home Depot, Inc.",
-    "website": "www.homedepot.com"
+    "website": "www.homedepot.com",
+    "ticker": "hd"
   },
   "36": {
     "title": "Medco Health Solutions, Inc.",
-    "website": "www.express-scripts.com"
+    "website": "www.express-scripts.com",
+    "ticker": ""
   },
   "37": {
     "title": "Microsoft Corporation",
-    "website": "www.microsoft.com"
+    "website": "www.microsoft.com",
+    "ticker": "msft"
   },
   "38": {
     "title": "Target Corporation",
-    "website": "www.target.com"
+    "website": "www.target.com",
+    "ticker": "tgt"
   },
   "39": {
     "title": "The Boeing Company",
-    "website": "www.boeing.com"
+    "website": "www.boeing.com",
+    "ticker": "ba"
   },
   "40": {
     "title": "Pfizer Inc.",
-    "website": "www.pfizer.com"
+    "website": "www.pfizer.com",
+    "ticker": "pfe"
   },
   "41": {
     "title": "PepsiCo, Inc.",
-    "website": "www.pepsico.com"
+    "website": "www.pepsico.com",
+    "ticker": "pep"
   },
   "42": {
     "title": "Johnson & Johnson",
-    "website": "www.jnj.com"
+    "website": "www.jnj.com",
+    "ticker": "jnj"
   },
   "43": {
     "title": "State Farm Insurance Cos.",
-    "website": "www.statefarm.com"
+    "website": "www.statefarm.com",
+    "ticker": ""
   },
   "44": {
     "title": "Dell Inc.",
-    "website": "www.dell.com"
+    "website": "www.dell.com",
+    "ticker": "dell"
   },
   "45": {
     "title": "WellPoint, Inc.",
-    "website": "www.wellpoint.com"
+    "website": "www.wellpoint.com",
+    "ticker": "wlp"
   },
   "46": {
     "title": "Caterpillar Inc.",
-    "website": "www.caterpillar.com"
+    "website": "www.caterpillar.com",
+    "ticker": "cat"
   },
   "47": {
     "title": "The Dow Chemical Company",
-    "website": "www.dow.com"
+    "website": "www.dow.com",
+    "ticker": "dow"
   },
   "48": {
     "title": "United Technologies Corporation",
-    "website": "www.utc.com"
+    "website": "www.utc.com",
+    "ticker": "utx"
   },
   "49": {
     "title": "Comcast Corporation",
-    "website": "www.comcastcorporation.com"
+    "website": "www.comcastcorporation.com",
+    "ticker": "cmcs a"
   },
   "50": {
     "title": "Kraft Foods Inc.",
-    "website": "www.mondelezinternational.com"
+    "website": "www.mondelezinternational.com",
+    "ticker": "kft"
   },
   "51": {
     "title": "Intel Corporation",
-    "website": "www.intel.com"
+    "website": "www.intel.com",
+    "ticker": "intc"
   },
   "52": {
     "title": "United Parcel Service, Inc.",
-    "website": "www.ups.com"
+    "website": "www.ups.com",
+    "ticker": "ups"
   },
   "53": {
     "title": "Best Buy Co., Inc.",
-    "website": "www.bestbuy.com"
+    "website": "www.bestbuy.com",
+    "ticker": "bby"
   },
   "54": {
     "title": "Lowe’s Companies, Inc.",
-    "website": "www.lowes.com"
+    "website": "www.lowes.com",
+    "ticker": "low"
   },
   "55": {
     "title": "Prudential Financial, Inc.",
-    "website": "www.prudential.com"
+    "website": "www.prudential.com",
+    "ticker": "pru"
   },
   "56": {
     "title": "Amazon.com, Inc.",
-    "website": "www.amazon.com"
+    "website": "www.amazon.com",
+    "ticker": "amzn"
   },
   "57": {
     "title": "Merck & Co., Inc.",
-    "website": "www.merck.com"
+    "website": "www.merck.com",
+    "ticker": "mrk"
   },
   "58": {
     "title": "Lockheed Martin Corporation",
-    "website": "www.lockheedmartin.com"
+    "website": "www.lockheedmartin.com",
+    "ticker": "lmt"
   },
   "59": {
     "title": "The Coca-Cola Company",
-    "website": "www.coca-colacompany.com"
+    "website": "www.coca-colacompany.com",
+    "ticker": "ko"
   },
   "60": {
     "title": "Express Scripts Holding Company",
-    "website": "www.express-scripts.com"
+    "website": "www.express-scripts.com",
+    "ticker": "esrx"
   },
   "61": {
     "title": "Sunoco, Inc.",
-    "website": "www.sunocoinc.com"
+    "website": "www.sunocoinc.com",
+    "ticker": "sun"
   },
   "62": {
     "title": "Enterprise Products Partners L.P.",
-    "website": "www.enterpriseproducts.com"
+    "website": "www.enterpriseproducts.com",
+    "ticker": "epd"
   },
   "63": {
     "title": "Safeway Inc.",
-    "website": "www.safeway.com"
+    "website": "www.safeway.com",
+    "ticker": "swy"
   },
   "64": {
     "title": "Cisco Systems, Inc.",
-    "website": "www.cisco.com"
+    "website": "www.cisco.com",
+    "ticker": "csco"
   },
   "65": {
     "title": "Sears Holdings Corporation",
-    "website": "www.searsholdings.com"
+    "website": "www.searsholdings.com",
+    "ticker": "shld"
   },
   "66": {
     "title": "The Walt Disney Company",
-    "website": "www.disney.com"
+    "website": "www.disney.com",
+    "ticker": "dis"
   },
   "67": {
     "title": "Johnson Controls, Inc.",
-    "website": "www.johnsoncontrols.com"
+    "website": "www.johnsoncontrols.com",
+    "ticker": "jci"
   },
   "68": {
     "title": "Morgan Stanley",
-    "website": "www.morganstanley.com"
+    "website": "www.morganstanley.com",
+    "ticker": "ms"
   },
   "69": {
     "title": "Sysco Corporation",
-    "website": "www.sysco.com"
+    "website": "www.sysco.com",
+    "ticker": "syy"
   },
   "70": {
     "title": "FedEx Corporation",
-    "website": "www.fedex.com"
+    "website": "www.fedex.com",
+    "ticker": "fdx"
   },
   "71": {
     "title": "Abbott Laboratories",
-    "website": "www.abbott.com"
+    "website": "www.abbott.com",
+    "ticker": "abt"
   },
   "72": {
     "title": "E.I. du Pont de Nemours and Company",
-    "website": "www.dupont.com"
+    "website": "www.dupont.com",
+    "ticker": "dd"
   },
   "73": {
     "title": "Google Inc.",
-    "website": "www.google.com"
+    "website": "www.google.com",
+    "ticker": "goog"
   },
   "74": {
     "title": "Hess Corporation",
-    "website": "www.hess.com"
+    "website": "www.hess.com",
+    "ticker": "hes"
   },
   "75": {
     "title": "Supervalu Inc.",
-    "website": "www.supervalu.com"
+    "website": "www.supervalu.com",
+    "ticker": "svu"
   },
   "76": {
     "title": "United Continental Holdings, Inc.",
-    "website": "www.unitedcontinentalholdings.com"
+    "website": "www.unitedcontinentalholdings.com",
+    "ticker": "ual"
   },
   "77": {
     "title": "Honeywell International Inc.",
-    "website": "www.honeywell.com"
+    "website": "www.honeywell.com",
+    "ticker": "hon"
   },
   "78": {
     "title": "CHS Inc.",
-    "website": "www.chsinc.com"
+    "website": "www.chsinc.com",
+    "ticker": ""
   },
   "79": {
     "title": "Humana Inc.",
-    "website": "www.humana.com"
+    "website": "www.humana.com",
+    "ticker": "hum"
   },
   "80": {
     "title": "The Goldman Sachs Group, Inc.",
-    "website": "www.gs.com"
+    "website": "www.gs.com",
+    "ticker": "gs"
   },
   "81": {
     "title": "Ingram Micro Inc.",
-    "website": "www.ingrammicro.com"
+    "website": "www.ingrammicro.com",
+    "ticker": "im"
   },
   "82": {
     "title": "Oracle Corporation",
-    "website": "www.oracle.com"
+    "website": "www.oracle.com",
+    "ticker": "orcl"
   },
   "83": {
     "title": "Delta Air Lines, Inc.",
-    "website": "www.delta.com"
+    "website": "www.delta.com",
+    "ticker": "dal"
   },
   "84": {
     "title": "Liberty Mutual Holding Company Inc.",
-    "website": "www.libertymutual.com"
+    "website": "www.libertymutual.com",
+    "ticker": ""
   },
   "85": {
     "title": "World Fuel Services Corporation",
-    "website": "www.wfscorp.com"
+    "website": "www.wfscorp.com",
+    "ticker": "int"
   },
   "86": {
     "title": "New York Life Insurance Company",
-    "website": "www.newyorklife.com"
+    "website": "www.newyorklife.com",
+    "ticker": ""
   },
   "87": {
     "title": "Plains All American Pipeline, L.P.",
-    "website": "www.paalp.com"
+    "website": "www.paalp.com",
+    "ticker": "paa"
   },
   "88": {
     "title": "Teachers Insurance and Annuity Association College Retiremen",
-    "website": "www.tiaa-cref.org"
+    "website": "www.tiaa-cref.org",
+    "ticker": ""
   },
   "89": {
     "title": "Aetna Inc.",
-    "website": "www.aetna.com"
+    "website": "www.aetna.com",
+    "ticker": "aet"
   },
   "90": {
     "title": "Sprint Nextel Corporation",
-    "website": "www.sprint.com"
+    "website": "www.sprint.com",
+    "ticker": "s"
   },
   "91": {
     "title": "News Corporation",
-    "website": "www.21cf.com"
+    "website": "www.21cf.com",
+    "ticker": "nwsa"
   },
   "92": {
     "title": "General Dynamics Corporation",
-    "website": "www.generaldynamics.com"
+    "website": "www.generaldynamics.com",
+    "ticker": "gd"
   },
   "93": {
     "title": "The Allstate Corporation",
-    "website": "www.allstate.com"
+    "website": "www.allstate.com",
+    "ticker": "all"
   },
   "94": {
     "title": "HCA Holdings, Inc.",
-    "website": "www.hcahealthcare.com"
+    "website": "www.hcahealthcare.com",
+    "ticker": "hca"
   },
   "95": {
     "title": "American Express Company",
-    "website": "www.americanexpress.com"
+    "website": "www.americanexpress.com",
+    "ticker": "axp"
   },
   "96": {
     "title": "Tyson Foods, Inc.",
-    "website": "www.tysonfoods.com"
+    "website": "www.tysonfoods.com",
+    "ticker": "tsn"
   },
   "97": {
     "title": "Deere & Company",
-    "website": "www.deere.com"
+    "website": "www.deere.com",
+    "ticker": "de"
   },
   "98": {
     "title": "Murphy Oil Corporation",
-    "website": "www.murphyoilcorp.com"
+    "website": "www.murphyoilcorp.com",
+    "ticker": "mur"
   },
   "99": {
     "title": "Philip Morris International Inc.",
-    "website": "www.pmi.com"
+    "website": "www.pmi.com",
+    "ticker": "pm"
   },
   "100": {
     "title": "Nationwide Mutual Insurance Co.",
-    "website": "www.nationwide.com"
+    "website": "www.nationwide.com",
+    "ticker": ""
   },
   "101": {
     "title": "Tesoro Corporation",
-    "website": "www.tsocorp.com"
+    "website": "www.tsocorp.com",
+    "ticker": "tso"
   },
   "102": {
     "title": "3M Company",
-    "website": "www.3m.com"
+    "website": "www.3m.com",
+    "ticker": "mmm"
   },
   "103": {
     "title": "Time Warner Inc.",
-    "website": "www.timewarner.com"
+    "website": "www.timewarner.com",
+    "ticker": "twx"
   },
   "104": {
     "title": "Northrop Grumman Corporation",
-    "website": "www.northropgrumman.com"
+    "website": "www.northropgrumman.com",
+    "ticker": "noc"
   },
   "105": {
     "title": "DIRECTV",
-    "website": "www.directv.com"
+    "website": "www.directv.com",
+    "ticker": "dtv"
   },
   "106": {
     "title": "Publix Super Markets, Inc.",
-    "website": "www.publix.com"
+    "website": "www.publix.com",
+    "ticker": ""
   },
   "107": {
     "title": "McDonald’s Corporation",
-    "website": "www.mcdonalds.com"
+    "website": "www.mcdonalds.com",
+    "ticker": "mcd"
   },
   "108": {
     "title": "Avnet, Inc.",
-    "website": "www.avnet.com"
+    "website": "www.avnet.com",
+    "ticker": "avt"
   },
   "109": {
     "title": "Tech Data Corporation",
-    "website": "www.techdata.com"
+    "website": "www.techdata.com",
+    "ticker": "tecd"
   },
   "110": {
     "title": "Macy’s, Inc.",
-    "website": "www.macysinc.com"
+    "website": "www.macysinc.com",
+    "ticker": "m"
   },
   "111": {
     "title": "International Paper Company",
-    "website": "www.internationalpaper.com"
+    "website": "www.internationalpaper.com",
+    "ticker": "ip"
   },
   "112": {
     "title": "The Travelers Companies, Inc.",
-    "website": "www.travelers.com"
+    "website": "www.travelers.com",
+    "ticker": "trv"
   },
   "113": {
     "title": "Rite Aid Corporation",
-    "website": "www.riteaid.com"
+    "website": "www.riteaid.com",
+    "ticker": "rad"
   },
   "114": {
     "title": "Staples, Inc.",
-    "website": "www.staples.com"
+    "website": "www.staples.com",
+    "ticker": "spls"
   },
   "115": {
     "title": "Alcoa Inc.",
-    "website": "www.alcoa.com"
+    "website": "www.alcoa.com",
+    "ticker": "aa"
   },
   "116": {
     "title": "Northwestern Mutual Life Insurance Company,Inc.",
-    "website": "www.northwesternmutual.com"
+    "website": "www.northwesternmutual.com",
+    "ticker": ""
   },
   "117": {
     "title": "Raytheon Company",
-    "website": "www.raytheon.com"
+    "website": "www.raytheon.com",
+    "ticker": "rtn"
   },
   "118": {
     "title": "Halliburton Company",
-    "website": "www.halliburton.com"
+    "website": "www.halliburton.com",
+    "ticker": "hal"
   },
   "119": {
     "title": "Eli Lilly and Company",
-    "website": "www.lilly.com"
+    "website": "www.lilly.com",
+    "ticker": "lly"
   },
   "120": {
     "title": "Emerson Electric Co.",
-    "website": "www.emerson.com"
+    "website": "www.emerson.com",
+    "ticker": "emr"
   },
   "121": {
     "title": "Massachusetts Mutual Life Insurance Company",
-    "website": "www.massmutual.com"
+    "website": "www.massmutual.com",
+    "ticker": ""
   },
   "122": {
     "title": "Occidental Petroleum Corporation",
-    "website": "www.oxy.com"
+    "website": "www.oxy.com",
+    "ticker": "oxy"
   },
   "123": {
     "title": "AMR Corporation",
-    "website": "www.aa.com"
+    "website": "www.aa.com",
+    "ticker": "aamrq"
   },
   "124": {
     "title": "Fluor Corporation",
-    "website": "www.fluor.com"
+    "website": "www.fluor.com",
+    "ticker": "flr"
   },
   "125": {
     "title": "The TJX Companies, Inc.",
-    "website": "www.tjx.com"
+    "website": "www.tjx.com",
+    "ticker": "tjx"
   },
   "126": {
     "title": "The Goodyear Tire & Rubber Company",
-    "website": "www.goodyear.com"
+    "website": "www.goodyear.com",
+    "ticker": "gt"
   },
   "127": {
     "title": "Xerox Corporation",
-    "website": "www.xerox.com"
+    "website": "www.xerox.com",
+    "ticker": "xrx"
   },
   "128": {
     "title": "Aflac Incorporated",
-    "website": "www.aflac.com"
+    "website": "www.aflac.com",
+    "ticker": "afl"
   },
   "129": {
     "title": "Manpower Inc.",
-    "website": "www.manpowergroup.com"
+    "website": "www.manpowergroup.com",
+    "ticker": "man"
   },
   "130": {
     "title": "CIGNA Corporation",
-    "website": "www.cigna.com"
+    "website": "www.cigna.com",
+    "ticker": "ci"
   },
   "131": {
     "title": "The Hartford Financial Services Group Inc.",
-    "website": "www.thehartford.com"
+    "website": "www.thehartford.com",
+    "ticker": "hig"
   },
   "132": {
     "title": "U.S. Bancorp",
-    "website": "www.usbank.com"
+    "website": "www.usbank.com",
+    "ticker": "usb"
   },
   "133": {
     "title": "Arrow Electronics, Inc",
-    "website": "www.arrow.com"
+    "website": "www.arrow.com",
+    "ticker": "arw"
   },
   "134": {
     "title": "Bristol-Myers Squibb Company",
-    "website": "www.bms.com"
+    "website": "www.bms.com",
+    "ticker": "bmy"
   },
   "135": {
     "title": "Freeport-McMoRan Copper & Gold Inc.",
-    "website": "www.fcx.com"
+    "website": "www.fcx.com",
+    "ticker": "fcx"
   },
   "136": {
     "title": "Nike, Inc.",
-    "website": "www.nikeinc.com"
+    "website": "www.nikeinc.com",
+    "ticker": "nke"
   },
   "137": {
     "title": "Kimberly-Clark Corporation",
-    "website": "www.kimberly-clark.com"
+    "website": "www.kimberly-clark.com",
+    "ticker": "kmb"
   },
   "138": {
     "title": "Nucor Corporation",
-    "website": "www.nucor.com"
+    "website": "www.nucor.com",
+    "ticker": "nue"
   },
   "139": {
     "title": "EMC Corporation",
-    "website": "www.emc.com"
+    "website": "www.emc.com",
+    "ticker": "emc"
   },
   "140": {
     "title": "United States Steel Corporation",
-    "website": "www.ussteel.com"
+    "website": "www.ussteel.com",
+    "ticker": "x"
   },
   "141": {
     "title": "Baker Hughes Incorporated",
-    "website": "www.bakerhughes.com"
+    "website": "www.bakerhughes.com",
+    "ticker": "bhi"
   },
   "142": {
     "title": "Time Warner Cable Inc.",
-    "website": "www.twc.com"
+    "website": "www.twc.com",
+    "ticker": "twc"
   },
   "143": {
     "title": "Union Pacific Corporation",
-    "website": "www.up.com"
+    "website": "www.up.com",
+    "ticker": "unp"
   },
   "144": {
     "title": "United Services Automobile Association",
-    "website": "www.usaa.com"
+    "website": "www.usaa.com",
+    "ticker": ""
   },
   "145": {
     "title": "Exelon Corporation",
-    "website": "www.exeloncorp.com"
+    "website": "www.exeloncorp.com",
+    "ticker": "exc"
   },
   "146": {
     "title": "Kohl’s Corporation",
-    "website": "www.kohlscorporation.com"
+    "website": "www.kohlscorporation.com",
+    "ticker": "kss"
   },
   "147": {
     "title": "Whirlpool Corporation",
-    "website": "www.whirlpoolcorp.com"
+    "website": "www.whirlpoolcorp.com",
+    "ticker": "whr"
   },
   "148": {
     "title": "Capital One Financial Corporation",
-    "website": "www.capitalone.com"
+    "website": "www.capitalone.com",
+    "ticker": "cof"
   },
   "149": {
     "title": "Illinois Tool Works Inc.",
-    "website": "www.itw.com"
+    "website": "www.itw.com",
+    "ticker": "itw"
   },
   "150": {
     "title": "Cummins Inc.",
-    "website": "www.cummins.com"
+    "website": "www.cummins.com",
+    "ticker": "cmi"
   },
   "151": {
     "title": "The AES Corporation",
-    "website": "www.aes.com"
+    "website": "www.aes.com",
+    "ticker": "aes"
   },
   "152": {
     "title": "The Southern Company",
-    "website": "www.southerncompany.com"
+    "website": "www.southerncompany.com",
+    "ticker": "so"
   },
   "153": {
     "title": "J.C. Penney Company, Inc.",
-    "website": "www.jcpenney.com"
+    "website": "www.jcpenney.com",
+    "ticker": "jcp"
   },
   "154": {
     "title": "Apache Corporation",
-    "website": "www.apachecorp.com"
+    "website": "www.apachecorp.com",
+    "ticker": "apa"
   },
   "155": {
     "title": "Colgate-Palmolive Company",
-    "website": "www.colgatepalmolive.com"
+    "website": "www.colgatepalmolive.com",
+    "ticker": "cl"
   },
   "156": {
     "title": "Altria Group, Inc.",
-    "website": "www.altria.com"
+    "website": "www.altria.com",
+    "ticker": "mo"
   },
   "157": {
     "title": "Jabil Circuit, Inc.",
-    "website": "www.jabil.com"
+    "website": "www.jabil.com",
+    "ticker": "jbl"
   },
   "158": {
     "title": "Danaher Corporation",
-    "website": "www.danaher.com"
+    "website": "www.danaher.com",
+    "ticker": "dhr"
   },
   "159": {
     "title": "PACCAR Inc",
-    "website": "www.paccar.com"
+    "website": "www.paccar.com",
+    "ticker": "pcar"
   },
   "160": {
     "title": "FirstEnergy Corp.",
-    "website": "www.firstenergycorp.com"
+    "website": "www.firstenergycorp.com",
+    "ticker": "fe"
   },
   "161": {
     "title": "TRW Automotive Holdings Corp.",
-    "website": "www.trw.com"
+    "website": "www.trw.com",
+    "ticker": "trw"
   },
   "162": {
     "title": "Computer Sciences Corporation",
-    "website": "www.csc.com"
+    "website": "www.csc.com",
+    "ticker": "csc"
   },
   "163": {
     "title": "Eaton Corporation",
-    "website": "www.eaton.com"
+    "website": "www.eaton.com",
+    "ticker": "etn"
   },
   "164": {
     "title": "Medtronic, Inc.",
-    "website": "www.medtronic.com"
+    "website": "www.medtronic.com",
+    "ticker": "mdt"
   },
   "165": {
     "title": "The PNC Financial Services Group, Inc.",
-    "website": "www.pnc.com"
+    "website": "www.pnc.com",
+    "ticker": "pnc"
   },
   "166": {
     "title": "The Bank of New York Mellon Corporation",
-    "website": "www.bnymellon.com"
+    "website": "www.bnymellon.com",
+    "ticker": "bk"
   },
   "167": {
     "title": "Southwest Airlines Co.",
-    "website": "www.southwest.com"
+    "website": "www.southwest.com",
+    "ticker": "luv"
   },
   "168": {
     "title": "Amgen Inc.",
-    "website": "www.amgen.com"
+    "website": "www.amgen.com",
+    "ticker": "amgn"
   },
   "169": {
     "title": "The Progressive Corporation",
-    "website": "www.progressive.com"
+    "website": "www.progressive.com",
+    "ticker": "pgr"
   },
   "170": {
     "title": "HollyFrontier Corporation",
-    "website": "www.hollyfrontier.com"
+    "website": "www.hollyfrontier.com",
+    "ticker": "hfc"
   },
   "171": {
     "title": "CenturyLink, Inc.",
-    "website": "www.centurylink.com"
+    "website": "www.centurylink.com",
+    "ticker": "ctl"
   },
   "172": {
     "title": "NextEra Energy, Inc.",
-    "website": "www.nexteraenergy.com"
+    "website": "www.nexteraenergy.com",
+    "ticker": "nee"
   },
   "173": {
     "title": "Marathon Oil Corporation",
-    "website": "www.marathonoil.com"
+    "website": "www.marathonoil.com",
+    "ticker": "mro"
   },
   "174": {
     "title": "L-3 Communications Holdings, Inc.",
-    "website": "www.l-3com.com"
+    "website": "www.l-3com.com",
+    "ticker": "lll"
   },
   "175": {
     "title": "Oneok, Inc.",
-    "website": "www.oneok.com"
+    "website": "www.oneok.com",
+    "ticker": "oke"
   },
   "176": {
     "title": "American Electric Power Company, Inc.",
-    "website": "www.aep.com"
+    "website": "www.aep.com",
+    "ticker": "aep"
   },
   "177": {
     "title": "Viacom Inc.",
-    "website": "www.viacom.com"
+    "website": "www.viacom.com",
+    "ticker": "viab"
   },
   "178": {
     "title": "Qualcomm Incorporated",
-    "website": "www.qualcomm.com"
+    "website": "www.qualcomm.com",
+    "ticker": "qcom"
   },
   "179": {
     "title": "PG&E Corporation",
-    "website": "www.pge.com"
+    "website": "www.pge.com",
+    "ticker": "pcg"
   },
   "180": {
     "title": "PPG Industries, Inc.",
-    "website": "www.ppg.com"
+    "website": "www.ppg.com",
+    "ticker": "ppg"
   },
   "181": {
     "title": "General Mills, Inc.",
-    "website": "www.generalmills.com"
+    "website": "www.generalmills.com",
+    "ticker": "gis"
   },
   "182": {
     "title": "Global Partners LP",
-    "website": "www.globalp.com"
+    "website": "www.globalp.com",
+    "ticker": "glp"
   },
   "183": {
     "title": "Dollar General Corporation",
-    "website": "www.dollargeneral.com"
+    "website": "www.dollargeneral.com",
+    "ticker": "dg"
   },
   "184": {
     "title": "National Oilwell Varco, Inc.",
-    "website": "www.nov.com"
+    "website": "www.nov.com",
+    "ticker": "nov"
   },
   "185": {
     "title": "The Gap, Inc.",
-    "website": "www.gapinc.com"
+    "website": "www.gapinc.com",
+    "ticker": "gps"
   },
   "186": {
     "title": "Duke Energy Corporation",
-    "website": "www.duke-energy.com"
+    "website": "www.duke-energy.com",
+    "ticker": "duk"
   },
   "187": {
     "title": "Dominion Resources, Inc.",
-    "website": "www.dom.com"
+    "website": "www.dom.com",
+    "ticker": "d"
   },
   "188": {
     "title": "CBS Corporation",
-    "website": "www.cbscorporation.com"
+    "website": "www.cbscorporation.com",
+    "ticker": "cbs"
   },
   "189": {
     "title": "Lear Corporation",
-    "website": "www.lear.com"
+    "website": "www.lear.com",
+    "ticker": "lea"
   },
   "190": {
     "title": "Loews Corporation",
-    "website": "www.loews.com"
+    "website": "www.loews.com",
+    "ticker": "l"
   },
   "191": {
     "title": "DISH Network Corporation",
-    "website": "www.dish.com"
+    "website": "www.dish.com",
+    "ticker": "dish"
   },
   "192": {
     "title": "Anadarko Petroleum Corporation",
-    "website": "www.anadarko.com"
+    "website": "www.anadarko.com",
+    "ticker": "apc"
   },
   "193": {
     "title": "Navistar International Corporation",
-    "website": "www.navistar.com"
+    "website": "www.navistar.com",
+    "ticker": "nav"
   },
   "194": {
     "title": "Toys “R” Us, Inc.",
-    "website": "www.toysrusinc.com"
+    "website": "www.toysrusinc.com",
+    "ticker": ""
   },
   "195": {
     "title": "Baxter International Inc.",
-    "website": "www.baxter.com"
+    "website": "www.baxter.com",
+    "ticker": "bax"
   },
   "196": {
     "title": "Omnicom Group Inc.",
-    "website": "www.omnicomgroup.com"
+    "website": "www.omnicomgroup.com",
+    "ticker": "omc"
   },
   "197": {
     "title": "AutoNation, Inc.",
-    "website": "www.autonation.com"
+    "website": "www.autonation.com",
+    "ticker": "an"
   },
   "198": {
     "title": "Community Health Systems, Inc.",
-    "website": "www.chs.net"
+    "website": "www.chs.net",
+    "ticker": "cyh"
   },
   "199": {
     "title": "Constellation Energy Group, Inc.",
-    "website": "www.exeloncorp.com"
+    "website": "www.exeloncorp.com",
+    "ticker": ""
   },
   "200": {
     "title": "Texas Instruments Incorporated",
-    "website": "www.ti.com"
+    "website": "www.ti.com",
+    "ticker": "txn"
   },
   "201": {
     "title": "Ally Financial Inc.",
-    "website": "www.ally.com"
+    "website": "www.ally.com",
+    "ticker": ""
   },
   "202": {
     "title": "The Chubb Corporation",
-    "website": "www.chubb.com"
+    "website": "www.chubb.com",
+    "ticker": "cb"
   },
   "203": {
     "title": "Waste Management, Inc.",
-    "website": "www.wm.com"
+    "website": "www.wm.com",
+    "ticker": "wm"
   },
   "204": {
     "title": "Aramark Corporation",
-    "website": "www.aramark.com"
+    "website": "www.aramark.com",
+    "ticker": ""
   },
   "205": {
     "title": "Kellogg Company",
-    "website": "www.kelloggcompany.com"
+    "website": "www.kelloggcompany.com",
+    "ticker": "k"
   },
   "206": {
     "title": "Motorola Mobility Holdings, Inc.",
-    "website": "investors.motorola.com"
+    "website": "investors.motorola.com",
+    "ticker": "mmi"
   },
   "207": {
     "title": "Dean Foods Company",
-    "website": "www.deanfoods.com"
+    "website": "www.deanfoods.com",
+    "ticker": "df"
   },
   "208": {
     "title": "US Airways Group, Inc.",
-    "website": "www.usairways.com"
+    "website": "www.usairways.com",
+    "ticker": "lcc"
   },
   "209": {
     "title": "Consolidated Edison, Inc.",
-    "website": "www.conedison.com"
+    "website": "www.conedison.com",
+    "ticker": "ed"
   },
   "210": {
     "title": "Land O’Lakes, Inc.",
-    "website": "www.landolakesinc.com"
+    "website": "www.landolakesinc.com",
+    "ticker": ""
   },
   "211": {
     "title": "Edison International",
-    "website": "www.edisoninvestor.com"
+    "website": "www.edisoninvestor.com",
+    "ticker": "eix"
   },
   "212": {
     "title": "PPL Corporation",
-    "website": "www.pplweb.com"
+    "website": "www.pplweb.com",
+    "ticker": "ppl"
   },
   "213": {
     "title": "Yum! Brands, Inc.",
-    "website": "www.yum.com"
+    "website": "www.yum.com",
+    "ticker": "yum"
   },
   "214": {
     "title": "Genuine Parts Company",
-    "website": "www.genpt.com"
+    "website": "www.genpt.com",
+    "ticker": "gpc"
   },
   "215": {
     "title": "ConAgra Foods, Inc.",
-    "website": "www.conagrafoods.com"
+    "website": "www.conagrafoods.com",
+    "ticker": "cag"
   },
   "216": {
     "title": "Parker-Hannifin Corporation",
-    "website": "www.parker.com"
+    "website": "www.parker.com",
+    "ticker": "ph"
   },
   "217": {
     "title": "Marriott International, Inc.",
-    "website": "www.marriott.com"
+    "website": "www.marriott.com",
+    "ticker": "mar"
   },
   "218": {
     "title": "Smithfield Foods, Inc.",
-    "website": "www.smithfieldfoods.com"
+    "website": "www.smithfieldfoods.com",
+    "ticker": "sfd"
   },
   "219": {
     "title": "Coventry Health Care, Inc.",
-    "website": "www.coventryhealthcare.com"
+    "website": "www.coventryhealthcare.com",
+    "ticker": "cvh"
   },
   "220": {
     "title": "Sara Lee Corporation",
-    "website": "www.hillshirebrands.com"
+    "website": "www.hillshirebrands.com",
+    "ticker": "sle"
   },
   "221": {
     "title": "Health Net, Inc.",
-    "website": "www.healthnet.com"
+    "website": "www.healthnet.com",
+    "ticker": "hnt"
   },
   "222": {
     "title": "Penske Automotive Group, Inc.",
-    "website": "www.penskeautomotive.com"
+    "website": "www.penskeautomotive.com",
+    "ticker": "pag"
   },
   "223": {
     "title": "Icahn Enterprises L.P.",
-    "website": "www.ielp.com"
+    "website": "www.ielp.com",
+    "ticker": "iep"
   },
   "224": {
     "title": "Monsanto Company",
-    "website": "www.monsanto.com"
+    "website": "www.monsanto.com",
+    "ticker": "mon"
   },
   "225": {
     "title": "Thermo Fisher Scientific Inc.",
-    "website": "www.thermofisher.com"
+    "website": "www.thermofisher.com",
+    "ticker": "tmo"
   },
   "226": {
     "title": "CSX Corporation",
-    "website": "www.csx.com"
+    "website": "www.csx.com",
+    "ticker": "csx"
   },
   "227": {
     "title": "Starbucks Corporation",
-    "website": "www.starbucks.com"
+    "website": "www.starbucks.com",
+    "ticker": "sbux"
   },
   "228": {
     "title": "eBay Inc.",
-    "website": "www.ebayinc.com"
+    "website": "www.ebayinc.com",
+    "ticker": "ebay"
   },
   "229": {
     "title": "Chesapeake Energy Corporation",
-    "website": "www.chk.com"
+    "website": "www.chk.com",
+    "ticker": "chk"
   },
   "230": {
     "title": "Liberty Interactive Corporation",
-    "website": "www.libertyinteractive.com"
+    "website": "www.libertyinteractive.com",
+    "ticker": "linta"
   },
   "231": {
     "title": "Marsh & McLennan Companies, Inc.",
-    "website": "www.mmc.com"
+    "website": "www.mmc.com",
+    "ticker": "mmc"
   },
   "232": {
     "title": "Devon Energy Corporation",
-    "website": "www.devonenergy.com"
+    "website": "www.devonenergy.com",
+    "ticker": "dvn"
   },
   "233": {
     "title": "Office Depot, Inc.",
-    "website": "www.officedepot.com"
+    "website": "www.officedepot.com",
+    "ticker": "odp"
   },
   "234": {
     "title": "Avon Products, Inc.",
-    "website": "www.avoncompany.com"
+    "website": "www.avoncompany.com",
+    "ticker": "avp"
   },
   "235": {
     "title": "Aon Corporation",
-    "website": "www.aon.com"
+    "website": "www.aon.com",
+    "ticker": "aon"
   },
   "236": {
     "title": "Textron Inc.",
-    "website": "www.textron.com"
+    "website": "www.textron.com",
+    "ticker": "txt"
   },
   "237": {
     "title": "Huntsman Corporation",
-    "website": "www.huntsman.com"
+    "website": "www.huntsman.com",
+    "ticker": "hun"
   },
   "238": {
     "title": "Praxair, Inc.",
-    "website": "www.praxair.com"
+    "website": "www.praxair.com",
+    "ticker": "px"
   },
   "239": {
     "title": "Entergy Corporation",
-    "website": "www.entergy.com"
+    "website": "www.entergy.com",
+    "ticker": "etr"
   },
   "240": {
     "title": "Public Service Enterprise Group Inc.",
-    "website": "www.pseg.com"
+    "website": "www.pseg.com",
+    "ticker": "peg"
   },
   "241": {
     "title": "Norfolk Southern Corporation",
-    "website": "www.nscorp.com"
+    "website": "www.nscorp.com",
+    "ticker": "nsc"
   },
   "242": {
     "title": "Nordstrom, Inc.",
-    "website": "www.nordstrom.com"
+    "website": "www.nordstrom.com",
+    "ticker": "jwn"
   },
   "243": {
     "title": "First Data Corporation",
-    "website": "www.firstdata.com"
+    "website": "www.firstdata.com",
+    "ticker": ""
   },
   "244": {
     "title": "H.J. Heinz Company",
-    "website": "www.heinz.com"
+    "website": "www.heinz.com",
+    "ticker": "hnz"
   },
   "245": {
     "title": "SAIC, Inc.",
-    "website": "www.leidos.com"
+    "website": "www.leidos.com",
+    "ticker": "sai"
   },
   "246": {
     "title": "Xcel Energy Inc.",
-    "website": "www.xcelenergy.com"
+    "website": "www.xcelenergy.com",
+    "ticker": "xel"
   },
   "247": {
     "title": "Lincoln National Corporation",
-    "website": "www.lfg.com"
+    "website": "www.lfg.com",
+    "ticker": "lnc"
   },
   "248": {
     "title": "Ameriprise Financial, Inc.",
-    "website": "www.ameriprise.com"
+    "website": "www.ameriprise.com",
+    "ticker": "amp"
   },
   "249": {
     "title": "R.R. Donnelley & Sons Company",
-    "website": "www.rrdonnelley.com"
+    "website": "www.rrdonnelley.com",
+    "ticker": "rrd"
   },
   "250": {
     "title": "Guardian Life Ins. Co. of America",
-    "website": "www.guardianlife.com"
+    "website": "www.guardianlife.com",
+    "ticker": ""
   },
   "251": {
     "title": "Applied Materials, Inc.",
-    "website": "www.appliedmaterials.com"
+    "website": "www.appliedmaterials.com",
+    "ticker": "amat"
   },
   "252": {
     "title": "Stanley Black & Decker, Inc.",
-    "website": "www.stanleyblackanddecker.com"
+    "website": "www.stanleyblackanddecker.com",
+    "ticker": "swk"
   },
   "253": {
     "title": "Synnex Corporation",
-    "website": "www.synnex.com"
+    "website": "www.synnex.com",
+    "ticker": "snx"
   },
   "254": {
     "title": "Jacobs Engineering Group Inc.",
-    "website": "www.jacobs.com"
+    "website": "www.jacobs.com",
+    "ticker": "jec"
   },
   "255": {
     "title": "Peter Kiewit Sons’, Inc.",
-    "website": "www.kiewit.com"
+    "website": "www.kiewit.com",
+    "ticker": ""
   },
   "256": {
     "title": "Limited Brands, Inc.",
-    "website": "www.lb.com"
+    "website": "www.lb.com",
+    "ticker": "ltd"
   },
   "257": {
     "title": "Newmont Mining Corporation",
-    "website": "www.newmont.com"
+    "website": "www.newmont.com",
+    "ticker": "nem"
   },
   "258": {
     "title": "Genworth Financial , Inc.",
-    "website": "www.genworth.com"
+    "website": "www.genworth.com",
+    "ticker": "gnw"
   },
   "259": {
     "title": "C. H. Robinson Worldwide, Inc.",
-    "website": "www.chrobinson.com"
+    "website": "www.chrobinson.com",
+    "ticker": "chrw"
   },
   "260": {
     "title": "Unum Group",
-    "website": "www.unum.com"
+    "website": "www.unum.com",
+    "ticker": "unm"
   },
   "261": {
     "title": "Liberty Global, Inc.",
-    "website": "www.libertyglobal.com/"
+    "website": "www.libertyglobal.com/",
+    "ticker": "lbty a"
   },
   "262": {
     "title": "State Street Corporation",
-    "website": "www.statestreet.com"
+    "website": "www.statestreet.com",
+    "ticker": "stt"
   },
   "263": {
     "title": "EOG Resources, Inc.",
-    "website": "www.eogresources.com"
+    "website": "www.eogresources.com",
+    "ticker": "eog"
   },
   "264": {
     "title": "Whole Foods Market, Inc.",
-    "website": "www.wholefoodsmarket.com"
+    "website": "www.wholefoodsmarket.com",
+    "ticker": "wfm"
   },
   "265": {
     "title": "Air Products & Chemicals, Inc.",
-    "website": "www.airproducts.com"
+    "website": "www.airproducts.com",
+    "ticker": "apd"
   },
   "266": {
     "title": "Sempra Energy",
-    "website": "www.sempra.com"
+    "website": "www.sempra.com",
+    "ticker": "sre"
   },
   "267": {
     "title": "BB&T Corporation",
-    "website": "www.bbt.com"
+    "website": "www.bbt.com",
+    "ticker": "bbt"
   },
   "268": {
     "title": "The Mosaic Company",
-    "website": "www.mosaicco.com"
+    "website": "www.mosaicco.com",
+    "ticker": "mos"
   },
   "269": {
     "title": "Automatic Data Processing, Inc.",
-    "website": "www.adp.com"
+    "website": "www.adp.com",
+    "ticker": "adp"
   },
   "270": {
     "title": "CDW Corporation",
-    "website": "www.cdw.com"
+    "website": "www.cdw.com",
+    "ticker": ""
   },
   "271": {
     "title": "SunTrust Banks, Inc.",
-    "website": "www.suntrust.com"
+    "website": "www.suntrust.com",
+    "ticker": "sti"
   },
   "272": {
     "title": "Tenet Healthcare Corporation",
-    "website": "www.tenethealth.com"
+    "website": "www.tenethealth.com",
+    "ticker": "thc"
   },
   "273": {
     "title": "GameStop Corp.",
-    "website": "www.gamestopcorp.com"
+    "website": "www.gamestopcorp.com",
+    "ticker": "gme"
   },
   "274": {
     "title": "Motorola Solutions, Inc.",
-    "website": "www.motorolasolutions.com"
+    "website": "www.motorolasolutions.com",
+    "ticker": "msi"
   },
   "275": {
     "title": "URS Corporation",
-    "website": "www.urs.com"
+    "website": "www.urs.com",
+    "ticker": "urs"
   },
   "276": {
     "title": "Western Digital Corporation",
-    "website": "www.westerndigital.com"
+    "website": "www.westerndigital.com",
+    "ticker": "wdc"
   },
   "277": {
     "title": "V.F. Corporation",
-    "website": "www.vfc.com"
+    "website": "www.vfc.com",
+    "ticker": "vfc"
   },
   "278": {
     "title": "Las Vegas Sands Corp.",
-    "website": "www.sands.com"
+    "website": "www.sands.com",
+    "ticker": "lvs"
   },
   "279": {
     "title": "CarMax, Inc.",
-    "website": "www.carmax.com"
+    "website": "www.carmax.com",
+    "ticker": "kmx"
   },
   "280": {
     "title": "KBR, Inc.",
-    "website": "www.kbr.com"
+    "website": "www.kbr.com",
+    "ticker": "kbr"
   },
   "281": {
     "title": "Visa Inc.",
-    "website": "www.corporate.visa.com"
+    "website": "www.corporate.visa.com",
+    "ticker": "v"
   },
   "282": {
     "title": "Enbridge Energy Partners, L.P.",
-    "website": "www.enbridgepartners.com"
+    "website": "www.enbridgepartners.com",
+    "ticker": "eep"
   },
   "283": {
     "title": "BlackRock, Inc.",
-    "website": "www.blackrock.com"
+    "website": "www.blackrock.com",
+    "ticker": "blk"
   },
   "284": {
     "title": "NRG Energy, Inc.",
-    "website": "www.nrgenergy.com"
+    "website": "www.nrgenergy.com",
+    "ticker": "nrg"
   },
   "285": {
     "title": "Western Refining, Inc.",
-    "website": "www.wnr.com"
+    "website": "www.wnr.com",
+    "ticker": "wnr"
   },
   "286": {
     "title": "Progress Energy, Inc.",
-    "website": "www.progress-energy.com"
+    "website": "www.progress-energy.com",
+    "ticker": "pgn"
   },
   "287": {
     "title": "DTE Energy Company",
-    "website": "www.dteenergy.com"
+    "website": "www.dteenergy.com",
+    "ticker": "dte"
   },
   "288": {
     "title": "Caesars Entertainment Corporation",
-    "website": "www.caesars.com"
+    "website": "www.caesars.com",
+    "ticker": "czr"
   },
   "289": {
     "title": "Reinsurance Group of America, Incorporated",
-    "website": "www.rgare.com"
+    "website": "www.rgare.com",
+    "ticker": "rga"
   },
   "291": {
     "title": "Micron Technology, Inc.",
-    "website": "www.micron.com"
+    "website": "www.micron.com",
+    "ticker": "mu"
   },
   "292": {
     "title": "AGCO Corporation",
-    "website": "www.agcocorp.com"
+    "website": "www.agcocorp.com",
+    "ticker": "agco"
   },
   "293": {
     "title": "The Sherwin-Williams Company",
-    "website": "www.sherwin.com"
+    "website": "www.sherwin.com",
+    "ticker": "shw"
   },
   "294": {
     "title": "Bed Bath & Beyond Inc.",
-    "website": "www.bedbathandbeyond.com"
+    "website": "www.bedbathandbeyond.com",
+    "ticker": "bbby"
   },
   "295": {
     "title": "Principal Financial Group, Inc.",
-    "website": "www.principal.com"
+    "website": "www.principal.com",
+    "ticker": "pfg"
   },
   "296": {
     "title": "Crown Holdings, Inc.",
-    "website": "www.crowncork.com"
+    "website": "www.crowncork.com",
+    "ticker": "cck"
   },
   "297": {
     "title": "Ball Corporation",
-    "website": "www.ball.com"
+    "website": "www.ball.com",
+    "ticker": "bll"
   },
   "298": {
     "title": "Owens & Minor, Inc.",
-    "website": "www.owens-minor.com"
+    "website": "www.owens-minor.com",
+    "ticker": "omi"
   },
   "299": {
     "title": "Ross Stores, Inc.",
-    "website": "www.rossstores.com"
+    "website": "www.rossstores.com",
+    "ticker": "rost"
   },
   "300": {
     "title": "Discover Financial Services",
-    "website": "www.discoverfinancial.com"
+    "website": "www.discoverfinancial.com",
+    "ticker": "dfs"
   },
   "301": {
     "title": "Family Dollar Stores, Inc.",
-    "website": "www.familydollar.com"
+    "website": "www.familydollar.com",
+    "ticker": "fdo"
   },
   "302": {
     "title": "Reynolds American Inc.",
-    "website": "www.reynoldsamerican.com"
+    "website": "www.reynoldsamerican.com",
+    "ticker": "rai"
   },
   "303": {
     "title": "Henry Schein, Inc.",
-    "website": "www.henryschein.com"
+    "website": "www.henryschein.com",
+    "ticker": "hsic"
   },
   "304": {
     "title": "Dover Corporation",
-    "website": "www.dovercorporation.com"
+    "website": "www.dovercorporation.com",
+    "ticker": "dov"
   },
   "305": {
     "title": "CenterPoint Energy, Inc.",
-    "website": "www.centerpointenergy.com"
+    "website": "www.centerpointenergy.com",
+    "ticker": "cnp"
   },
   "306": {
     "title": "Gilead Sciences, Inc.",
-    "website": "www.gilead.com"
+    "website": "www.gilead.com",
+    "ticker": "gild"
   },
   "307": {
     "title": "Ashland Inc.",
-    "website": "www.ashland.com"
+    "website": "www.ashland.com",
+    "ticker": "ash"
   },
   "308": {
     "title": "Stryker Corporation",
-    "website": "www.stryker.com"
+    "website": "www.stryker.com",
+    "ticker": "syk"
   },
   "309": {
     "title": "Hertz Global Holdings, Inc.",
-    "website": "www.hertz.com"
+    "website": "www.hertz.com",
+    "ticker": "htz"
   },
   "310": {
     "title": "Assurant, Inc.",
-    "website": "www.assurant.com"
+    "website": "www.assurant.com",
+    "ticker": "aiz"
   },
   "311": {
     "title": "Kinder Morgan, Inc.",
-    "website": "www.kindermorgan.com"
+    "website": "www.kindermorgan.com",
+    "ticker": "kmi"
   },
   "312": {
     "title": "Energy Transfer Equity, L.P.",
-    "website": "www.energytransfer.com"
+    "website": "www.energytransfer.com",
+    "ticker": "ete"
   },
   "313": {
     "title": "Autoliv, Inc.",
-    "website": "www.autoliv.com"
+    "website": "www.autoliv.com",
+    "ticker": "alv"
   },
   "314": {
     "title": "Republic Services, Inc.",
-    "website": "www.republicservices.com"
+    "website": "www.republicservices.com",
+    "ticker": "rsg"
   },
   "315": {
     "title": "Reliance Steel & Aluminum Co.",
-    "website": "www.rsac.com"
+    "website": "www.rsac.com",
+    "ticker": "rs"
   },
   "316": {
     "title": "Peabody Energy Corporation",
-    "website": "www.peabodyenergy.com"
+    "website": "www.peabodyenergy.com",
+    "ticker": "btu"
   },
   "317": {
     "title": "The Great Atlantic & Pacific Tea Company, Inc.",
-    "website": "www.aptea.com"
+    "website": "www.aptea.com",
+    "ticker": ""
   },
   "318": {
     "title": "W.W. Grainger, Inc.",
-    "website": "www.grainger.com"
+    "website": "www.grainger.com",
+    "ticker": "gww"
   },
   "319": {
     "title": "Goodrich Corporation",
-    "website": "www.goodrich.com"
+    "website": "www.goodrich.com",
+    "ticker": "gr"
   },
   "320": {
     "title": "AutoZone, Inc.",
-    "website": "www.autozone.com"
+    "website": "www.autozone.com",
+    "ticker": "azo"
   },
   "321": {
     "title": "Visteon Corporation",
-    "website": "www.visteon.com"
+    "website": "www.visteon.com",
+    "ticker": "vc"
   },
   "322": {
     "title": "AECOM Technology Corporation",
-    "website": "www.aecom.com"
+    "website": "www.aecom.com",
+    "ticker": "acm"
   },
   "323": {
     "title": "Steel Dynamics, Inc.",
-    "website": "www.steeldynamics.com"
+    "website": "www.steeldynamics.com",
+    "ticker": "stld"
   },
   "324": {
     "title": "Coca-Cola Enterprises, Inc.",
-    "website": "www.cokecce.com"
+    "website": "www.cokecce.com",
+    "ticker": "cce"
   },
   "325": {
     "title": "The Williams Companies, Inc.",
-    "website": "www.williams.com"
+    "website": "www.williams.com",
+    "ticker": "wmb"
   },
   "326": {
     "title": "Commercial Metals Company",
-    "website": "www.cmc.com"
+    "website": "www.cmc.com",
+    "ticker": "cmc"
   },
   "327": {
     "title": "Hormel Foods Corporation",
-    "website": "www.hormelfoods.com"
+    "website": "www.hormelfoods.com",
+    "ticker": "hrl"
   },
   "328": {
     "title": "Corning Incorporated",
-    "website": "www.corning.com"
+    "website": "www.corning.com",
+    "ticker": "glw"
   },
   "329": {
     "title": "TravelCenters of America LLC",
-    "website": "www.tatravelcenters.com"
+    "website": "www.tatravelcenters.com",
+    "ticker": "ta"
   },
   "330": {
     "title": "Sonic Automotive, Inc.",
-    "website": "www.sonicautomotive.com"
+    "website": "www.sonicautomotive.com",
+    "ticker": "sah"
   },
   "331": {
     "title": "MGM Resorts International",
-    "website": "www.mgmresorts.com"
+    "website": "www.mgmresorts.com",
+    "ticker": "mgm"
   },
   "332": {
     "title": "Thrivent Financial for Lutherans",
-    "website": "www.thrivent.com"
+    "website": "www.thrivent.com",
+    "ticker": ""
   },
   "333": {
     "title": "Becton, Dickinson and Company",
-    "website": "www.bd.com"
+    "website": "www.bd.com",
+    "ticker": "bdx"
   },
   "334": {
     "title": "Campbell Soup Company",
-    "website": "www.campbellsoupcompany.com"
+    "website": "www.campbellsoupcompany.com",
+    "ticker": "cpb"
   },
   "335": {
     "title": "Boston Scientific Corporation",
-    "website": "www.bostonscientific.com"
+    "website": "www.bostonscientific.com",
+    "ticker": "bsx"
   },
   "336": {
     "title": "Dana Holding Corporation",
-    "website": "www.dana.com"
+    "website": "www.dana.com",
+    "ticker": "dan"
   },
   "337": {
     "title": "Oshkosh Corporation",
-    "website": "www.oshkoshcorporation.com"
+    "website": "www.oshkoshcorporation.com",
+    "ticker": "osk"
   },
   "338": {
     "title": "Masco Corporation",
-    "website": "www.masco.com"
+    "website": "www.masco.com",
+    "ticker": "mas"
   },
   "339": {
     "title": "Universal Health Services, Inc.",
-    "website": "www.uhsinc.com"
+    "website": "www.uhsinc.com",
+    "ticker": "uhs"
   },
   "340": {
     "title": "Ameren Corporation",
-    "website": "www.ameren.com"
+    "website": "www.ameren.com",
+    "ticker": "aee"
   },
   "341": {
     "title": "Quest Diagnostics Incorporated",
-    "website": "www.questdiagnostics.com"
+    "website": "www.questdiagnostics.com",
+    "ticker": "dgx"
   },
   "342": {
     "title": "Darden Restaurants, Inc.",
-    "website": "www.darden.com"
+    "website": "www.darden.com",
+    "ticker": "dri"
   },
   "343": {
     "title": "Regions Financial Corporation",
-    "website": "www.regions.com"
+    "website": "www.regions.com",
+    "ticker": "rf"
   },
   "344": {
     "title": "Broadcom Corporation",
-    "website": "www.broadcom.com"
+    "website": "www.broadcom.com",
+    "ticker": "brcm"
   },
   "345": {
     "title": "Owens-Illinois, Inc.",
-    "website": "www.o-i.com"
+    "website": "www.o-i.com",
+    "ticker": "oi"
   },
   "346": {
     "title": "Eastman Chemical Company",
-    "website": "www.eastman.com"
+    "website": "www.eastman.com",
+    "ticker": "emn"
   },
   "347": {
     "title": "The Pantry, Inc.",
-    "website": "www.thepantry.com"
+    "website": "www.thepantry.com",
+    "ticker": "ptry"
   },
   "348": {
     "title": "Cablevision Systems Corporation",
-    "website": "www.cablevision.com"
+    "website": "www.cablevision.com",
+    "ticker": "cvc"
   },
   "349": {
     "title": "Dole Food Company, Inc.",
-    "website": "www.dole.com"
+    "website": "www.dole.com",
+    "ticker": "dole"
   },
   "350": {
     "title": "Tenneco Inc.",
-    "website": "www.tenneco.com"
+    "website": "www.tenneco.com",
+    "ticker": "ten"
   },
   "351": {
     "title": "Charter Communications, Inc.",
-    "website": "www.charter.com"
+    "website": "www.charter.com",
+    "ticker": "chtr"
   },
   "352": {
     "title": "Spectrum Group International, Inc.",
-    "website": "www.spectrumgi.com"
+    "website": "www.spectrumgi.com",
+    "ticker": "spgz"
   },
   "353": {
     "title": "Franklin Resources, Inc.",
-    "website": "www.franklinresources.com"
+    "website": "www.franklinresources.com",
+    "ticker": "ben"
   },
   "354": {
     "title": "OfficeMax Incorporated",
-    "website": "www.officemax.com"
+    "website": "www.officemax.com",
+    "ticker": "omx"
   },
   "355": {
     "title": "BorgWarner Inc.",
-    "website": "www.borgwarner.com"
+    "website": "www.borgwarner.com",
+    "ticker": "bwa"
   },
   "356": {
     "title": "Alpha Natural Resources, Inc.",
-    "website": "www.alphanr.com"
+    "website": "www.alphanr.com",
+    "ticker": "anr"
   },
   "357": {
     "title": "Energy Future Holdings Corp.",
-    "website": "www.energyfutureholdings.com"
+    "website": "www.energyfutureholdings.com",
+    "ticker": ""
   },
   "358": {
     "title": "The Interpublic Group of Companies, Inc.",
-    "website": "www.interpublic.com"
+    "website": "www.interpublic.com",
+    "ticker": "ipg"
   },
   "359": {
     "title": "DaVita Inc.",
-    "website": "www.davita.com"
+    "website": "www.davita.com",
+    "ticker": "dva"
   },
   "360": {
     "title": "Barnes & Noble, Inc.",
-    "website": "www.barnesandnobleinc.com"
+    "website": "www.barnesandnobleinc.com",
+    "ticker": "bks"
   },
   "361": {
     "title": "Targa Resources Corp.",
-    "website": "www.targaresources.com"
+    "website": "www.targaresources.com",
+    "ticker": "trgp"
   },
   "362": {
     "title": "Cameron International Corporation",
-    "website": "www.c-a-m.com"
+    "website": "www.c-a-m.com",
+    "ticker": "cam"
   },
   "363": {
     "title": "Winn-Dixie Stores, Inc.",
-    "website": "www.winn-dixie.com"
+    "website": "www.winn-dixie.com",
+    "ticker": ""
   },
   "364": {
     "title": "Calpine Corporation",
-    "website": "www.calpine.com"
+    "website": "www.calpine.com",
+    "ticker": "cpn"
   },
   "365": {
     "title": "Ecolab Inc.",
-    "website": "www.ecolab.com"
+    "website": "www.ecolab.com",
+    "ticker": "ecl"
   },
   "366": {
     "title": "Cliffs Natural Resources Inc.",
-    "website": "www.cliffsnaturalresources.com"
+    "website": "www.cliffsnaturalresources.com",
+    "ticker": "clf"
   },
   "367": {
     "title": "Avery Dennison Corporation",
-    "website": "www.averydennison.com"
+    "website": "www.averydennison.com",
+    "ticker": "avy"
   },
   "368": {
     "title": "Celanese Corporation",
-    "website": "www.celanese.com"
+    "website": "www.celanese.com",
+    "ticker": "ce"
   },
   "369": {
     "title": "NII Holdings, Inc.",
-    "website": "www.nii.com"
+    "website": "www.nii.com",
+    "ticker": "nihd"
   },
   "370": {
     "title": "MasterCard Incorporated",
-    "website": "www.mastercard.com"
+    "website": "www.mastercard.com",
+    "ticker": "ma"
   },
   "371": {
     "title": "Jarden Corporation",
-    "website": "www.jarden.com"
+    "website": "www.jarden.com",
+    "ticker": "jah"
   },
   "372": {
     "title": "Fifth Third Bancorp",
-    "website": "www.53.com"
+    "website": "www.53.com",
+    "ticker": "fitb"
   },
   "373": {
     "title": "Dollar Tree, Inc.",
-    "website": "www.dollartree.com"
+    "website": "www.dollartree.com",
+    "ticker": "dltr"
   },
   "374": {
     "title": "Weyerhaeuser Company",
-    "website": "www.weyerhaeuser.com"
+    "website": "www.weyerhaeuser.com",
+    "ticker": "wy"
   },
   "375": {
     "title": "Agilent Technologies, Inc.",
-    "website": "www.agilent.com"
+    "website": "www.agilent.com",
+    "ticker": "a"
   },
   "376": {
     "title": "Sanmina-SCI Corporation",
-    "website": "www.sanmina.com"
+    "website": "www.sanmina.com",
+    "ticker": "sanm"
   },
   "377": {
     "title": "NuStar Energy L.P.",
-    "website": "www.nustarenergy.com"
+    "website": "www.nustarenergy.com",
+    "ticker": "ns"
   },
   "378": {
     "title": "Advanced Micro Devices, Inc.",
-    "website": "www.amd.com"
+    "website": "www.amd.com",
+    "ticker": "amd"
   },
   "379": {
     "title": "Terex Corporation",
-    "website": "www.terex.com"
+    "website": "www.terex.com",
+    "ticker": "tex"
   },
   "380": {
     "title": "CMS Energy Corporation",
-    "website": "www.cmsenergy.com"
+    "website": "www.cmsenergy.com",
+    "ticker": "cms"
   },
   "381": {
     "title": "AK Steel Holding Corporation",
-    "website": "www.aksteel.com"
+    "website": "www.aksteel.com",
+    "ticker": "aks"
   },
   "382": {
     "title": "American Family Ins. Group",
-    "website": "www.amfam.com"
+    "website": "www.amfam.com",
+    "ticker": ""
   },
   "383": {
     "title": "Dillard’s, Inc.",
-    "website": "www.dillards.com"
+    "website": "www.dillards.com",
+    "ticker": "dds"
   },
   "384": {
     "title": "The McGraw-Hill Companies, Inc.",
-    "website": "www.mhfi.com"
+    "website": "www.mhfi.com",
+    "ticker": "mhp"
   },
   "385": {
     "title": "AMERIGROUP Corporation",
-    "website": "www.amerigroupcorp.com"
+    "website": "www.amerigroupcorp.com",
+    "ticker": "agp"
   },
   "386": {
     "title": "Anixter International Inc.",
-    "website": "www.anixter.com"
+    "website": "www.anixter.com",
+    "ticker": "axe"
   },
   "387": {
     "title": "Precision Castparts Corp.",
-    "website": "www.precast.com"
+    "website": "www.precast.com",
+    "ticker": "pcp"
   },
   "388": {
     "title": "Mattel, Inc.",
-    "website": "www.mattel.com"
+    "website": "www.mattel.com",
+    "ticker": "mat"
   },
   "389": {
     "title": "Omnicare, Inc.",
-    "website": "www.omnicare.com"
+    "website": "www.omnicare.com",
+    "ticker": "ocr"
   },
   "390": {
     "title": "Corn Products International, Inc.",
-    "website": "www.ingredion.com"
+    "website": "www.ingredion.com",
+    "ticker": "cpo"
   },
   "391": {
     "title": "Symantec Corporation",
-    "website": "www.symantec.com"
+    "website": "www.symantec.com",
+    "ticker": "symc"
   },
   "392": {
     "title": "Advance Auto Parts, Inc.",
-    "website": "www.advanceautoparts.com"
+    "website": "www.advanceautoparts.com",
+    "ticker": "aap"
   },
   "393": {
     "title": "Core-Mark Holding Company, Inc.",
-    "website": "www.core-mark.com"
+    "website": "www.core-mark.com",
+    "ticker": "core"
   },
   "394": {
     "title": "CC Media Holdings, Inc.",
-    "website": "www.clearchannel.com"
+    "website": "www.clearchannel.com",
+    "ticker": "ccmo"
   },
   "395": {
     "title": "Expeditors International of Washington, Inc.",
-    "website": "www.expeditors.com"
+    "website": "www.expeditors.com",
+    "ticker": "expd"
   },
   "396": {
     "title": "Mylan Inc.",
-    "website": "www.mylan.com"
+    "website": "www.mylan.com",
+    "ticker": "myl"
   },
   "397": {
     "title": "WESCO International, Inc.",
-    "website": "www.wesco.com"
+    "website": "www.wesco.com",
+    "ticker": "wcc"
   },
   "398": {
     "title": "Cognizant Technology Solutions Corporation",
-    "website": "www.cognizant.com"
+    "website": "www.cognizant.com",
+    "ticker": "ctsh"
   },
   "399": {
     "title": "CONSOL Energy Inc.",
-    "website": "www.consolenergy.com"
+    "website": "www.consolenergy.com",
+    "ticker": "cnx"
   },
   "400": {
     "title": "PetSmart, Inc.",
-    "website": "www.petm.com"
+    "website": "www.petm.com",
+    "ticker": "petm"
   },
   "401": {
     "title": "WellCare Health Plans, Inc.",
-    "website": "www.wellcare.com"
-  },
-  "402": {
-    "title": "CF Industries Holdings, Inc.",
-    "website": "www.cfindustries.com"
-  },
-  "403": {
-    "title": "UGI Corporation",
-    "website": "www.ugicorp.com"
-  },
-  "404": {
-    "title": "The Hershey Company",
-    "website": "www.thehersheycompany.com"
-  },
-  "405": {
-    "title": "Group 1 Automotive, Inc.",
-    "website": "www.group1auto.com"
-  },
-  "406": {
-    "title": "MeadWestvaco Corporation",
-    "website": "www.mwv.com"
-  },
-  "407": {
-    "title": "Ryder System, Inc.",
-    "website": "www.ryder.com"
-  },
-  "408": {
-    "title": "Eastman Kodak Company",
-    "website": "www.kodak.com"
-  },
-  "409": {
-    "title": "NiSource Inc.",
-    "website": "www.nisource.com"
-  },
-  "410": {
-    "title": "Rockwell Automation, Inc.",
-    "website": "www.rockwellautomation.com"
-  },
-  "411": {
-    "title": "Mutual of Omaha Insurance Company",
-    "website": "www.mutualofomaha.com"
-  },
-  "412": {
-    "title": "The Shaw Group Inc.",
-    "website": "www.cbi.com"
-  },
-  "413": {
-    "title": "Harris Corporation",
-    "website": "www.harris.com"
-  },
-  "414": {
-    "title": "Newell Rubbermaid Inc.",
-    "website": "www.newellrubbermaid.com"
-  },
-  "415": {
-    "title": "Pepco Holdings, Inc.",
-    "website": "www.pepcoholdings.com"
-  },
-  "416": {
-    "title": "CBRE Group, Inc.",
-    "website": "www.cbre.com"
-  },
-  "417": {
-    "title": "Dr Pepper Snapple Group, Inc.",
-    "website": "www.drpeppersnapplegroup.com"
-  },
-  "418": {
-    "title": "Avis Budget Group, Inc.",
-    "website": "www.avisbudgetgroup.com"
-  },
-  "419": {
-    "title": "PVH Corp.",
-    "website": "www.pvh.com"
-  },
-  "420": {
-    "title": "Pacific Life",
-    "website": "www.pacificlife.com"
-  },
-  "421": {
-    "title": "General Cable Corporation",
-    "website": "www.generalcable.com"
-  },
-  "422": {
-    "title": "Exelis Inc.",
-    "website": "www.exelisinc.com"
-  },
-  "423": {
-    "title": "Health Management Associates, Inc.",
-    "website": "www.hma.com"
-  },
-  "424": {
-    "title": "O’Reilly Automotive, Inc.",
-    "website": "www.oreillyauto.com"
-  },
-  "425": {
-    "title": "Fidelity National Information Services, Inc.",
-    "website": "www.fisglobal.com"
-  },
-  "426": {
-    "title": "SLM Corporation",
-    "website": "www.salliemae.com"
-  },
-  "427": {
-    "title": "Seaboard Corporation",
-    "website": "www.seaboardcorp.com"
-  },
-  "428": {
-    "title": "EMCOR Group, Inc.",
-    "website": "www.emcorgroup.com"
-  },
-  "429": {
-    "title": "Auto-Owners Insurance Group",
-    "website": "www.auto-owners.com"
-  },
-  "430": {
-    "title": "SanDisk Corporation",
-    "website": "www.sandisk.com"
-  },
-  "431": {
-    "title": "Ralph Lauren Corporation",
-    "website": "www.ralphlauren.com"
-  },
-  "432": {
-    "title": "Mohawk Industries, Inc.",
-    "website": "www.mohawkind.com"
-  },
-  "433": {
-    "title": "Sealed Air Corporation",
-    "website": "www.sealedair.com"
-  },
-  "434": {
-    "title": "Starwood Hotels & Resorts Worldwide, Inc.",
-    "website": "www.starwoodhotels.com"
-  },
-  "435": {
-    "title": "Foot Locker, Inc.",
-    "website": "www.footlocker-inc.com"
-  },
-  "436": {
-    "title": "Domtar Corporation",
-    "website": "www.domtar.com"
-  },
-  "437": {
-    "title": "St. Jude Medical, Inc.",
-    "website": "www.sjm.com"
-  },
-  "438": {
-    "title": "Spectra Energy Corp",
-    "website": "www.spectraenergy.com"
-  },
-  "439": {
-    "title": "Booz Allen Hamilton Holding Corp.",
-    "website": "www.boozallen.com"
-  },
-  "440": {
-    "title": "CH2M HILL Companies, Ltd.",
-    "website": "www.ch2m.com"
-  },
-  "441": {
-    "title": "Kelly Services, Inc.",
-    "website": "www.kellyservices.com"
-  },
-  "442": {
-    "title": "Avaya Inc.",
-    "website": "www.avaya.com"
-  },
-  "443": {
-    "title": "Laboratory Corporation of America Holdings",
-    "website": "www.labcorp.com"
-  },
-  "444": {
-    "title": "Kindred Healthcare, Inc.",
-    "website": "www.kindredhealthcare.com"
-  },
-  "445": {
-    "title": "The Western Union Company",
-    "website": "www.westernunion.com"
-  },
-  "446": {
-    "title": "SPX Corporation",
-    "website": "www.spx.com"
-  },
-  "447": {
-    "title": "NCR Corporation",
-    "website": "www.ncr.com"
-  },
-  "448": {
-    "title": "Allergan, Inc.",
-    "website": "www.allergan.com"
-  },
-  "449": {
-    "title": "Rock-Tenn Company",
-    "website": "www.rocktenn.com"
-  },
-  "450": {
-    "title": "Live Nation Entertainment, Inc.",
-    "website": "www.livenation.com"
-  },
-  "451": {
-    "title": "Graybar Electric Company, Inc.",
-    "website": "www.graybar.com"
-  },
-  "452": {
-    "title": "Momentive Specialty Chemicals Inc.",
-    "website": "www.momentive.com"
-  },
-  "453": {
-    "title": "Centene Corporation",
-    "website": "www.centene.com"
-  },
-  "454": {
-    "title": "Owens Corning",
-    "website": "www.owenscorning.com"
-  },
-  "455": {
-    "title": "Catalyst Health Solutions, Inc.",
-    "website": "www.chsi.com"
-  },
-  "456": {
-    "title": "The Clorox Company",
-    "website": "www.thecloroxcompany.com"
-  },
-  "457": {
-    "title": "Bemis Company, Inc.",
-    "website": "www.bemis.com"
-  },
-  "458": {
-    "title": "Harley-Davidson, Inc.",
-    "website": "www.harley-davidson.com"
-  },
-  "459": {
-    "title": "Con-way Inc.",
-    "website": "www.con-way.com"
-  },
-  "460": {
-    "title": "Insight Enterprises, Inc.",
-    "website": "www.insight.com"
-  },
-  "461": {
-    "title": "Pitney Bowes Inc.",
-    "website": "www.pb.com"
-  },
-  "462": {
-    "title": "Wynn Resorts, Limited",
-    "website": "www.wynnresorts.com"
-  },
-  "463": {
-    "title": "BrightPoint, Inc.",
-    "website": "www.brightpoint.com"
-  },
-  "464": {
-    "title": "Frontier Communications Corporation",
-    "website": "www.frontier.com"
-  },
-  "465": {
-    "title": "Gannett Co., Inc.",
-    "website": "www.gannett.com"
-  },
-  "466": {
-    "title": "Dick’s Sporting Goods, Inc.",
-    "website": "www.dickssportinggoods.com"
-  },
-  "467": {
-    "title": "Big Lots, Inc.",
-    "website": "www.biglots.com"
-  },
-  "468": {
-    "title": "Allegheny Technologies Incorporated",
-    "website": "www.atimetals.com"
-  },
-  "469": {
-    "title": "Telephone and Data Systems, Inc.",
-    "website": "www.teldta.com"
-  },
-  "470": {
-    "title": "The Timken Company",
-    "website": "www.timken.com"
-  },
-  "471": {
-    "title": "W.R. Berkley Corporation",
-    "website": "www.wrberkley.com"
-  },
-  "472": {
-    "title": "Fidelity National Financial, Inc.",
-    "website": "www.fnf.com"
-  },
-  "473": {
-    "title": "Casey’s General Stores, Inc.",
-    "website": "www.caseys.com"
-  },
-  "474": {
-    "title": "NetApp, Inc.",
-    "website": "www.netapp.com"
-  },
-  "475": {
-    "title": "FMC Technologies, Inc.",
-    "website": "www.fmctechnologies.com"
-  },
-  "476": {
-    "title": "Biogen Idec Inc.",
-    "website": "www.biogenidec.com"
-  },
-  "477": {
-    "title": "CVR Energy, Inc.",
-    "website": "www.cvrenergy.com"
-  },
-  "478": {
-    "title": "United Stationers Inc.",
-    "website": "www.unitedstationers.com"
-  },
-  "479": {
-    "title": "Host Hotels & Resorts, Inc.",
-    "website": "www.hosthotels.com"
-  },
-  "480": {
-    "title": "SunGard Data Systems Inc.",
-    "website": "www.sungard.com"
-  },
-  "481": {
-    "title": "Meritor Inc.",
-    "website": "www.meritor.com"
-  },
-  "482": {
-    "title": "Western & Southern Mutual Holding Company",
-    "website": "www.westernsouthern.com"
-  },
-  "483": {
-    "title": "Yahoo! Inc.",
-    "website": "www.yahoo.com"
-  },
-  "484": {
-    "title": "Vanguard Health Systems, Inc.",
-    "website": "www.tenethealth.com"
-  },
-  "485": {
-    "title": "The Charles Schwab Corporation",
-    "website": "www.aboutschwab.com"
-  },
-  "486": {
-    "title": "Susser Holdings Corporation",
-    "website": "www.susser.com"
-  },
-  "487": {
-    "title": "YRC Worldwide Inc.",
-    "website": "www.yrcw.com"
-  },
-  "488": {
-    "title": "El Paso Corporation",
-    "website": "www.elpaso.com"
-  },
-  "489": {
-    "title": "CIT Group Inc.",
-    "website": "www.cit.com"
-  },
-  "490": {
-    "title": "MetroPCS Communications, Inc.",
-    "website": "www.metropcs.com"
-  },
-  "491": {
-    "title": "Alliant Techsystems Inc.",
-    "website": "www.atk.com"
-  },
-  "492": {
-    "title": "Celgene Corporation",
-    "website": "www.celgene.com"
-  },
-  "493": {
-    "title": "MRC Global, Inc.",
-    "website": "www.mrcglobal.com"
-  },
-  "494": {
-    "title": "Aleris Corporation",
-    "website": "www.aleris.com"
-  },
-  "495": {
-    "title": "The J.M. Smucker Company",
-    "website": "www.smucker.com"
-  },
-  "496": {
-    "title": "Rockwell Collins, Inc.",
-    "website": "www.rockwellcollins.com"
-  },
-  "497": {
-    "title": "Erie Insurance Group",
-    "website": "www.erieinsurance.com"
-  },
-  "498": {
-    "title": "Nash-Finch Company",
-    "website": "www.nashfinch.com"
-  },
-  "499": {
-    "title": "KeyCorp",
-    "website": "www.key.com"
-  },
-  "500": {
-    "title": "Molina Healthcare, Inc.",
-    "website": "www.molinahealthcare.com"
-  },
-  "501": {
-    "title": "Levi Strauss & Co.",
-    "website": "www.levistrauss.com"
-  },
-  "502": {
-    "title": "Buckeye Partners, L.P.",
-    "website": "www.buckeye.com"
-  },
-  "503": {
-    "title": "AbitibiBowater Inc.",
-    "website": "www.resolutefp.com"
-  },
-  "504": {
-    "title": "Apollo Group, Inc.",
-    "website": "www.apollogrp.edu"
-  },
-  "505": {
-    "title": "American Financial Group, Inc.",
-    "website": "www.afginc.com"
-  },
-  "506": {
-    "title": "Ralcorp Holdings, Inc.",
-    "website": "www.conagrafoods.com"
-  },
-  "507": {
-    "title": "Ryerson Holding Corporation",
-    "website": "www.ryerson.com"
-  },
-  "508": {
-    "title": "Integrys Energy Group, Inc.",
-    "website": "www.integrysgroup.com"
-  },
-  "509": {
-    "title": "Quad/Graphics, Inc.",
-    "website": "www.qg.com"
-  },
-  "510": {
-    "title": "Energizer Holdings, Inc.",
-    "website": "www.energizer.com"
-  },
-  "511": {
-    "title": "Old Republic International Corporation",
-    "website": "www.oldrepublic.com"
-  },
-  "512": {
-    "title": "Hanesbrands Inc.",
-    "website": "www.hanes.com"
-  },
-  "513": {
-    "title": "Quanta Services, Inc.",
-    "website": "www.quantaservices.com"
-  },
-  "514": {
-    "title": "Harris Teeter Supermarkets, Inc.",
-    "website": "www.thekrogerco.com"
-  },
-  "515": {
-    "title": "Watson Pharmaceuticals, Inc.",
-    "website": "www.actavis.com"
-  },
-  "516": {
-    "title": "The Jones Financial Companies,L.L.L.P.",
-    "website": "www.edwardjones.com"
-  },
-  "517": {
-    "title": "The Andersons, Inc.",
-    "website": "www.andersonsinc.com"
-  },
-  "518": {
-    "title": "Berry Plastics Corporation",
-    "website": "www.berryplastics.com"
-  },
-  "519": {
-    "title": "NYSE Euronext",
-    "website": "www.nyse.com"
-  },
-  "520": {
-    "title": "United Natural Foods, Inc.",
-    "website": "www.unfi.com"
-  },
-  "521": {
-    "title": "J.B. Hunt Transport Services, Inc.",
-    "website": "www.jbhunt.com"
-  },
-  "522": {
-    "title": "CA, Inc.",
-    "website": "www.ca.com"
-  },
-  "523": {
-    "title": "Flowserve Corporation",
-    "website": "www.flowserve.com"
-  },
-  "524": {
-    "title": "JetBlue Airways Corporation",
-    "website": "www.jetblue.com"
-  },
-  "525": {
-    "title": "Sonoco Products Company",
-    "website": "www.sonoco.com"
-  },
-  "526": {
-    "title": "Wisconsin Energy Corporation",
-    "website": "www.wisconsinenergy.com"
-  },
-  "527": {
-    "title": "Northeast Utilities",
-    "website": "www.nu.com"
-  },
-  "528": {
-    "title": "Lorillard, Inc.",
-    "website": "www.lorillard.com"
-  },
-  "529": {
-    "title": "Zimmer Holdings, Inc.",
-    "website": "www.zimmer.com"
-  },
-  "530": {
-    "title": "Juniper Networks, Inc.",
-    "website": "www.juniper.net"
-  },
-  "531": {
-    "title": "RadioShack Corporation",
-    "website": "www.radioshackcorporation.com"
-  },
-  "532": {
-    "title": "Atmos Energy Corporation",
-    "website": "www.atmosenergy.com"
-  },
-  "533": {
-    "title": "Forest Laboratories, Inc.",
-    "website": "www.frx.com"
-  },
-  "534": {
-    "title": "SCANA Corporation",
-    "website": "www.scana.com"
-  },
-  "535": {
-    "title": "Joy Global Inc.",
-    "website": "www.joyglobal.com"
-  },
-  "536": {
-    "title": "M&T Bank Corporation",
-    "website": "www.mtb.com"
-  },
-  "537": {
-    "title": "Asbury Automotive Group, Inc.",
-    "website": "www.asburyauto.com"
-  },
-  "538": {
-    "title": "Transatlantic Holdings, Inc.",
-    "website": "www.transre.com"
-  },
-  "539": {
-    "title": "priceline.com Incorporated",
-    "website": "www.pricelinegroup.com"
-  },
-  "540": {
-    "title": "Fiserv, Inc.",
-    "website": "www.fiserv.com"
-  },
-  "541": {
-    "title": "Level 3 Communications, Inc.",
-    "website": "www.level3.com"
-  },
-  "542": {
-    "title": "Alaska Air Group, Inc.",
-    "website": "www.alaskaair.com"
-  },
-  "543": {
-    "title": "Simon Property Group, Inc.",
-    "website": "www.simon.com"
-  },
-  "544": {
-    "title": "Windstream Corporation",
-    "website": "www.windstream.com"
-  },
-  "545": {
-    "title": "Arch Coal, Inc.",
-    "website": "www.archcoal.com"
-  },
-  "546": {
-    "title": "Hasbro, Inc.",
-    "website": "www.hasbro.com"
-  },
-  "547": {
-    "title": "Wyndham Worldwide Corporation",
-    "website": "www.wyndhamworldwide.com"
-  },
-  "548": {
-    "title": "Airgas, Inc.",
-    "website": "www.airgas.com"
-  },
-  "549": {
-    "title": "The Washington Post Company",
-    "website": "www.ghco.com"
-  },
-  "550": {
-    "title": "Greif",
-    "website": "www.greif.com"
-  },
-  "551": {
-    "title": "ABM Industries Incorporated",
-    "website": "www.abm.com"
-  },
-  "552": {
-    "title": "Discovery Communications, Inc.",
-    "website": "www.discoverycommunications.com"
-  },
-  "553": {
-    "title": "Tractor Supply Company",
-    "website": "www.tractorsupply.com"
-  },
-  "554": {
-    "title": "Adobe Systems Incorporated",
-    "website": "www.adobe.com"
-  },
-  "555": {
-    "title": "Michaels Stores, Inc.",
-    "website": "www.michaels.com"
-  },
-  "556": {
-    "title": "Graphic Packaging Holding Company",
-    "website": "www.graphicpkg.com"
-  },
-  "557": {
-    "title": "Lexmark International, Inc.",
-    "website": "www.lexmark.com"
-  },
-  "558": {
-    "title": "Northern Trust Corporation",
-    "website": "www.northerntrust.com"
-  },
-  "559": {
-    "title": "VWR Funding, Inc.",
-    "website": "www.vwr.com"
-  },
-  "560": {
-    "title": "Coach, Inc.",
-    "website": "www.coach.com"
-  },
-  "561": {
-    "title": "Abercrombie & Fitch Co.",
-    "website": "www.abercrombie.com"
-  },
-  "562": {
-    "title": "PulteGroup, Inc.",
-    "website": "www.pultegroupinc.com"
-  },
-  "563": {
-    "title": "CNO Financial Group, Inc.",
-    "website": "www.cnoinc.com"
-  },
-  "564": {
-    "title": "Domus Holdings Corp.",
-    "website": "www.realogy.com"
-  },
-  "565": {
-    "title": "Expedia, Inc.",
-    "website": "www.expediainc.com"
-  },
-  "566": {
-    "title": "Hospira, Inc.",
-    "website": "www.hospira.com"
-  },
-  "567": {
-    "title": "MDU Resources Group, Inc.",
-    "website": "www.mdu.com"
-  },
-  "568": {
-    "title": "Neiman Marcus, Inc.",
-    "website": "www.neimanmarcus.com"
-  },
-  "569": {
-    "title": "WPX Energy, Inc.",
-    "website": "www.wpxenergy.com"
-  },
-  "570": {
-    "title": "NVIDIA Corporation",
-    "website": "www.nvidia.com"
-  },
-  "571": {
-    "title": "The Valspar Corporation",
-    "website": "www.valsparglobal.com"
-  },
-  "572": {
-    "title": "Factory Mutual Insurance Company",
-    "website": "www.fmglobal.com"
-  },
-  "573": {
-    "title": "Amphenol Corporation",
-    "website": "www.amphenol.com"
-  },
-  "574": {
-    "title": "The Hanover Insurance Group, Inc.",
-    "website": "www.hanover.com"
-  },
-  "575": {
-    "title": "Cooper Tire & Rubber Company",
-    "website": "www.coopertire.com"
-  },
-  "576": {
-    "title": "OGE Energy Corp.",
-    "website": "www.oge.com"
-  },
-  "577": {
-    "title": "The Brink’s Company",
-    "website": "www.brinks.com"
-  },
-  "578": {
-    "title": "CareFusion Corporation",
-    "website": "www.carefusion.com"
-  },
-  "579": {
-    "title": "Unisys Corporation",
-    "website": "www.unisys.com"
-  },
-  "580": {
-    "title": "Intuit Inc.",
-    "website": "www.intuit.com"
-  },
-  "581": {
-    "title": "Unified Grocers, Inc.",
-    "website": "www.unifiedgrocers.com"
-  },
-  "582": {
-    "title": "Roundy’s, Inc.",
-    "website": "www.roundys.com"
-  },
-  "583": {
-    "title": "Burlington Coat Factory Investments Holdings, Inc.",
-    "website": "www.burlingtonstores.com"
-  },
-  "584": {
-    "title": "The First American Financial Corporation",
-    "website": "www.firstam.com"
-  },
-  "585": {
-    "title": "Cintas Corporation",
-    "website": "www.cintas.com"
-  },
-  "586": {
-    "title": "Xylem Inc.",
-    "website": "www.xyleminc.com"
-  },
-  "587": {
-    "title": "Cincinnati Financial Corporation",
-    "website": "www.cinfin.com"
-  },
-  "588": {
-    "title": "The Jones Group Inc.",
-    "website": "www.jonesgroupinc.com"
-  },
-  "589": {
-    "title": "Robert Half International Inc.",
-    "website": "www.roberthalf.com"
-  },
-  "590": {
-    "title": "Life Technologies Corporation",
-    "website": "www.lifetechnologies.com"
-  },
-  "591": {
-    "title": "H&R Block, Inc.",
-    "website": "www.hrblock.com"
-  },
-  "592": {
-    "title": "Harman International Industries, Incorporated",
-    "website": "www.harman.com"
-  },
-  "593": {
-    "title": "Noble Energy, Inc.",
-    "website": "www.nobleenergyinc.com"
-  },
-  "594": {
-    "title": "Brunswick Corporation",
-    "website": "www.brunswick.com"
-  },
-  "595": {
-    "title": "Delta Tucker Holdings, Inc.",
-    "website": "www.dyn-intl.com"
-  },
-  "596": {
-    "title": "Williams-Sonoma, Inc.",
-    "website": "www.williams-sonomainc.com"
-  },
-  "597": {
-    "title": "Tutor Perini Corporation",
-    "website": "www.tutorperini.com"
-  },
-  "598": {
-    "title": "Facebook, Inc.",
-    "website": "www.facebook.com"
-  },
-  "599": {
-    "title": "Belk, Inc.",
-    "website": "www.belk.com"
-  },
-  "600": {
-    "title": "Hyatt Hotels Corporation",
-    "website": "www.hyatt.com"
-  },
-  "601": {
-    "title": "McCormick & Company, Incorporated",
-    "website": "www.mccormickcorporation.com"
-  },
-  "602": {
-    "title": "Stater Bros. Holdings Inc.",
-    "website": "www.staterbros.com"
-  },
-  "603": {
-    "title": "Systemax Inc.",
-    "website": "www.systemax.com"
-  },
-  "604": {
-    "title": "Mead Johnson Nutrition Company",
-    "website": "www.meadjohnson.com"
-  },
-  "605": {
-    "title": "Rockwood Holdings, Inc.",
-    "website": "www.rocksp.com"
-  },
-  "606": {
-    "title": "Alliant Energy Corporation",
-    "website": "www.alliantenergy.com"
-  },
-  "607": {
-    "title": "Del Monte Corporation",
-    "website": "www.delmontefoods.com"
-  },
-  "608": {
-    "title": "The Manitowoc Company, Inc.",
-    "website": "www.manitowoc.com"
-  },
-  "609": {
-    "title": "Skywest, Inc.",
-    "website": "www.skywest.com"
-  },
-  "610": {
-    "title": "Tiffany & Co.",
-    "website": "www.tiffany.com"
-  },
-  "611": {
-    "title": "D.R. Horton, Inc.",
-    "website": "www.drhorton.com"
-  },
-  "612": {
-    "title": "Leggett & Platt, Incorporated",
-    "website": "www.leggett.com"
-  },
-  "613": {
-    "title": "Westlake Chemical Corporation",
-    "website": "www.westlake.com"
-  },
-  "614": {
-    "title": "GenOn Energy, Inc.",
-    "website": "www.genon.com"
-  },
-  "615": {
-    "title": "Electronic Arts Inc.",
-    "website": "www.ea.com"
-  },
-  "616": {
-    "title": "Molex Incorporated",
-    "website": "www.molex.com"
-  },
-  "617": {
-    "title": "Jones Lang LaSalle Incorporated",
-    "website": "www.jll.com"
-  },
-  "618": {
-    "title": "CACI International Inc.",
-    "website": "www.caci.com"
-  },
-  "619": {
-    "title": "Protective Life Corporation",
-    "website": "www.protective.com"
-  },
-  "620": {
-    "title": "Ingles Markets, Incorporated",
-    "website": "www.ingles-markets.com"
-  },
-  "621": {
-    "title": "Green Plains Renewable Energy, Inc.",
-    "website": "www.gpreinc.com"
-  },
-  "622": {
-    "title": "LifePoint Hospitals, Inc.",
-    "website": "www.lifepointhospitals.com"
-  },
-  "623": {
-    "title": "Pioneer Natural Resources Company",
-    "website": "www.pxd.com"
-  },
-  "624": {
-    "title": "Jefferies Group, Inc.",
-    "website": "www.leucadia.com"
-  },
-  "625": {
-    "title": "Molson Coors Brewing Company",
-    "website": "www.molsoncoors.com"
-  },
-  "626": {
-    "title": "Silgan Holdings Inc.",
-    "website": "www.silganholdings.com"
-  },
-  "627": {
-    "title": "LPL Investment Holdings Inc.",
-    "website": "www.lpl.com"
-  },
-  "628": {
-    "title": "Oil States International, Inc.",
-    "website": "www.oilstatesintl.com"
-  },
-  "629": {
-    "title": "Harbinger Group Inc.",
-    "website": "www.harbingergroupinc.com"
-  },
-  "630": {
-    "title": "Collective Brands, Inc.",
-    "website": "www.collectivebrands.com"
-  },
-  "631": {
-    "title": "Schnitzer Steel Industries, Inc.",
-    "website": "www.schnitzersteel.com"
-  },
-  "632": {
-    "title": "Pentair, Inc.",
-    "website": "www.pentair.com"
-  },
-  "633": {
-    "title": "ON Semiconductor Corporation",
-    "website": "www.onsemi.com"
-  },
-  "634": {
-    "title": "The NASDAQ OMX Group, Inc.",
-    "website": "www.nasdaqomx.com"
-  },
-  "635": {
-    "title": "Patterson Companies, Inc.",
-    "website": "www.pattersoncompanies.com"
-  },
-  "636": {
-    "title": "Raymond James Financial, Inc.",
-    "website": "www.raymondjames.com"
-  },
-  "637": {
-    "title": "RPM International Inc.",
-    "website": "www.rpminc.com"
-  },
-  "638": {
-    "title": "FMC Corporation",
-    "website": "www.fmc.com"
-  },
-  "639": {
-    "title": "Torchmark Corporation",
-    "website": "www.torchmarkcorp.com"
-  },
-  "640": {
-    "title": "TECO Energy, Inc.",
-    "website": "www.tecoenergy.com"
-  },
-  "641": {
-    "title": "Swift Transportation Company",
-    "website": "www.swifttrans.com"
-  },
-  "642": {
-    "title": "Constellation Brands, Inc.",
-    "website": "www.cbrands.com"
-  },
-  "643": {
-    "title": "NACCO Industries, Inc.",
-    "website": "www.nacco.com"
-  },
-  "644": {
-    "title": "Fortune Brands Home & Security, Inc.",
-    "website": "www.fbhs.com"
-  },
-  "645": {
-    "title": "COUNTRY Financial",
-    "website": "www.countryfinancial.com"
-  },
-  "646": {
-    "title": "Puget Energy, Inc.",
-    "website": "www.pugetenergy.com"
-  },
-  "647": {
-    "title": "Lennox International Inc.",
-    "website": "www.lennoxinternational.com"
-  },
-  "648": {
-    "title": "Cabot Corporation",
-    "website": "www.cabot-corp.com"
-  },
-  "649": {
-    "title": "Harsco Corporation",
-    "website": "www.harsco.com"
-  },
-  "650": {
-    "title": "The ServiceMaster Company",
-    "website": "www.servicemaster.com"
-  },
-  "651": {
-    "title": "CME Group Inc.",
-    "website": "www.cmegroup.com"
-  },
-  "652": {
-    "title": "Securian Financial Group, Inc.",
-    "website": "www.securian.com"
-  },
-  "653": {
-    "title": "Pinnacle West Capital Corporation",
-    "website": "www.pinnaclewest.com"
-  },
-  "654": {
-    "title": "LKQ Corporation",
-    "website": "www.lkqcorp.com"
-  },
-  "655": {
-    "title": "Sally Beauty Holdings, Inc.",
-    "website": "www.sallybeautyholdings.com"
-  },
-  "656": {
-    "title": "Towers Watson & Co.",
-    "website": "www.towerswatson.com"
-  },
-  "657": {
-    "title": "The Blackstone Group L.P.",
-    "website": "www.blackstone.com"
-  },
-  "658": {
-    "title": "Carlisle Companies Incorporated",
-    "website": "www.carlisle.com"
-  },
-  "659": {
-    "title": "Hawaiian Electric Industries, Inc.",
-    "website": "www.hei.com"
-  },
-  "660": {
-    "title": "Lam Research Corporation",
-    "website": "www.lamrc.com"
-  },
-  "661": {
-    "title": "Georgia Gulf Corporation",
-    "website": "www.axiall.com"
-  },
-  "662": {
-    "title": "Adams Resources & Energy, Inc.",
-    "website": "www.adamsresources.com"
-  },
-  "663": {
-    "title": "W.R. Grace & Co.",
-    "website": "www.grace.com"
-  },
-  "664": {
-    "title": "Netflix, Inc.",
-    "website": "www.netflix.com"
-  },
-  "665": {
-    "title": "HSN, Inc.",
-    "website": "www.hsni.com"
-  },
-  "666": {
-    "title": "KLA-Tencor Corporation",
-    "website": "www.kla-tencor.com"
-  },
-  "667": {
-    "title": "Alliance Data Systems Corporation",
-    "website": "www.alliancedata.com"
-  },
-  "668": {
-    "title": "Cytec Industries Inc.",
-    "website": "www.cytec.com"
-  },
-  "669": {
-    "title": "American Eagle Outfitters, Inc.",
-    "website": "www.ae.com"
-  },
-  "670": {
-    "title": "QEP Resources, Inc.",
-    "website": "www.qepres.com"
-  },
-  "671": {
-    "title": "PHH Corporation",
-    "website": "www.phh.com"
-  },
-  "672": {
-    "title": "Team Health Holdings, Inc.",
-    "website": "www.teamhealth.com"
-  },
-  "673": {
-    "title": "Chiquita Brands International, Inc.",
-    "website": "www.chiquita.com"
-  },
-  "674": {
-    "title": "Calumet Specialty Products Partners, L.P.",
-    "website": "www.calumetspecialty.com"
-  },
-  "675": {
-    "title": "Iron Mountain Incorporated",
-    "website": "www.ironmountain.com"
-  },
-  "676": {
-    "title": "Emergency Medical Services Corporation",
-    "website": "www.evhc.net"
-  },
-  "677": {
-    "title": "Universal American Corp.",
-    "website": "www.universalamerican.com"
-  },
-  "678": {
-    "title": "Lennar Corporation",
-    "website": "www.lennar.com"
-  },
-  "679": {
-    "title": "Genesis Energy, L.P.",
-    "website": "www.genesisenergy.com"
-  },
-  "680": {
-    "title": "Trinity Industries, Inc.",
-    "website": "www.trin.net"
-  },
-  "681": {
-    "title": "Leap Wireless International, Inc.",
-    "website": "www.att.com"
-  },
-  "682": {
-    "title": "American Tire Distributors Holdings, Inc.",
-    "website": "www.atd-us.com"
-  },
-  "683": {
-    "title": "Chemtura Corporation",
-    "website": "www.chemtura.com"
-  },
-  "684": {
-    "title": "USG Corporation",
-    "website": "www.usg.com"
-  },
-  "685": {
-    "title": "American National Insurance Company",
-    "website": "www.anico.com"
-  },
-  "686": {
-    "title": "Sirius XM Radio Inc.",
-    "website": "www.siriusxm.com"
-  },
-  "687": {
-    "title": "Saks Incorporated",
-    "website": "www.saksincorporated.com"
-  },
-  "688": {
-    "title": "New Jersey Resources Corporation",
-    "website": "www.njresources.com"
-  },
-  "689": {
-    "title": "MasTec, Inc.",
-    "website": "www.mastec.com"
-  },
-  "690": {
-    "title": "Analog Devices, Inc.",
-    "website": "www.analog.com"
-  },
-  "691": {
-    "title": "AMETEK, Inc.",
-    "website": "www.ametek.com"
-  },
-  "692": {
-    "title": "CMFG Life Insurance Company",
-    "website": "www.cunamutual.com"
-  },
-  "693": {
-    "title": "Snap-on Incorporated",
-    "website": "www.snapon.com"
-  },
-  "694": {
-    "title": "The Wendy’s Company",
-    "website": "www.aboutwendys.com"
-  },
-  "695": {
-    "title": "Watsco, Inc.",
-    "website": "www.watsco.com"
-  },
-  "696": {
-    "title": "Vornado Realty Trust",
-    "website": "www.vno.com"
-  },
-  "697": {
-    "title": "The Bon-Ton Stores, Inc.",
-    "website": "www.bonton.com"
-  },
-  "698": {
-    "title": "Southwestern Energy Company",
-    "website": "www.swn.com"
-  },
-  "699": {
-    "title": "The Babcock & Wilcox Company",
-    "website": "www.babcock.com"
-  },
-  "700": {
-    "title": "Huntington Bancshares Incorporated",
-    "website": "www.huntington.com"
-  },
-  "701": {
-    "title": "NV Energy, Inc.",
-    "website": "www.nvenergy.com"
-  },
-  "702": {
-    "title": "United Refining Company",
-    "website": "www.urc.com"
-  },
-  "703": {
-    "title": "NStar",
-    "website": "www.nu.com"
-  },
-  "704": {
-    "title": "The Scotts Miracle-Gro Company",
-    "website": "www.scotts.com"
-  },
-  "705": {
-    "title": "Ascena Retail Group, Inc.",
-    "website": "www.ascenaretail.com"
-  },
-  "706": {
-    "title": "Triumph Group, Inc.",
-    "website": "www.triumphgroup.com"
-  },
-  "707": {
-    "title": "C.R. Bard, Inc.",
-    "website": "www.crbard.com"
-  },
-  "708": {
-    "title": "Education Management Corporation",
-    "website": "www.edmc.com"
-  },
-  "709": {
-    "title": "Exide Technologies",
-    "website": "www.exide.com"
-  },
-  "710": {
-    "title": "Rent-A-Center, Inc.",
-    "website": "www.rentacenter.com"
-  },
-  "711": {
-    "title": "StanCorp Financial Group, Inc.",
-    "website": "www.stancorpfinancial.com"
-  },
-  "712": {
-    "title": "Hubbell Incorporated",
-    "website": "www.hubbell.com"
-  },
-  "713": {
-    "title": "ManTech International Corporation",
-    "website": "www.mantech.com"
-  },
-  "714": {
-    "title": "Albemarle Corporation",
-    "website": "www.albemarle.com"
-  },
-  "715": {
-    "title": "Warner Music Group Corp.",
-    "website": "www.wmg.com"
-  },
-  "716": {
-    "title": "Republic Airways Holdings Inc.",
-    "website": "www.rjet.com"
-  },
-  "717": {
-    "title": "PolyOne Corporation",
-    "website": "www.polyone.com"
-  },
-  "718": {
-    "title": "Armstrong World Industries, Inc.",
-    "website": "www.armstrong.com"
-  },
-  "719": {
-    "title": "Cooper-Standard Holdings Inc.",
-    "website": "www.cooperstandard.com"
-  },
-  "720": {
-    "title": "American Water Works Company, Inc.",
-    "website": "www.amwater.com"
-  },
-  "721": {
-    "title": "Diebold, Incorporated",
-    "website": "www.diebold.com"
-  },
-  "722": {
-    "title": "Cabela’s Incorporated",
-    "website": "www.cabelas.com"
-  },
-  "723": {
-    "title": "General Growth Properties, Inc.",
-    "website": "www.ggp.com"
-  },
-  "724": {
-    "title": "Regal Beloit Corporation",
-    "website": "www.regalbeloit.com"
-  },
-  "725": {
-    "title": "Select Medical Holdings Corporation",
-    "website": "www.selectmedicalholdings.com"
-  },
-  "726": {
-    "title": "Magellan Health Services, Inc.",
-    "website": "www.magellanhealth.com"
-  },
-  "727": {
-    "title": "Roper Industries, Inc.",
-    "website": "www.roperind.com"
-  },
-  "728": {
-    "title": "WABCO Holdings Inc.",
-    "website": "www.wabco-auto.com"
-  },
-  "729": {
-    "title": "International Flavors & Fragrances Inc.",
-    "website": "www.iff.com"
-  },
-  "730": {
-    "title": "Iasis Healthcare LLC",
-    "website": "www.iasishealthcare.com"
-  },
-  "731": {
-    "title": "Legg Mason, Inc.",
-    "website": "www.leggmason.com"
-  },
-  "732": {
-    "title": "Mercury General Corporation",
-    "website": "www.mercuryinsurance.com"
-  },
-  "733": {
-    "title": "Amkor Technology, Inc.",
-    "website": "www.amkor.com"
-  },
-  "734": {
-    "title": "Flowers Foods, Inc.",
-    "website": "www.flowersfoods.com"
-  },
-  "735": {
-    "title": "Perrigo Company",
-    "website": "www.perrigo.com"
-  },
-  "736": {
-    "title": "TD Ameritrade Holding Corporation",
-    "website": "www.amtd.com"
-  },
-  "737": {
-    "title": "Fastenal Company",
-    "website": "www.fastenal.com"
-  },
-  "738": {
-    "title": "First Solar, Inc.",
-    "website": "www.firstsolar.com"
-  },
-  "739": {
-    "title": "Lithia Motors, Inc.",
-    "website": "www.lithia.com"
-  },
-  "740": {
-    "title": "EchoStar Corporation",
-    "website": "www.echostar.com"
-  },
-  "741": {
-    "title": "Brinker International, Inc.",
-    "website": "www.brinker.com"
-  },
-  "742": {
-    "title": "TPC Group Inc.",
-    "website": "www.tpcgrp.com"
-  },
-  "743": {
-    "title": "Thor Industries, Inc.",
-    "website": "www.thorindustries.com"
-  },
-  "744": {
-    "title": "Weis Markets, Inc.",
-    "website": "www.weismarkets.com"
-  },
-  "745": {
-    "title": "Hub Group, Inc.",
-    "website": "www.hubgroup.com"
-  },
-  "746": {
-    "title": "WGL Holdings, Inc.",
-    "website": "www.wglholdings.com"
-  },
-  "747": {
-    "title": "Church & Dwight Co., Inc.",
-    "website": "www.churchdwight.com"
-  },
-  "748": {
-    "title": "T. Rowe Price Group, Inc.",
-    "website": "www.troweprice.com"
-  },
-  "749": {
-    "title": "Penn National Gaming, Inc.",
-    "website": "www.pngaming.com"
-  },
-  "750": {
-    "title": "Pall Corporation",
-    "website": "www.pall.com"
-  },
-  "751": {
-    "title": "Biomet, Inc.",
-    "website": "www.biomet.com"
-  },
-  "752": {
-    "title": "Endo Pharmaceuticals Holdings Inc.",
-    "website": "www.endo.com"
-  },
-  "753": {
-    "title": "MEMC Electronic Materials, Inc.",
-    "website": "www.sunedison.com"
-  },
-  "754": {
-    "title": "Lincoln Electric Holdings, Inc.",
-    "website": "www.lincolnelectric.com"
-  },
-  "755": {
-    "title": "Guess?, Inc.",
-    "website": "www.guess.com"
-  },
-  "756": {
-    "title": "Zions Bancorporation",
-    "website": "www.zionsbancorporation.com"
-  },
-  "757": {
-    "title": "Exterran Holdings, Inc.",
-    "website": "www.exterran.com"
-  },
-  "758": {
-    "title": "Regal Entertainment Group",
-    "website": "www.regmovies.com"
-  },
-  "759": {
-    "title": "NVR, Inc.",
-    "website": "www.nvrinc.com"
-  },
-  "760": {
-    "title": "ScanSource, Inc.",
-    "website": "www.scansourceinc.com"
-  },
-  "761": {
-    "title": "Southern Union Company",
-    "website": "www.sug.com"
-  },
-  "762": {
-    "title": "Valmont Industries, Inc.",
-    "website": "www.valmont.com"
-  },
-  "763": {
-    "title": "TMS International Corp.",
-    "website": "www.tmsinternationalcorp.com"
-  },
-  "764": {
-    "title": "Polaris Industries Inc.",
-    "website": "www.polaris.com"
-  },
-  "765": {
-    "title": "National Life Group",
-    "website": "www.nationallifegroup.com"
-  },
-  "766": {
-    "title": "Green Mountain Coffee Roasters",
-    "website": "www.gmcr.com"
-  },
-  "767": {
-    "title": "Landstar System, Inc.",
-    "website": "www.landstar.com"
-  },
-  "768": {
-    "title": "Momentive Performance Materials Inc.",
-    "website": "www.momentive.com"
-  },
-  "769": {
-    "title": "Markel Corporation",
-    "website": "www.markelcorp.com"
-  },
-  "770": {
-    "title": "Packaging Corporation of America",
-    "website": "www.packagingcorp.com"
-  },
-  "771": {
-    "title": "United Rentals, Inc.",
-    "website": "www.ur.com"
-  },
-  "772": {
-    "title": "Brown Shoe Company, Inc.",
-    "website": "www.brownshoe.com"
-  },
-  "773": {
-    "title": "Comerica Incorporated",
-    "website": "www.comerica.com"
-  },
-  "774": {
-    "title": "Varian Medical Systems, Inc.",
-    "website": "www.varian.com"
-  },
-  "775": {
-    "title": "Vishay Intertechnology, Inc.",
-    "website": "www.vishay.com"
-  },
-  "776": {
-    "title": "Brown-Forman Corporation",
-    "website": "www.brown-forman.com"
-  },
-  "777": {
-    "title": "American Axle & Manufacturing Holdings, Inc.",
-    "website": "www.aam.com"
-  },
-  "779": {
-    "title": "Rush Enterprises, Inc.",
-    "website": "www.rushenterprises.com"
-  },
-  "780": {
-    "title": "Tetra Tech, Inc.",
-    "website": "www.tetratech.com"
-  },
-  "781": {
-    "title": "Universal Corporation",
-    "website": "www.universalcorp.com"
-  },
-  "782": {
-    "title": "Walter Energy, Inc.",
-    "website": "www.walterenergy.com"
-  },
-  "783": {
-    "title": "Fossil, Inc.",
-    "website": "www.fossilgroup.com"
-  },
-  "784": {
-    "title": "Patterson-UTI Energy, Inc.",
-    "website": "www.patenergy.com"
-  },
-  "785": {
-    "title": "Vulcan Materials Company",
-    "website": "www.vulcanmaterials.com"
-  },
-  "786": {
-    "title": "Crane Co.",
-    "website": "www.craneco.com"
-  },
-  "787": {
-    "title": "Helmerich & Payne, Inc.",
-    "website": "www.hpinc.com"
-  },
-  "788": {
-    "title": "DENTSPLY International Inc.",
-    "website": "www.dentsply.com"
-  },
-  "789": {
-    "title": "Kemper Corporation",
-    "website": "www.kemper.com"
-  },
-  "790": {
-    "title": "Spartan Stores, Inc.",
-    "website": "www.spartanstores.com"
-  },
-  "791": {
-    "title": "The Warnaco Group, Inc.",
-    "website": "www.warnaco.com"
-  },
-  "792": {
-    "title": "Sigma-Aldrich Corporation",
-    "website": "www.sigma-aldrich.com"
-  },
-  "793": {
-    "title": "BE Aerospace, Inc.",
-    "website": "www.beaerospace.com"
-  },
-  "794": {
-    "title": "Popular, Inc.",
-    "website": "www.popular.com"
-  },
-  "795": {
-    "title": "West Corporation",
-    "website": "www.west.com"
-  },
-  "796": {
-    "title": "Urban Outfitters, Inc.",
-    "website": "www.urbanoutfittersinc.com"
-  },
-  "797": {
-    "title": "Maxim Integrated Products, Inc.",
-    "website": "www.maximintegrated.com"
-  },
-  "798": {
-    "title": "Newfield Exploration Company",
-    "website": "www.newfield.com"
-  },
-  "799": {
-    "title": "Pinnacle Foods Finance LLC",
-    "website": "www.pinnaclefoods.com"
-  },
-  "800": {
-    "title": "Brookdale Senior Living Inc.",
-    "website": "www.brookdale.com"
-  },
-  "801": {
-    "title": "American Tower Corporation",
-    "website": "www.americantower.com"
-  },
-  "802": {
-    "title": "Worthington Industries, Inc.",
-    "website": "www.worthingtonindustries.com"
-  },
-  "803": {
-    "title": "Steelcase Inc.",
-    "website": "www.steelcase.com"
-  },
-  "804": {
-    "title": "Cracker Barrel Old Country Store, Inc.",
-    "website": "www.crackerbarrel.com"
-  },
-  "805": {
-    "title": "Itron, Inc.",
-    "website": "www.itron.com"
-  },
-  "806": {
-    "title": "Ferrellgas Partners, L.P.",
-    "website": "www.ferrellgas.com"
-  },
-  "807": {
-    "title": "AMC Entertainment, Inc.",
-    "website": "www.amctheatres.com"
-  },
-  "808": {
-    "title": "Mueller Industries, Inc.",
-    "website": "www.muellerindustries.com"
-  },
-  "809": {
-    "title": "Tower International, Inc.",
-    "website": "www.towerinternational.com"
-  },
-  "810": {
-    "title": "Boise Inc.",
-    "website": "www.boiseinc.com"
-  },
-  "811": {
-    "title": "Kennametal Inc.",
-    "website": "www.kennametal.com"
-  },
-  "812": {
-    "title": "Patriot Coal Corporation",
-    "website": "www.patriotcoal.com"
-  },
-  "813": {
-    "title": "Medical Mutual of Ohio",
-    "website": "www.medmutual.com"
-  },
-  "814": {
-    "title": "DST Systems",
-    "website": "www.dstsystems.com"
-  },
-  "815": {
-    "title": "Alere Inc.",
-    "website": "www.alere.com"
-  },
-  "816": {
-    "title": "The Men’s Wearhouse, Inc.",
-    "website": "www.menswearhouse.com"
-  },
-  "817": {
-    "title": "Sentry Insurance Group",
-    "website": "www.sentry.com"
-  },
-  "818": {
-    "title": "HCC Insurance Holdings, Inc.",
-    "website": "www.hcc.com"
-  },
-  "819": {
-    "title": "Gardner Denver, Inc.",
-    "website": "www.gardnerdenver.com"
-  },
-  "820": {
-    "title": "Xilinx, Inc.",
-    "website": "www.xilinx.com"
-  },
-  "821": {
-    "title": "Teradata Corporation",
-    "website": "www.teradata.com"
-  },
-  "822": {
-    "title": "Tops Holding Corporation",
-    "website": "www.topsmarkets.com"
-  },
-  "823": {
-    "title": "E*Trade Financial Corporation",
-    "website": "www.etrade.com"
-  },
-  "824": {
-    "title": "Aeropostale",
-    "website": "www.aeropostale.com"
-  },
-  "825": {
-    "title": "AGL Resources Inc.",
-    "website": "www.aglresources.com"
-  },
-  "826": {
-    "title": "Aptargroup, Inc.",
-    "website": "www.aptar.com"
-  },
-  "827": {
-    "title": "Boyd Gaming Corporation",
-    "website": "www.boydgaming.com"
-  },
-  "828": {
-    "title": "Burger King Holdings, Inc.",
-    "website": "www.bk.com"
-  },
-  "829": {
-    "title": "Moog Inc.",
-    "website": "www.moog.com"
-  },
-  "830": {
-    "title": "Regis Corporation",
-    "website": "www.regiscorp.com"
-  },
-  "831": {
-    "title": "Vectren Corporation",
-    "website": "www.vectren.com"
-  },
-  "832": {
-    "title": "The New York Times Company",
-    "website": "www.nytco.com"
-  },
-  "833": {
-    "title": "Great Plains Energy Incorporated",
-    "website": "www.greatplainsenergy.com"
-  },
-  "834": {
-    "title": "Service Corporation International",
-    "website": "www.sci-corp.com"
-  },
-  "835": {
-    "title": "SunPower Corporation",
-    "website": "www.sunpower.com"
-  },
-  "836": {
-    "title": "Dresser-Rand Group Inc.",
-    "website": "www.dresser-rand.com"
-  },
-  "837": {
-    "title": "Beam Inc.",
-    "website": "www.beamglobal.com"
-  },
-  "838": {
-    "title": "Mettler-Toledo International Inc.",
-    "website": "www.mt.com"
-  },
-  "839": {
-    "title": "Denbury Resources Inc.",
-    "website": "www.denbury.com"
-  },
-  "840": {
-    "title": "Apria Healthcare Group Inc.",
-    "website": "www.apria.com"
-  },
-  "841": {
-    "title": "Thomas & Betts Corporation",
-    "website": "www.tnb.com"
-  },
-  "842": {
-    "title": "Donaldson Company, Inc.",
-    "website": "www.donaldson.com"
-  },
-  "843": {
-    "title": "Genesco Inc.",
-    "website": "www.genesco.com"
-  },
-  "844": {
-    "title": "Complete Production Services, Inc.",
-    "website": "www.superiorenergy.com"
-  },
-  "845": {
-    "title": "Hudson City Bancorp, Inc.",
-    "website": "www.hcsbonline.com"
-  },
-  "846": {
-    "title": "Moody’s Corporation",
-    "website": "www.moodys.com"
-  },
-  "847": {
-    "title": "Cinemark Holdings, Inc.",
-    "website": "www.cinemark.com"
-  },
-  "848": {
-    "title": "Univision Communications Inc.",
-    "website": "www.univision.net"
-  },
-  "849": {
-    "title": "Chipotle Mexican Grill, Inc.",
-    "website": "www.chipotle.com"
-  },
-  "850": {
-    "title": "salesforce.com, inc.",
-    "website": "www.salesforce.com"
-  },
-  "851": {
-    "title": "Convergys Corporation",
-    "website": "www.convergys.com"
-  },
-  "852": {
-    "title": "LSI Corporation",
-    "website": "www.lsi.com"
-  },
-  "853": {
-    "title": "Benchmark Electronics, Inc.",
-    "website": "www.bench.com"
-  },
-  "854": {
-    "title": "KKR & Co. L.P.",
-    "website": "www.kkr.com"
-  },
-  "855": {
-    "title": "Boise Cascade Holdings, L.L.C.",
-    "website": "www.bc.com"
-  },
-  "856": {
-    "title": "A.O. Smith Corporation",
-    "website": "www.aosmith.com"
-  },
-  "857": {
-    "title": "Amerco",
-    "website": "www.amerco.com"
-  },
-  "858": {
-    "title": "Covance Inc.",
-    "website": "www.covance.com"
-  },
-  "859": {
-    "title": "Valassis Communications, Inc.",
-    "website": "www.valassis.com"
-  },
-  "860": {
-    "title": "MF Global Holdings Ltd.",
-    "website": "www.mfglobal.com"
-  },
-  "861": {
-    "title": "Plexus Corp.",
-    "website": "www.plexus.com"
-  },
-  "862": {
-    "title": "Autodesk, Inc.",
-    "website": "www.autodesk.com"
-  },
-  "863": {
-    "title": "Applied Industrial Technologies, Inc.",
-    "website": "www.applied.com"
-  },
-  "864": {
-    "title": "ANN Inc.",
-    "website": "www.anninc.com"
-  },
-  "865": {
-    "title": "Liz Claiborne, Inc.",
-    "website": "www.katespadeandcompany.com"
-  },
-  "866": {
-    "title": "Citrix Systems, Inc.",
-    "website": "www.citrix.com"
-  },
-  "867": {
-    "title": "Cerner Corporation",
-    "website": "www.cerner.com"
-  },
-  "868": {
-    "title": "AOL Inc.",
-    "website": "www.corp.aol.com"
-  },
-  "869": {
-    "title": "Chico’s FAS, Inc.",
-    "website": "www.chicosfas.com"
-  },
-  "870": {
-    "title": "Jack in the Box Inc.",
-    "website": "www.jackinthebox.com"
-  },
-  "871": {
-    "title": "A. Schulman, Inc.",
-    "website": "www.aschulman.com"
-  },
-  "872": {
-    "title": "Oceaneering International, Inc.",
-    "website": "www.oceaneering.com"
-  },
-  "873": {
-    "title": "DeVry Inc.",
-    "website": "www.devryinc.com"
-  },
-  "874": {
-    "title": "Westar Energy, Inc.",
-    "website": "www.westarenergy.com"
-  },
-  "875": {
-    "title": "Broadridge Financial Solutions, Inc.",
-    "website": "www.broadridge.com"
-  },
-  "876": {
-    "title": "Allison Transmission Holdings, Inc.",
-    "website": "www.allisontransmission.com"
-  },
-  "877": {
-    "title": "Lender Processing Services, Inc.",
-    "website": "www.lpsvcs.com"
-  },
-  "878": {
-    "title": "Scripps Networks Interactive, Inc.",
-    "website": "www.scrippsnetworksinteractive.com"
-  },
-  "879": {
-    "title": "Ferro Corporation",
-    "website": "www.ferro.com"
-  },
-  "880": {
-    "title": "Inergy, L.P.",
-    "website": "www.inergylp.com"
-  },
-  "881": {
-    "title": "Triple-S Management Corporation",
-    "website": "www.triplesmanagement.com"
-  },
-  "882": {
-    "title": "NewMarket Corporation",
-    "website": "www.newmarket.com"
-  },
-  "883": {
-    "title": "Brocade Communications Systems, Inc.",
-    "website": "www.brocade.com"
-  },
-  "884": {
-    "title": "SEACOR Holdings Inc.",
-    "website": "www.seacorholdings.com"
-  },
-  "885": {
-    "title": "Valhi, Inc.",
-    "website": "www.valhi.net"
-  },
-  "886": {
-    "title": "Nortek, Inc.",
-    "website": "www.nortekinc.com"
-  },
-  "887": {
-    "title": "Arthur J. Gallagher & Co.",
-    "website": "www.ajg.com"
-  },
-  "888": {
-    "title": "HealthSouth Corporation",
-    "website": "www.healthsouth.com"
-  },
-  "889": {
-    "title": "ITT Corporation",
-    "website": "www.itt.com"
-  },
-  "890": {
-    "title": "Affinia Group Intermediate Holdings Inc.",
-    "website": "www.affiniagroup.com"
-  },
-  "891": {
-    "title": "Briggs & Stratton Corporation",
-    "website": "www.basco.com"
-  },
-  "892": {
-    "title": "Carter’s, Inc.",
-    "website": "www.carters.com"
-  },
-  "893": {
-    "title": "PC Connection, Inc.",
-    "website": "www.pcconnection.com"
-  },
-  "894": {
-    "title": "New York Community Bancorp, Inc.",
-    "website": "www.mynycb.com"
-  },
-  "895": {
-    "title": "Kansas City Southern",
-    "website": "www.kcsouthern.com"
-  },
-  "896": {
-    "title": "Solutia Inc.",
-    "website": "www.solutia.com"
-  },
-  "897": {
-    "title": "Alliance One International, Inc.",
-    "website": "www.aointl.com"
-  },
-  "898": {
-    "title": "Equity Residential",
-    "website": "www.equityresidential.com"
-  },
-  "899": {
-    "title": "Paychex, Inc.",
-    "website": "www.paychex.com"
-  },
-  "900": {
-    "title": "PharMerica Corporation",
-    "website": "www.pharmerica.com"
-  },
-  "901": {
-    "title": "hhgregg, Inc.",
-    "website": "www.hhgregg.com"
-  },
-  "902": {
-    "title": "Bio-Rad Laboratories, Inc.",
-    "website": "www.bio-rad.com"
-  },
-  "903": {
-    "title": "Express, Inc.",
-    "website": "www.express.com"
-  },
-  "904": {
-    "title": "GNC Holdings, Inc.",
-    "website": "www.gnc.com"
-  },
-  "905": {
-    "title": "Superior Energy Services, Inc.",
-    "website": "www.superiorenergy.com"
-  },
-  "906": {
-    "title": "BMC Software, Inc.",
-    "website": "www.bmc.com"
-  },
-  "907": {
-    "title": "Altera Corporation",
-    "website": "www.altera.com"
-  },
-  "908": {
-    "title": "The Pep Boys – Manny, Moe & Jack",
-    "website": "www.pepboys.com"
-  },
-  "909": {
-    "title": "IAC/InterActiveCorp",
-    "website": "www.iac.com"
-  },
-  "910": {
-    "title": "Curtiss-Wright Corporation",
-    "website": "www.curtisswright.com"
-  },
-  "911": {
-    "title": "TreeHouse Foods, Inc.",
-    "website": "www.treehousefoods.com"
-  },
-  "912": {
-    "title": "Knights of Columbus",
-    "website": "www.kofc.org"
-  },
-  "913": {
-    "title": "PSS World Medical, Inc.",
-    "website": "www.mckesson.com"
-  },
-  "914": {
-    "title": "Crown Castle International Corp.",
-    "website": "www.crowncastle.com"
-  },
-  "915": {
-    "title": "DSW Inc.",
-    "website": "www.dswinc.com"
-  },
-  "916": {
-    "title": "Aaron’s, Inc.",
-    "website": "www.aarons.com"
-  },
-  "917": {
-    "title": "MSC Industrial Direct Co. , Inc.",
-    "website": "www.mscdirect.com"
-  },
-  "918": {
-    "title": "International Game Technology",
-    "website": "www.igt.com"
-  },
-  "919": {
-    "title": "Crosstex Energy, Inc.",
-    "website": "www.enlink.com"
-  },
-  "920": {
-    "title": "Springleaf Finance Corporation",
-    "website": "www.springleaf.com"
-  },
-  "921": {
-    "title": "Granite Construction Incorporated",
-    "website": "www.graniteconstruction.com"
-  },
-  "922": {
-    "title": "Cenveo, Inc.",
-    "website": "www.cenveo.com"
-  },
-  "923": {
-    "title": "Mutual of America Life Insurance Company",
-    "website": "www.mutualofamerica.com"
-  },
-  "924": {
-    "title": "Werner Enterprises, Inc.",
-    "website": "www.werner.com"
-  },
-  "925": {
-    "title": "Symetra Financial Corp.",
-    "website": "www.symetra.com"
-  },
-  "926": {
-    "title": "Heartland Payment Systems, Inc.",
-    "website": "www.heartlandpaymentsystems.com"
-  },
-  "927": {
-    "title": "Charming Shoppes, Inc.",
-    "website": "www.charmingshoppes.com"
-  },
-  "928": {
-    "title": "Clean Harbors, Inc.",
-    "website": "www.cleanharbors.com"
-  },
-  "929": {
-    "title": "Belden Inc.",
-    "website": "www.belden.com"
-  },
-  "930": {
-    "title": "Teledyne Technologies Incorporated",
-    "website": "www.teledyne.com"
-  },
-  "931": {
-    "title": "Sanderson Farms, Inc.",
-    "website": "www.sandersonfarms.com"
-  },
-  "932": {
-    "title": "Insperity, Inc.",
-    "website": "www.insperity.com"
-  },
-  "933": {
-    "title": "Westinghouse Air Brake Technologies Corporation",
-    "website": "www.wabtec.com"
-  },
-  "934": {
-    "title": "Plains Exploration & Production Company",
-    "website": "www.pxp.com"
-  },
-  "935": {
-    "title": "EnerSys",
-    "website": "www.enersysinc.com"
-  },
-  "936": {
-    "title": "Olin Corporation",
-    "website": "www.olin.com"
-  },
-  "937": {
-    "title": "Equifax Inc.",
-    "website": "www.equifax.com"
-  },
-  "938": {
-    "title": "Quiksilver, Inc.",
-    "website": "www.quiksilverinc.com"
-  },
-  "939": {
-    "title": "Radian Group Inc.",
-    "website": "www.radian.biz"
-  },
-  "940": {
-    "title": "Sun Healthcare Group, Inc.",
-    "website": "www.sunh.com"
-  },
-  "941": {
-    "title": "Clearwater Paper Corporation",
-    "website": "www.clearwaterpaper.com"
-  },
-  "942": {
-    "title": "PerkinElmer, Inc.",
-    "website": "www.perkinelmer.com"
-  },
-  "943": {
-    "title": "Career Education Corporation",
-    "website": "www.careered.com"
-  },
-  "944": {
-    "title": "Arkansas Best Corporation",
-    "website": "www.arkbest.com"
-  },
-  "945": {
-    "title": "Scholastic Corporation",
-    "website": "www.scholastic.com"
-  },
-  "946": {
-    "title": "Delphi Financial Group, Inc.",
-    "website": "www.delphifin.com"
-  },
-  "947": {
-    "title": "Whiting Petroleum Corporation",
-    "website": "www.whiting.com"
-  },
-  "948": {
-    "title": "Southwest Gas Corporation",
-    "website": "www.swgas.com"
-  },
-  "949": {
-    "title": "KAR Auction Services, Inc.",
-    "website": "www.karauctionservices.com"
-  },
-  "950": {
-    "title": "Metals USA Holdings Corp.",
-    "website": "www.metalsusa.com"
-  },
-  "951": {
-    "title": "The Toro Company",
-    "website": "www.thetorocompany.com"
-  },
-  "952": {
-    "title": "Old Dominion Freight Line, Inc.",
-    "website": "www.odfl.com"
-  },
-  "953": {
-    "title": "Fred’s, Inc.",
-    "website": "www.fredsinc.com"
-  },
-  "954": {
-    "title": "Corinthian Colleges, Inc.",
-    "website": "www.cci.edu"
-  },
-  "955": {
-    "title": "True Value Company",
-    "website": "www.truevaluecompany.com"
-  },
-  "956": {
-    "title": "Alexander & Baldwin, Inc.",
-    "website": "www.matson.com"
-  },
-  "957": {
-    "title": "Global Payments Inc.",
-    "website": "www.globalpaymentsinc.com"
-  },
-  "958": {
-    "title": "J. Crew Group, Inc.",
-    "website": "www.jcrew.com"
-  },
-  "959": {
-    "title": "Waters Corporation",
-    "website": "www.waters.com"
-  },
-  "960": {
-    "title": "Kirby Corporation",
-    "website": "www.kirbycorp.com"
-  },
-  "961": {
-    "title": "The Phoenix Companies, Inc.",
-    "website": "www.phoenixwm.com"
-  },
-  "962": {
-    "title": "Lincare Holdings Inc.",
-    "website": "www.lincare.com"
-  },
-  "963": {
-    "title": "Key Energy Services, Inc.",
-    "website": "www.keyenergy.com"
-  },
-  "964": {
-    "title": "Coinstar, Inc.",
-    "website": "www.outerwall.com"
-  },
-  "965": {
-    "title": "Alliance Holdings GP, L.P.",
-    "website": "www.ahgp.com"
-  },
-  "966": {
-    "title": "Stepan Company",
-    "website": "www.stepan.com"
-  },
-  "967": {
-    "title": "IDEX Corporation",
-    "website": "www.idexcorp.com"
-  },
-  "968": {
-    "title": "HNI Corporation",
-    "website": "www.hnicorp.com"
-  },
-  "969": {
-    "title": "Amica Mutual Insurance Co.",
-    "website": "www.amica.com"
-  },
-  "970": {
-    "title": "Universal Forest Products, Inc.",
-    "website": "www.ufpi.com"
-  },
-  "971": {
-    "title": "Panera Bread Company",
-    "website": "www.panerabread.com"
-  },
-  "972": {
-    "title": "Gentiva Health Services, Inc.",
-    "website": "www.gentiva.com"
-  },
-  "973": {
-    "title": "Weight Watchers International, Inc.",
-    "website": "www.weightwatchersinternational.com"
-  },
-  "974": {
-    "title": "BioScrip, Inc.",
-    "website": "www.bioscrip.com"
-  },
-  "975": {
-    "title": "Beacon Roofing Supply, Inc.",
-    "website": "www.beaconroofingsupply.com"
-  },
-  "976": {
-    "title": "EnergySolutions, Inc.",
-    "website": "www.energysolutions.com"
-  },
-  "977": {
-    "title": "Portland General Electric Company",
-    "website": "www.portlandgeneral.com"
-  },
-  "978": {
-    "title": "RPC, Inc.",
-    "website": "www.rpc.net"
-  },
-  "979": {
-    "title": "Total System Services, Inc.",
-    "website": "www.tsys.com"
-  },
-  "980": {
-    "title": "AAR Corp.",
-    "website": "www.aarcorp.com"
-  },
-  "981": {
-    "title": "JDS Uniphase Corporation",
-    "website": "www.jdsu.com"
-  },
-  "982": {
-    "title": "Atmel Corporation",
-    "website": "www.atmel.com"
-  },
-  "983": {
-    "title": "Invacare Corporation",
-    "website": "www.invacare.com"
-  },
-  "984": {
-    "title": "Darling International, Inc.",
-    "website": "www.darlingii.com"
-  },
-  "985": {
-    "title": "Acuity Brands, Inc.",
-    "website": "www.acuitybrands.com"
-  },
-  "986": {
-    "title": "Pool Corporation",
-    "website": "www.poolcorp.com"
-  },
-  "987": {
-    "title": "Hologic, Inc.",
-    "website": "www.hologic.com"
-  },
-  "988": {
-    "title": "National Fuel Gas Company",
-    "website": "www.nationalfuelgas.com"
-  },
-  "989": {
-    "title": "Martin Marietta Materials, Inc.",
-    "website": "www.martinmarietta.com"
-  },
-  "990": {
-    "title": "Tower Group, Inc.",
-    "website": "www.twrgrp.com"
-  },
-  "991": {
-    "title": "Ulta Salon, Cosmetics & Fragrance, Inc.",
-    "website": "www.ulta.com"
-  },
-  "992": {
-    "title": "Ventas, Inc.",
-    "website": "www.ventasreit.com"
-  },
-  "993": {
-    "title": "Teleflex Incorporated",
-    "website": "www.teleflex.com"
-  },
-  "994": {
-    "title": "Michael Foods Group, Inc",
-    "website": "www.michaelfoods.com"
-  },
-  "995": {
-    "title": "Boston Properties, Inc.",
-    "website": "www.bostonproperties.com"
-  },
-  "996": {
-    "title": "The Dun & Bradstreet Corporation",
-    "website": "www.dnb.com"
-  },
-  "997": {
-    "title": "Cimarex Energy Co.",
-    "website": "www.cimarex.com"
-  },
-  "998": {
-    "title": "The Cheesecake Factory Incorporated",
-    "website": "www.thecheesecakefactory.com"
-  },
-  "999": {
-    "title": "Intuitive Surgical, Inc.",
-    "website": "www.intuitivesurgical.com"
-  },
-  "1000": {
-    "title": "BlueLinx Holdings Inc.",
-    "website": "www.bluelinxco.com"
+    "website": "www.wellcare.com",
+    "ticker": "wcg"
   }
 }

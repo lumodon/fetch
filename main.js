@@ -4,7 +4,8 @@ const http = require('http')
 function fetch(iteration, callback) {
   return http.get({
       host: 'fortune.com',
-      path: 'http://fortune.com/api/v2/list/1666518/expand/item/ranking/asc/'+iteration*100+'/100'
+      path: 'http://fortune.com/data/franchise-list/500629/'+iteration
+      // path: 'http://fortune.com/api/v2/list/1141696/expand/item/ranking/asc/'+iteration*100+'/100'
   }, response => {
     let body = ''
     response.on('data', d => {
@@ -13,11 +14,14 @@ function fetch(iteration, callback) {
     response.on('end', () => {
       let responseObj = JSON.parse(body)
       let parsedObj = {}
-      for(item in responseObj['list-items']) {
-        let itemItself = responseObj['list-items'][item]
+      for(item in responseObj['articles']) {
+        let itemItself = responseObj['articles'][item]
         parsedObj[itemItself.rank] = {
+          // 'title': itemItself.title,
+          // 'website': itemItself.meta.website,
           'title': itemItself.title,
-          'website': itemItself.meta.website
+          'website': itemItself.highlights.Website,
+          'ticker': itemItself.ticker_text
         }
       }
       callback(parsedObj)
@@ -27,7 +31,7 @@ function fetch(iteration, callback) {
 
 function gatherData() {
   let prmArray = []
-  for(let i = 0; i <= 10; i++) {
+  for(let i = 1; i <= 20; i++) {
     let prm = new Promise( (resolve, reject) => {
       fetch(i, resolve)
     })
@@ -48,7 +52,7 @@ function gatherData() {
 }
 
 function fsCurry(text) {
-  fs.writeFile('./2016.json', JSON.stringify(text, null, 2), err => {
+  fs.writeFile('./2014.json', JSON.stringify(text, null, 2), err => {
     if(err) return console.error(err)
   })
   console.log('file saved.')

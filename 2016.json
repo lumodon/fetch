@@ -1,139 +1,173 @@
 {
   "1": {
     "title": "Walmart",
-    "website": "http://www.walmart.com"
+    "website": "http://www.walmart.com",
+    "ticker": "wmt"
   },
   "2": {
     "title": "Exxon Mobil",
-    "website": "http://www.exxonmobil.com"
+    "website": "http://www.exxonmobil.com",
+    "ticker": "xom"
   },
   "3": {
     "title": "Apple",
-    "website": "http://www.apple.com"
+    "website": "http://www.apple.com",
+    "ticker": "aapl"
   },
   "4": {
     "title": "Berkshire Hathaway",
-    "website": "http://www.berkshirehathaway.com"
+    "website": "http://www.berkshirehathaway.com",
+    "ticker": "brk-a"
   },
   "5": {
     "title": "McKesson",
-    "website": "http://www.mckesson.com"
+    "website": "http://www.mckesson.com",
+    "ticker": "mck"
   },
   "6": {
     "title": "UnitedHealth Group",
-    "website": "http://www.unitedhealthgroup.com"
+    "website": "http://www.unitedhealthgroup.com",
+    "ticker": "unh"
   },
   "7": {
     "title": "CVS Health",
-    "website": "http://www.cvshealth.com"
+    "website": "http://www.cvshealth.com",
+    "ticker": "cvs"
   },
   "8": {
     "title": "General Motors",
-    "website": "http://www.gm.com"
+    "website": "http://www.gm.com",
+    "ticker": "gm"
   },
   "9": {
     "title": "Ford Motor",
-    "website": "http://www.ford.com"
+    "website": "http://www.ford.com",
+    "ticker": "f"
   },
   "10": {
     "title": "AT&T",
-    "website": "http://www.att.com"
+    "website": "http://www.att.com",
+    "ticker": "t"
   },
   "11": {
     "title": "General Electric",
-    "website": "http://www.ge.com"
+    "website": "http://www.ge.com",
+    "ticker": "ge"
   },
   "12": {
     "title": "AmerisourceBergen",
-    "website": "http://www.amerisourcebergen.com"
+    "website": "http://www.amerisourcebergen.com",
+    "ticker": "abc"
   },
   "13": {
     "title": "Verizon",
-    "website": "http://www.verizon.com"
+    "website": "http://www.verizon.com",
+    "ticker": "vz"
   },
   "14": {
     "title": "Chevron",
-    "website": "http://www.chevron.com"
+    "website": "http://www.chevron.com",
+    "ticker": "cvx"
   },
   "15": {
     "title": "Costco",
-    "website": "http://www.costco.com"
+    "website": "http://www.costco.com",
+    "ticker": "cost"
   },
   "16": {
     "title": "Fannie Mae",
-    "website": "http://www.fanniemae.com"
+    "website": "http://www.fanniemae.com",
+    "ticker": "fnma"
   },
   "17": {
     "title": "Kroger",
-    "website": "http://www.thekrogerco.com"
+    "website": "http://www.thekrogerco.com",
+    "ticker": "kr"
   },
   "18": {
     "title": "Amazon.com",
-    "website": "http://www.amazon.com"
+    "website": "http://www.amazon.com",
+    "ticker": "amzn"
   },
   "19": {
     "title": "Walgreens Boots Alliance",
-    "website": "http://www.walgreensbootsalliance.com"
+    "website": "http://www.walgreensbootsalliance.com",
+    "ticker": "wba"
   },
   "20": {
     "title": "HP",
-    "website": "http://www.hp.com"
+    "website": "http://www.hp.com",
+    "ticker": "hpq"
   },
   "21": {
     "title": "Cardinal Health",
-    "website": "http://www.cardinalhealth.com"
+    "website": "http://www.cardinalhealth.com",
+    "ticker": "cah"
   },
   "22": {
     "title": "Express Scripts Holding",
-    "website": "http://www.express-scripts.com"
+    "website": "http://www.express-scripts.com",
+    "ticker": "esrx"
   },
   "23": {
     "title": "J.P. Morgan Chase",
-    "website": "http://www.jpmorganchase.com"
+    "website": "http://www.jpmorganchase.com",
+    "ticker": "jpm"
   },
   "24": {
     "title": "Boeing",
-    "website": "http://www.boeing.com"
+    "website": "http://www.boeing.com",
+    "ticker": "ba"
   },
   "25": {
     "title": "Microsoft",
-    "website": "http://www.microsoft.com"
+    "website": "http://www.microsoft.com",
+    "ticker": "msft"
   },
   "26": {
     "title": "Bank of America Corp.",
-    "website": "http://www.bankofamerica.com"
+    "website": "http://www.bankofamerica.com",
+    "ticker": "bac"
   },
   "27": {
     "title": "Wells Fargo",
-    "website": "http://www.wellsfargo.com"
+    "website": "http://www.wellsfargo.com",
+    "ticker": "wfc"
   },
   "28": {
     "title": "Home Depot",
-    "website": "http://www.homedepot.com"
+    "website": "http://www.homedepot.com",
+    "ticker": "hd"
   },
   "29": {
     "title": "Citigroup",
-    "website": "http://www.citigroup.com"
+    "website": "http://www.citigroup.com",
+    "ticker": "c"
   },
   "30": {
     "title": "Phillips 66",
-    "website": "http://www.phillips66.com"
+    "website": "http://www.phillips66.com",
+    "ticker": "psx"
   },
   "31": {
     "title": "IBM",
-    "website": "http://www.ibm.com"
+    "website": "http://www.ibm.com",
+    "ticker": "ibm"
   },
   "32": {
     "title": "Valero Energy",
-    "website": "http://www.valero.com"
+    "website": "http://www.valero.com",
+    "ticker": "vlo"
   },
   "33": {
     "title": "Anthem",
-    "website": "http://www.antheminc.com"
+    "website": "http://www.antheminc.com",
+    "ticker": "antm"
   },
   "34": {
     "title": "Procter & Gamble",
-    "website": "http://www.pg.com"
+    "website": "http://www.pg.com",
+    "ticker": "pg"
   },
   "35": {
     "title": "State Farm Insurance Cos.",
@@ -141,103 +175,128 @@
   },
   "36": {
     "title": "Alphabet",
-    "website": "http://www.abc.xyz"
+    "website": "http://www.abc.xyz",
+    "ticker": "googl"
   },
   "37": {
     "title": "Comcast",
-    "website": "http://www.comcastcorporation.com"
+    "website": "http://www.comcastcorporation.com",
+    "ticker": "cmcsa"
   },
   "38": {
     "title": "Target",
-    "website": "http://www.target.com"
+    "website": "http://www.target.com",
+    "ticker": "tgt"
   },
   "39": {
     "title": "Johnson & Johnson",
-    "website": "http://www.jnj.com"
+    "website": "http://www.jnj.com",
+    "ticker": "jnj"
   },
   "40": {
     "title": "MetLife",
-    "website": "http://www.metlife.com"
+    "website": "http://www.metlife.com",
+    "ticker": "met"
   },
   "41": {
     "title": "Archer Daniels Midland",
-    "website": "http://www.adm.com"
+    "website": "http://www.adm.com",
+    "ticker": "adm"
   },
   "42": {
     "title": "Marathon Petroleum",
-    "website": "http://www.marathonpetroleum.com"
+    "website": "http://www.marathonpetroleum.com",
+    "ticker": "mpc"
   },
   "43": {
     "title": "Freddie Mac",
-    "website": "http://www.freddiemac.com"
+    "website": "http://www.freddiemac.com",
+    "ticker": "fmcc"
   },
   "44": {
     "title": "PepsiCo",
-    "website": "http://www.pepsico.com"
+    "website": "http://www.pepsico.com",
+    "ticker": "pep"
   },
   "45": {
     "title": "United Technologies",
-    "website": "http://www.utc.com"
+    "website": "http://www.utc.com",
+    "ticker": "utx"
   },
   "46": {
     "title": "Aetna",
-    "website": "http://www.aetna.com"
+    "website": "http://www.aetna.com",
+    "ticker": "aet"
   },
   "47": {
     "title": "Lowe’s",
-    "website": "http://www.lowes.com"
+    "website": "http://www.lowes.com",
+    "ticker": "low"
   },
   "48": {
     "title": "UPS",
-    "website": "http://www.ups.com"
+    "website": "http://www.ups.com",
+    "ticker": "ups"
   },
   "49": {
     "title": "AIG",
-    "website": "http://www.aig.com"
+    "website": "http://www.aig.com",
+    "ticker": "aig"
   },
   "50": {
     "title": "Prudential Financial",
-    "website": "http://www.prudential.com"
+    "website": "http://www.prudential.com",
+    "ticker": "pru"
   },
   "51": {
     "title": "Intel",
-    "website": "http://www.intel.com"
+    "website": "http://www.intel.com",
+    "ticker": "intc"
   },
   "52": {
     "title": "Humana",
-    "website": "http://www.humana.com"
+    "website": "http://www.humana.com",
+    "ticker": "hum"
   },
   "53": {
     "title": "Disney",
-    "website": "http://www.disney.com"
+    "website": "http://www.disney.com",
+    "ticker": "dis"
   },
   "54": {
     "title": "Cisco Systems",
-    "website": "http://www.cisco.com"
+    "website": "http://www.cisco.com",
+    "ticker": "csco"
   },
   "55": {
     "title": "Pfizer",
-    "website": "http://www.pfizer.com"
+    "website": "http://www.pfizer.com",
+    "ticker": "pfe"
   },
   "56": {
     "title": "Dow Chemical",
-    "website": "http://www.dow.com"
+    "website": "http://www.dow.com",
+    "ticker": "dow"
   },
   "57": {
     "title": "Sysco",
-    "website": "http://www.sysco.com"
+    "website": "http://www.sysco.com",
+    "ticker": "syy"
   },
   "58": {
     "title": "FedEx",
-    "website": "http://www.fedex.com"
+    "website": "http://www.fedex.com",
+    "ticker": "fdx"
   },
   "59": {
     "title": "Caterpillar",
-    "website": "http://www.caterpillar.com"
+    "website": "http://www.caterpillar.com",
+    "ticker": "cat"
   },
   "60": {
     "title": "Lockheed Martin",
-    "website": "http://www.lockheedmartin.com"
+    "website": "http://www.lockheedmartin.com",
+    "ticker": "lmt"
   },
   "61": {
     "title": "New York Life Insurance",
@@ -245,11 +304,13 @@
   },
   "62": {
     "title": "Coca-Cola",
-    "website": "http://www.coca-colacompany.com"
+    "website": "http://www.coca-colacompany.com",
+    "ticker": "ko"
   },
   "63": {
     "title": "HCA Holdings",
-    "website": "http://www.hcahealthcare.com"
+    "website": "http://www.hcahealthcare.com",
+    "ticker": "hca"
   },
   "64": {
     "title": "Ingram Micro",
@@ -257,19 +318,23 @@
   },
   "65": {
     "title": "Energy Transfer Equity",
-    "website": "http://www.energytransfer.com"
+    "website": "http://www.energytransfer.com",
+    "ticker": "ete"
   },
   "66": {
     "title": "Tyson Foods",
-    "website": "http://www.tysonfoods.com"
+    "website": "http://www.tysonfoods.com",
+    "ticker": "tsn"
   },
   "67": {
     "title": "American Airlines Group",
-    "website": "http://www.aa.com"
+    "website": "http://www.aa.com",
+    "ticker": "aal"
   },
   "68": {
     "title": "Delta Air Lines",
-    "website": "http://www.delta.com"
+    "website": "http://www.delta.com",
+    "ticker": "dal"
   },
   "69": {
     "title": "Nationwide",
@@ -277,15 +342,18 @@
   },
   "70": {
     "title": "Johnson Controls",
-    "website": "http://www.johnsoncontrols.com"
+    "website": "http://www.johnsoncontrols.com",
+    "ticker": "jci"
   },
   "71": {
     "title": "Best Buy",
-    "website": "http://www.bestbuy.com"
+    "website": "http://www.bestbuy.com",
+    "ticker": "bby"
   },
   "72": {
     "title": "Merck",
-    "website": "http://www.merck.com"
+    "website": "http://www.merck.com",
+    "ticker": "mrk"
   },
   "73": {
     "title": "Liberty Mutual Insurance Group",
@@ -293,11 +361,13 @@
   },
   "74": {
     "title": "Goldman Sachs Group",
-    "website": "http://www.gs.com"
+    "website": "http://www.gs.com",
+    "ticker": "gs"
   },
   "75": {
     "title": "Honeywell International",
-    "website": "http://www.honeywell.com"
+    "website": "http://www.honeywell.com",
+    "ticker": "hon"
   },
   "76": {
     "title": "Massachusetts Mutual Life Insurance",
@@ -305,23 +375,28 @@
   },
   "77": {
     "title": "Oracle",
-    "website": "http://www.oracle.com"
+    "website": "http://www.oracle.com",
+    "ticker": "orcl"
   },
   "78": {
     "title": "Morgan Stanley",
-    "website": "http://www.morganstanley.com"
+    "website": "http://www.morganstanley.com",
+    "ticker": "ms"
   },
   "79": {
     "title": "Cigna",
-    "website": "http://www.cigna.com"
+    "website": "http://www.cigna.com",
+    "ticker": "ci"
   },
   "80": {
     "title": "United Continental Holdings",
-    "website": "http://www.unitedcontinentalholdings.com"
+    "website": "http://www.unitedcontinentalholdings.com",
+    "ticker": "ual"
   },
   "81": {
     "title": "Allstate",
-    "website": "http://www.allstate.com"
+    "website": "http://www.allstate.com",
+    "ticker": "all"
   },
   "82": {
     "title": "TIAA",
@@ -329,7 +404,8 @@
   },
   "83": {
     "title": "INTL FCStone",
-    "website": "http://www.intlfcstone.com"
+    "website": "http://www.intlfcstone.com",
+    "ticker": "intl"
   },
   "84": {
     "title": "CHS",
@@ -337,11 +413,13 @@
   },
   "85": {
     "title": "American Express",
-    "website": "http://www.americanexpress.com"
+    "website": "http://www.americanexpress.com",
+    "ticker": "axp"
   },
   "86": {
     "title": "Gilead Sciences",
-    "website": "http://www.gilead.com"
+    "website": "http://www.gilead.com",
+    "ticker": "gild"
   },
   "87": {
     "title": "Publix Super Markets",
@@ -349,51 +427,63 @@
   },
   "88": {
     "title": "General Dynamics",
-    "website": "http://www.generaldynamics.com"
+    "website": "http://www.generaldynamics.com",
+    "ticker": "gd"
   },
   "89": {
     "title": "TJX",
-    "website": "http://www.tjx.com"
+    "website": "http://www.tjx.com",
+    "ticker": "tjx"
   },
   "90": {
     "title": "ConocoPhillips",
-    "website": "http://www.conocophillips.com"
+    "website": "http://www.conocophillips.com",
+    "ticker": "cop"
   },
   "91": {
     "title": "Nike",
-    "website": "http://www.nike.com"
+    "website": "http://www.nike.com",
+    "ticker": "nke"
   },
   "92": {
     "title": "World Fuel Services",
-    "website": "http://www.wfscorp.com"
+    "website": "http://www.wfscorp.com",
+    "ticker": "int"
   },
   "93": {
     "title": "3M",
-    "website": "http://www.3m.com"
+    "website": "http://www.3m.com",
+    "ticker": "mmm"
   },
   "94": {
     "title": "Mondelez International",
-    "website": "http://www.mondelezinternational.com"
+    "website": "http://www.mondelezinternational.com",
+    "ticker": "mdlz"
   },
   "95": {
     "title": "Exelon",
-    "website": "http://www.exeloncorp.com"
+    "website": "http://www.exeloncorp.com",
+    "ticker": "exc"
   },
   "96": {
     "title": "Twenty-First Century Fox",
-    "website": "http://www.21cf.com"
+    "website": "http://www.21cf.com",
+    "ticker": "foxa"
   },
   "97": {
     "title": "Deere",
-    "website": "http://www.johndeere.com"
+    "website": "http://www.johndeere.com",
+    "ticker": "de"
   },
   "98": {
     "title": "Tesoro",
-    "website": "http://www.tsocorp.com"
+    "website": "http://www.tsocorp.com",
+    "ticker": "tso"
   },
   "99": {
     "title": "Time Warner",
-    "website": "http://www.timewarner.com"
+    "website": "http://www.timewarner.com",
+    "ticker": "twx"
   },
   "100": {
     "title": "Northwestern Mutual",
@@ -401,51 +491,63 @@
   },
   "101": {
     "title": "DuPont",
-    "website": "http://www.dupont.com"
+    "website": "http://www.dupont.com",
+    "ticker": "dd"
   },
   "102": {
     "title": "Avnet",
-    "website": "http://www.avnet.com"
+    "website": "http://www.avnet.com",
+    "ticker": "avt"
   },
   "103": {
     "title": "Macy’s",
-    "website": "http://www.macysinc.com"
+    "website": "http://www.macysinc.com",
+    "ticker": "m"
   },
   "104": {
     "title": "Enterprise Products Partners",
-    "website": "http://www.enterpriseproducts.com"
+    "website": "http://www.enterpriseproducts.com",
+    "ticker": "epd"
   },
   "105": {
     "title": "Travelers Cos.",
-    "website": "http://www.travelers.com"
+    "website": "http://www.travelers.com",
+    "ticker": "trv"
   },
   "106": {
     "title": "Philip Morris International",
-    "website": "http://www.pmi.com"
+    "website": "http://www.pmi.com",
+    "ticker": "pm"
   },
   "107": {
     "title": "Rite Aid",
-    "website": "http://www.riteaid.com"
+    "website": "http://www.riteaid.com",
+    "ticker": "rad"
   },
   "108": {
     "title": "Tech Data",
-    "website": "http://www.techdata.com"
+    "website": "http://www.techdata.com",
+    "ticker": "tecd"
   },
   "109": {
     "title": "McDonald’s",
-    "website": "http://www.aboutmcdonalds.com"
+    "website": "http://www.aboutmcdonalds.com",
+    "ticker": "mcd"
   },
   "110": {
     "title": "Qualcomm",
-    "website": "http://www.qualcomm.com"
+    "website": "http://www.qualcomm.com",
+    "ticker": "qcom"
   },
   "111": {
     "title": "Sears Holdings",
-    "website": "http://www.searsholdings.com"
+    "website": "http://www.searsholdings.com",
+    "ticker": "shld"
   },
   "112": {
     "title": "Capital One Financial",
-    "website": "http://www.capitalone.com"
+    "website": "http://www.capitalone.com",
+    "ticker": "cof"
   },
   "113": {
     "title": "EMC",
@@ -457,231 +559,288 @@
   },
   "115": {
     "title": "Duke Energy",
-    "website": "http://www.duke-energy.com"
+    "website": "http://www.duke-energy.com",
+    "ticker": "duk"
   },
   "116": {
     "title": "Time Warner Cable",
-    "website": "http://www.twc.com"
+    "website": "http://www.twc.com",
+    "ticker": "twc"
   },
   "117": {
     "title": "Halliburton",
-    "website": "http://www.halliburton.com"
+    "website": "http://www.halliburton.com",
+    "ticker": "hal"
   },
   "118": {
     "title": "Northrop Grumman",
-    "website": "http://www.northropgrumman.com"
+    "website": "http://www.northropgrumman.com",
+    "ticker": "noc"
   },
   "119": {
     "title": "Arrow Electronics",
-    "website": "http://www.arrow.com"
+    "website": "http://www.arrow.com",
+    "ticker": "arw"
   },
   "120": {
     "title": "Raytheon",
-    "website": "http://www.raytheon.com"
+    "website": "http://www.raytheon.com",
+    "ticker": "rtn"
   },
   "121": {
     "title": "Plains GP Holdings",
-    "website": "http://www.plainsallamerican.com"
+    "website": "http://www.plainsallamerican.com",
+    "ticker": "pagp"
   },
   "122": {
     "title": "US Foods Holding",
-    "website": "http://www.usfoods.com"
+    "website": "http://www.usfoods.com",
+    "ticker": "usfd"
   },
   "123": {
     "title": "AbbVie",
-    "website": "http://www.abbvie.com"
+    "website": "http://www.abbvie.com",
+    "ticker": "abbv"
   },
   "124": {
     "title": "Centene",
-    "website": "http://www.centene.com"
+    "website": "http://www.centene.com",
+    "ticker": "cnc"
   },
   "125": {
     "title": "Community Health Systems",
-    "website": "http://www.chs.net"
+    "website": "http://www.chs.net",
+    "ticker": "cyh"
   },
   "126": {
     "title": "Arconic",
-    "website": "https://www.arconic.com"
+    "website": "https://www.arconic.com",
+    "ticker": "arnc"
   },
   "127": {
     "title": "International Paper",
-    "website": "http://www.internationalpaper.com"
+    "website": "http://www.internationalpaper.com",
+    "ticker": "ip"
   },
   "128": {
     "title": "Emerson Electric",
-    "website": "http://www.emerson.com"
+    "website": "http://www.emerson.com",
+    "ticker": "emr"
   },
   "129": {
     "title": "Union Pacific",
-    "website": "http://www.up.com"
+    "website": "http://www.up.com",
+    "ticker": "unp"
   },
   "130": {
     "title": "Amgen",
-    "website": "http://www.amgen.com"
+    "website": "http://www.amgen.com",
+    "ticker": "amgn"
   },
   "131": {
     "title": "U.S. Bancorp",
-    "website": "http://www.usbank.com"
+    "website": "http://www.usbank.com",
+    "ticker": "usb"
   },
   "132": {
     "title": "Staples",
-    "website": "http://www.staples.com"
+    "website": "http://www.staples.com",
+    "ticker": "spls"
   },
   "133": {
     "title": "Danaher",
-    "website": "http://www.danaher.com"
+    "website": "http://www.danaher.com",
+    "ticker": "dhr"
   },
   "134": {
     "title": "Whirlpool",
-    "website": "http://www.whirlpoolcorp.com"
+    "website": "http://www.whirlpoolcorp.com",
+    "ticker": "whr"
   },
   "135": {
     "title": "Aflac",
-    "website": "http://www.aflac.com"
+    "website": "http://www.aflac.com",
+    "ticker": "afl"
   },
   "136": {
     "title": "AutoNation",
-    "website": "http://www.autonation.com"
+    "website": "http://www.autonation.com",
+    "ticker": "an"
   },
   "137": {
     "title": "Progressive",
-    "website": "http://www.progressive.com"
+    "website": "http://www.progressive.com",
+    "ticker": "pgr"
   },
   "138": {
     "title": "Abbott Laboratories",
-    "website": "http://www.abbott.com"
+    "website": "http://www.abbott.com",
+    "ticker": "abt"
   },
   "139": {
     "title": "Dollar General",
-    "website": "http://www.dollargeneral.com"
+    "website": "http://www.dollargeneral.com",
+    "ticker": "dg"
   },
   "140": {
     "title": "Tenet Healthcare",
-    "website": "http://www.tenethealth.com"
+    "website": "http://www.tenethealth.com",
+    "ticker": "thc"
   },
   "141": {
     "title": "Eli Lilly",
-    "website": "http://www.lilly.com"
+    "website": "http://www.lilly.com",
+    "ticker": "lly"
   },
   "142": {
     "title": "Southwest Airlines",
-    "website": "http://www.southwest.com"
+    "website": "http://www.southwest.com",
+    "ticker": "luv"
   },
   "143": {
     "title": "Penske Automotive Group",
-    "website": "http://www.penskeautomotive.com"
+    "website": "http://www.penskeautomotive.com",
+    "ticker": "pag"
   },
   "144": {
     "title": "ManpowerGroup",
-    "website": "http://www.manpowergroup.com"
+    "website": "http://www.manpowergroup.com",
+    "ticker": "man"
   },
   "145": {
     "title": "Kohl’s",
-    "website": "http://www.kohls.com"
+    "website": "http://www.kohls.com",
+    "ticker": "kss"
   },
   "146": {
     "title": "Starbucks",
-    "website": "http://www.starbucks.com"
+    "website": "http://www.starbucks.com",
+    "ticker": "sbux"
   },
   "147": {
     "title": "Paccar",
-    "website": "http://www.paccar.com"
+    "website": "http://www.paccar.com",
+    "ticker": "pcar"
   },
   "148": {
     "title": "Cummins",
-    "website": "http://www.cummins.com"
+    "website": "http://www.cummins.com",
+    "ticker": "cmi"
   },
   "149": {
     "title": "Altria Group",
-    "website": "http://www.altria.com"
+    "website": "http://www.altria.com",
+    "ticker": "mo"
   },
   "150": {
     "title": "Xerox",
-    "website": "http://www.xerox.com"
+    "website": "http://www.xerox.com",
+    "ticker": "xrx"
   },
   "151": {
     "title": "Kimberly-Clark",
-    "website": "http://www.kimberly-clark.com"
+    "website": "http://www.kimberly-clark.com",
+    "ticker": "kmb"
   },
   "152": {
     "title": "Hartford Financial Services Group",
-    "website": "http://www.thehartford.com"
+    "website": "http://www.thehartford.com",
+    "ticker": "hig"
   },
   "153": {
     "title": "Kraft Heinz",
-    "website": "http://www.kraftheinzcompany.com"
+    "website": "http://www.kraftheinzcompany.com",
+    "ticker": "khc"
   },
   "154": {
     "title": "Lear",
-    "website": "http://www.lear.com"
+    "website": "http://www.lear.com",
+    "ticker": "lea"
   },
   "155": {
     "title": "Fluor",
-    "website": "http://www.fluor.com"
+    "website": "http://www.fluor.com",
+    "ticker": "flr"
   },
   "156": {
     "title": "AECOM",
-    "website": "http://www.aecom.com"
+    "website": "http://www.aecom.com",
+    "ticker": "acm"
   },
   "157": {
     "title": "Facebook",
-    "website": "http://www.facebook.com"
+    "website": "http://www.facebook.com",
+    "ticker": "fb"
   },
   "158": {
     "title": "Jabil Circuit",
-    "website": "http://www.jabil.com"
+    "website": "http://www.jabil.com",
+    "ticker": "jbl"
   },
   "159": {
     "title": "CenturyLink",
-    "website": "http://www.centurylink.com"
+    "website": "http://www.centurylink.com",
+    "ticker": "ctl"
   },
   "160": {
     "title": "Supervalu",
-    "website": "http://www.supervalu.com"
+    "website": "http://www.supervalu.com",
+    "ticker": "svu"
   },
   "161": {
     "title": "General Mills",
-    "website": "http://www.generalmills.com"
+    "website": "http://www.generalmills.com",
+    "ticker": "gis"
   },
   "162": {
     "title": "Southern",
-    "website": "http://www.southerncompany.com"
+    "website": "http://www.southerncompany.com",
+    "ticker": "so"
   },
   "163": {
     "title": "NextEra Energy",
-    "website": "http://www.nexteraenergy.com"
+    "website": "http://www.nexteraenergy.com",
+    "ticker": "nee"
   },
   "164": {
     "title": "Thermo Fisher Scientific",
-    "website": "http://www.thermofisher.com"
+    "website": "http://www.thermofisher.com",
+    "ticker": "tmo"
   },
   "165": {
     "title": "American Electric Power",
-    "website": "http://www.aep.com"
+    "website": "http://www.aep.com",
+    "ticker": "aep"
   },
   "166": {
     "title": "PG&E Corp.",
-    "website": "http://www.pgecorp.com"
+    "website": "http://www.pgecorp.com",
+    "ticker": "pcg"
   },
   "167": {
     "title": "NGL Energy Partners",
-    "website": "http://www.nglenergypartners.com"
+    "website": "http://www.nglenergypartners.com",
+    "ticker": "ngl"
   },
   "168": {
     "title": "Bristol-Myers Squibb",
-    "website": "http://www.bms.com"
+    "website": "http://www.bms.com",
+    "ticker": "bmy"
   },
   "169": {
     "title": "Goodyear Tire & Rubber",
-    "website": "http://www.goodyear.com"
+    "website": "http://www.goodyear.com",
+    "ticker": "gt"
   },
   "170": {
     "title": "Nucor",
-    "website": "http://www.nucor.com"
+    "website": "http://www.nucor.com",
+    "ticker": "nue"
   },
   "171": {
     "title": "PNC Financial Services Group",
-    "website": "http://www.pnc.com"
+    "website": "http://www.pnc.com",
+    "ticker": "pnc"
   },
   "172": {
     "title": "Health Net",
@@ -689,171 +848,213 @@
   },
   "173": {
     "title": "Micron Technology",
-    "website": "http://www.micron.com"
+    "website": "http://www.micron.com",
+    "ticker": "mu"
   },
   "174": {
     "title": "Colgate-Palmolive",
-    "website": "http://www.colgatepalmolive.com"
+    "website": "http://www.colgatepalmolive.com",
+    "ticker": "cl"
   },
   "175": {
     "title": "Freeport-McMoRan",
-    "website": "http://www.fcx.com"
+    "website": "http://www.fcx.com",
+    "ticker": "fcx"
   },
   "176": {
     "title": "ConAgra Foods",
-    "website": "http://www.conagrafoods.com"
+    "website": "http://www.conagrafoods.com",
+    "ticker": "cag"
   },
   "177": {
     "title": "Gap",
-    "website": "http://www.gapinc.com"
+    "website": "http://www.gapinc.com",
+    "ticker": "gps"
   },
   "178": {
     "title": "Baker Hughes",
-    "website": "http://www.bakerhughes.com"
+    "website": "http://www.bakerhughes.com",
+    "ticker": "bhi"
   },
   "179": {
     "title": "Bank of New York Mellon Corp.",
-    "website": "http://www.bnymellon.com"
+    "website": "http://www.bnymellon.com",
+    "ticker": "bk"
   },
   "180": {
     "title": "Dollar Tree",
-    "website": "http://www.dollartree.com"
+    "website": "http://www.dollartree.com",
+    "ticker": "dltr"
   },
   "181": {
     "title": "Whole Foods Market",
-    "website": "http://www.wholefoodsmarket.com"
+    "website": "http://www.wholefoodsmarket.com",
+    "ticker": "wfm"
   },
   "182": {
     "title": "PPG Industries",
-    "website": "http://www.ppg.com"
+    "website": "http://www.ppg.com",
+    "ticker": "ppg"
   },
   "183": {
     "title": "Genuine Parts",
-    "website": "http://www.genpt.com"
+    "website": "http://www.genpt.com",
+    "ticker": "gpc"
   },
   "184": {
     "title": "Icahn Enterprises",
-    "website": "http://www.ielp.com"
+    "website": "http://www.ielp.com",
+    "ticker": "iep"
   },
   "185": {
     "title": "Performance Food Group",
-    "website": "http://www.pfgc.com"
+    "website": "http://www.pfgc.com",
+    "ticker": "pfgc"
   },
   "186": {
     "title": "Omnicom Group",
-    "website": "http://www.omnicomgroup.com"
+    "website": "http://www.omnicomgroup.com",
+    "ticker": "omc"
   },
   "187": {
     "title": "DISH Network",
-    "website": "http://www.dish.com"
+    "website": "http://www.dish.com",
+    "ticker": "dish"
   },
   "188": {
     "title": "FirstEnergy",
-    "website": "http://www.firstenergycorp.com"
+    "website": "http://www.firstenergycorp.com",
+    "ticker": "fe"
   },
   "189": {
     "title": "Monsanto",
-    "website": "http://www.monsanto.com"
+    "website": "http://www.monsanto.com",
+    "ticker": "mon"
   },
   "190": {
     "title": "AES",
-    "website": "http://www.aes.com"
+    "website": "http://www.aes.com",
+    "ticker": "aes"
   },
   "191": {
     "title": "CarMax",
-    "website": "http://www.carmax.com"
+    "website": "http://www.carmax.com",
+    "ticker": "kmx"
   },
   "192": {
     "title": "National Oilwell Varco",
-    "website": "http://www.nov.com"
+    "website": "http://www.nov.com",
+    "ticker": "nov"
   },
   "193": {
     "title": "NRG Energy",
-    "website": "http://www.nrg.com"
+    "website": "http://www.nrg.com",
+    "ticker": "nrg"
   },
   "194": {
     "title": "Western Digital",
-    "website": "http://www.westerndigital.com"
+    "website": "http://www.westerndigital.com",
+    "ticker": "wdc"
   },
   "195": {
     "title": "Marriott International",
-    "website": "http://www.marriott.com"
+    "website": "http://www.marriott.com",
+    "ticker": "mar"
   },
   "196": {
     "title": "Office Depot",
-    "website": "http://www.officedepot.com"
+    "website": "http://www.officedepot.com",
+    "ticker": "odp"
   },
   "197": {
     "title": "Nordstrom",
-    "website": "http://www.nordstrom.com"
+    "website": "http://www.nordstrom.com",
+    "ticker": "jwn"
   },
   "198": {
     "title": "Kinder Morgan",
-    "website": "http://www.kindermorgan.com"
+    "website": "http://www.kindermorgan.com",
+    "ticker": "kmi"
   },
   "199": {
     "title": "Aramark",
-    "website": "http://www.aramark.com"
+    "website": "http://www.aramark.com",
+    "ticker": "armk"
   },
   "200": {
     "title": "DaVita",
-    "website": "http://www.davita.com"
+    "website": "http://www.davita.com",
+    "ticker": "dva"
   },
   "201": {
     "title": "Molina Healthcare",
-    "website": "http://www.molinahealthcare.com"
+    "website": "http://www.molinahealthcare.com",
+    "ticker": "moh"
   },
   "202": {
     "title": "WellCare Health Plans",
-    "website": "http://www.wellcare.com"
+    "website": "http://www.wellcare.com",
+    "ticker": "wcg"
   },
   "203": {
     "title": "CBS",
-    "website": "http://www.cbscorporation.com"
+    "website": "http://www.cbscorporation.com",
+    "ticker": "cbs"
   },
   "204": {
     "title": "Visa",
-    "website": "http://www.visa.com"
+    "website": "http://www.visa.com",
+    "ticker": "v"
   },
   "205": {
     "title": "Lincoln National",
-    "website": "http://www.lfg.com"
+    "website": "http://www.lfg.com",
+    "ticker": "lnc"
   },
   "206": {
     "title": "Ecolab",
-    "website": "http://www.ecolab.com"
+    "website": "http://www.ecolab.com",
+    "ticker": "ecl"
   },
   "207": {
     "title": "Kellogg",
-    "website": "http://www.kelloggcompany.com"
+    "website": "http://www.kelloggcompany.com",
+    "ticker": "k"
   },
   "208": {
     "title": "C.H. Robinson Worldwide",
-    "website": "http://www.chrobinson.com"
+    "website": "http://www.chrobinson.com",
+    "ticker": "chrw"
   },
   "209": {
     "title": "Textron",
-    "website": "http://www.textron.com"
+    "website": "http://www.textron.com",
+    "ticker": "txt"
   },
   "210": {
     "title": "Loews",
-    "website": "http://www.loews.com"
+    "website": "http://www.loews.com",
+    "ticker": "l"
   },
   "211": {
     "title": "Illinois Tool Works",
-    "website": "http://www.itw.com"
+    "website": "http://www.itw.com",
+    "ticker": "itw"
   },
   "212": {
     "title": "Synnex",
-    "website": "http://www.synnex.com"
+    "website": "http://www.synnex.com",
+    "ticker": "snx"
   },
   "213": {
     "title": "Viacom",
-    "website": "http://www.viacom.com"
+    "website": "http://www.viacom.com",
+    "ticker": "viab"
   },
   "214": {
     "title": "HollyFrontier",
-    "website": "http://www.hollyfrontier.com"
+    "website": "http://www.hollyfrontier.com",
+    "ticker": "hfc"
   },
   "215": {
     "title": "Land O’Lakes",
@@ -861,43 +1062,53 @@
   },
   "216": {
     "title": "Devon Energy",
-    "website": "http://www.devonenergy.com"
+    "website": "http://www.devonenergy.com",
+    "ticker": "dvn"
   },
   "217": {
     "title": "PBF Energy",
-    "website": "http://www.pbfenergy.com"
+    "website": "http://www.pbfenergy.com",
+    "ticker": "pbf"
   },
   "218": {
     "title": "Yum Brands",
-    "website": "http://www.yum.com"
+    "website": "http://www.yum.com",
+    "ticker": "yum"
   },
   "219": {
     "title": "Texas Instruments",
-    "website": "http://www.ti.com"
+    "website": "http://www.ti.com",
+    "ticker": "txn"
   },
   "220": {
     "title": "CDW",
-    "website": "http://www.cdw.com"
+    "website": "http://www.cdw.com",
+    "ticker": "cdw"
   },
   "221": {
     "title": "Waste Management",
-    "website": "http://www.wm.com"
+    "website": "http://www.wm.com",
+    "ticker": "wm"
   },
   "222": {
     "title": "Marsh & McLennan",
-    "website": "http://www.mmc.com"
+    "website": "http://www.mmc.com",
+    "ticker": "mmc"
   },
   "223": {
     "title": "Chesapeake Energy",
-    "website": "http://www.chk.com"
+    "website": "http://www.chk.com",
+    "ticker": "chk"
   },
   "224": {
     "title": "Parker-Hannifin",
-    "website": "http://www.parker.com"
+    "website": "http://www.parker.com",
+    "ticker": "ph"
   },
   "225": {
     "title": "Occidental Petroleum",
-    "website": "http://www.oxy.com"
+    "website": "http://www.oxy.com",
+    "ticker": "oxy"
   },
   "226": {
     "title": "Guardian Life Ins. Co. of America",
@@ -909,51 +1120,63 @@
   },
   "228": {
     "title": "J.C. Penney",
-    "website": "http://www.jcpenney.com"
+    "website": "http://www.jcpenney.com",
+    "ticker": "jcp"
   },
   "229": {
     "title": "Consolidated Edison",
-    "website": "http://www.conedison.com"
+    "website": "http://www.conedison.com",
+    "ticker": "ed"
   },
   "230": {
     "title": "Cognizant Technology Solutions",
-    "website": "http://www.cognizant.com"
+    "website": "http://www.cognizant.com",
+    "ticker": "ctsh"
   },
   "231": {
     "title": "VF",
-    "website": "http://www.vfc.com"
+    "website": "http://www.vfc.com",
+    "ticker": "vfc"
   },
   "232": {
     "title": "Ameriprise Financial",
-    "website": "http://www.ameriprise.com"
+    "website": "http://www.ameriprise.com",
+    "ticker": "amp"
   },
   "233": {
     "title": "Computer Sciences",
-    "website": "http://www.csc.com"
+    "website": "http://www.csc.com",
+    "ticker": "csc"
   },
   "234": {
     "title": "L Brands",
-    "website": "http://www.lb.com"
+    "website": "http://www.lb.com",
+    "ticker": "lb"
   },
   "235": {
     "title": "Jacobs Engineering Group",
-    "website": "http://www.jacobs.com"
+    "website": "http://www.jacobs.com",
+    "ticker": "jec"
   },
   "236": {
     "title": "Principal Financial Group",
-    "website": "http://www.principal.com"
+    "website": "http://www.principal.com",
+    "ticker": "pfg"
   },
   "237": {
     "title": "Ross Stores",
-    "website": "http://www.rossstores.com"
+    "website": "http://www.rossstores.com",
+    "ticker": "rost"
   },
   "238": {
     "title": "Bed Bath & Beyond",
-    "website": "http://www.bedbathandbeyond.com"
+    "website": "http://www.bedbathandbeyond.com",
+    "ticker": "bbby"
   },
   "239": {
     "title": "CSX",
-    "website": "http://www.csx.com"
+    "website": "http://www.csx.com",
+    "ticker": "csx"
   },
   "240": {
     "title": "Toys “R” Us",
@@ -961,167 +1184,208 @@
   },
   "241": {
     "title": "Las Vegas Sands",
-    "website": "http://www.sands.com"
+    "website": "http://www.sands.com",
+    "ticker": "lvs"
   },
   "242": {
     "title": "Leucadia National",
-    "website": "http://www.leucadia.com"
+    "website": "http://www.leucadia.com",
+    "ticker": "luk"
   },
   "243": {
     "title": "Dominion Resources",
-    "website": "http://www.dom.com"
+    "website": "http://www.dom.com",
+    "ticker": "d"
   },
   "244": {
     "title": "United States Steel",
-    "website": "http://www.ussteel.com"
+    "website": "http://www.ussteel.com",
+    "ticker": "x"
   },
   "245": {
     "title": "L-3 Communications",
-    "website": "http://www.l-3com.com"
+    "website": "http://www.l-3com.com",
+    "ticker": "lll"
   },
   "246": {
     "title": "Edison International",
-    "website": "http://www.edisoninvestor.com"
+    "website": "http://www.edisoninvestor.com",
+    "ticker": "eix"
   },
   "247": {
     "title": "Entergy",
-    "website": "http://www.entergy.com"
+    "website": "http://www.entergy.com",
+    "ticker": "etr"
   },
   "248": {
     "title": "ADP",
-    "website": "http://www.adp.com"
+    "website": "http://www.adp.com",
+    "ticker": "adp"
   },
   "249": {
     "title": "First Data",
-    "website": "http://www.firstdata.com"
+    "website": "http://www.firstdata.com",
+    "ticker": "fdc"
   },
   "250": {
     "title": "BlackRock",
-    "website": "http://www.blackrock.com"
+    "website": "http://www.blackrock.com",
+    "ticker": "blk"
   },
   "251": {
     "title": "WestRock",
-    "website": "http://www.westrock.com"
+    "website": "http://www.westrock.com",
+    "ticker": "wrk"
   },
   "252": {
     "title": "Voya Financial",
-    "website": "http://www.voya.com"
+    "website": "http://www.voya.com",
+    "ticker": "voya"
   },
   "253": {
     "title": "Sherwin-Williams",
-    "website": "http://www.sherwin.com"
+    "website": "http://www.sherwin.com",
+    "ticker": "shw"
   },
   "254": {
     "title": "Hilton Worldwide Holdings",
-    "website": "http://www.hiltonworldwide.com"
+    "website": "http://www.hiltonworldwide.com",
+    "ticker": "hlt"
   },
   "255": {
     "title": "R.R. Donnelley & Sons",
-    "website": "http://www.rrdonnelley.com"
+    "website": "http://www.rrdonnelley.com",
+    "ticker": "rrd"
   },
   "256": {
     "title": "Stanley Black & Decker",
-    "website": "http://www.stanleyblackanddecker.com"
+    "website": "http://www.stanleyblackanddecker.com",
+    "ticker": "swk"
   },
   "257": {
     "title": "Xcel Energy",
-    "website": "http://www.xcelenergy.com"
+    "website": "http://www.xcelenergy.com",
+    "ticker": "xel"
   },
   "258": {
     "title": "Murphy USA",
-    "website": "http://corporate.murphyusa.com"
+    "website": "http://corporate.murphyusa.com",
+    "ticker": "musa"
   },
   "259": {
     "title": "CBRE Group",
-    "website": "http://www.cbre.com"
+    "website": "http://www.cbre.com",
+    "ticker": "cbg"
   },
   "260": {
     "title": "D.R. Horton",
-    "website": "http://www.drhorton.com"
+    "website": "http://www.drhorton.com",
+    "ticker": "dhi"
   },
   "261": {
     "title": "Estee Lauder",
-    "website": "http://www.elcompanies.com"
+    "website": "http://www.elcompanies.com",
+    "ticker": "el"
   },
   "262": {
     "title": "Praxair",
-    "website": "http://www.praxair.com"
+    "website": "http://www.praxair.com",
+    "ticker": "px"
   },
   "263": {
     "title": "Biogen",
-    "website": "http://www.biogen.com"
+    "website": "http://www.biogen.com",
+    "ticker": "biib"
   },
   "264": {
     "title": "State Street Corp.",
-    "website": "http://www.statestreet.com"
+    "website": "http://www.statestreet.com",
+    "ticker": "stt"
   },
   "265": {
     "title": "Unum Group",
-    "website": "http://www.unum.com"
+    "website": "http://www.unum.com",
+    "ticker": "unm"
   },
   "266": {
     "title": "Reynolds American",
-    "website": "http://www.reynoldsamerican.com"
+    "website": "http://www.reynoldsamerican.com",
+    "ticker": "rai"
   },
   "267": {
     "title": "Group 1 Automotive",
-    "website": "http://www.group1auto.com"
+    "website": "http://www.group1auto.com",
+    "ticker": "gpi"
   },
   "268": {
     "title": "Henry Schein",
-    "website": "http://www.henryschein.com"
+    "website": "http://www.henryschein.com",
+    "ticker": "hsic"
   },
   "269": {
     "title": "Hertz Global Holdings",
-    "website": "http://www.hertz.com"
+    "website": "http://www.hertz.com",
+    "ticker": "htz"
   },
   "270": {
     "title": "Norfolk Southern",
-    "website": "http://www.nscorp.com"
+    "website": "http://www.nscorp.com",
+    "ticker": "nsc"
   },
   "271": {
     "title": "Reinsurance Group of America",
-    "website": "http://www.rgare.com"
+    "website": "http://www.rgare.com",
+    "ticker": "rga"
   },
   "272": {
     "title": "Public Service Enterprise Group",
-    "website": "http://www.pseg.com"
+    "website": "http://www.pseg.com",
+    "ticker": "peg"
   },
   "273": {
     "title": "BB&T Corp.",
-    "website": "http://www.bbt.com"
+    "website": "http://www.bbt.com",
+    "ticker": "bbt"
   },
   "274": {
     "title": "DTE Energy",
-    "website": "http://www.dteenergy.com"
+    "website": "http://www.dteenergy.com",
+    "ticker": "dte"
   },
   "275": {
     "title": "Assurant",
-    "website": "http://www.assurant.com"
+    "website": "http://www.assurant.com",
+    "ticker": "aiz"
   },
   "276": {
     "title": "Global Partners",
-    "website": "http://www.globalp.com"
+    "website": "http://www.globalp.com",
+    "ticker": "glp"
   },
   "277": {
     "title": "Huntsman",
-    "website": "http://www.huntsman.com"
+    "website": "http://www.huntsman.com",
+    "ticker": "hun"
   },
   "278": {
     "title": "Becton Dickinson",
-    "website": "http://www.bd.com"
+    "website": "http://www.bd.com",
+    "ticker": "bdx"
   },
   "279": {
     "title": "Sempra Energy",
-    "website": "http://www.sempra.com"
+    "website": "http://www.sempra.com",
+    "ticker": "sre"
   },
   "280": {
     "title": "AutoZone",
-    "website": "http://www.autozone.com"
+    "website": "http://www.autozone.com",
+    "ticker": "azo"
   },
   "281": {
     "title": "Navistar International",
-    "website": "http://www.navistar.com"
+    "website": "http://www.navistar.com",
+    "ticker": "nav"
   },
   "282": {
     "title": "Precision Castparts",
@@ -1129,127 +1393,158 @@
   },
   "283": {
     "title": "Discover Financial Services",
-    "website": "http://www.discover.com"
+    "website": "http://www.discover.com",
+    "ticker": "dfs"
   },
   "284": {
     "title": "Liberty Interactive",
-    "website": "http://www.libertyinteractive.com"
+    "website": "http://www.libertyinteractive.com",
+    "ticker": "qvca"
   },
   "285": {
     "title": "W.W. Grainger",
-    "website": "http://www.grainger.com"
+    "website": "http://www.grainger.com",
+    "ticker": "gww"
   },
   "286": {
     "title": "Baxter International",
-    "website": "http://www.baxter.com"
+    "website": "http://www.baxter.com",
+    "ticker": "bax"
   },
   "287": {
     "title": "Stryker",
-    "website": "http://www.stryker.com"
+    "website": "http://www.stryker.com",
+    "ticker": "syk"
   },
   "288": {
     "title": "Air Products & Chemicals",
-    "website": "http://www.airproducts.com"
+    "website": "http://www.airproducts.com",
+    "ticker": "apd"
   },
   "289": {
     "title": "Western Refining",
-    "website": "http://www.wnr.com"
+    "website": "http://www.wnr.com",
+    "ticker": "wnr"
   },
   "290": {
     "title": "Universal Health Services",
-    "website": "http://www.uhsinc.com"
+    "website": "http://www.uhsinc.com",
+    "ticker": "uhs"
   },
   "291": {
     "title": "Owens & Minor",
-    "website": "http://www.owens-minor.com"
+    "website": "http://www.owens-minor.com",
+    "ticker": "omi"
   },
   "292": {
     "title": "Charter Communications",
-    "website": "http://www.charter.com"
+    "website": "http://www.charter.com",
+    "ticker": "chtr"
   },
   "293": {
     "title": "Advance Auto Parts",
-    "website": "http://www.advanceautoparts.com"
+    "website": "http://www.advanceautoparts.com",
+    "ticker": "aap"
   },
   "294": {
     "title": "MasterCard",
-    "website": "http://www.mastercard.com"
+    "website": "http://www.mastercard.com",
+    "ticker": "ma"
   },
   "295": {
     "title": "Applied Materials",
-    "website": "http://www.appliedmaterials.com"
+    "website": "http://www.appliedmaterials.com",
+    "ticker": "amat"
   },
   "296": {
     "title": "Eastman Chemical",
-    "website": "http://www.eastman.com"
+    "website": "http://www.eastman.com",
+    "ticker": "emn"
   },
   "297": {
     "title": "Sonic Automotive",
-    "website": "http://www.sonicautomotive.com"
+    "website": "http://www.sonicautomotive.com",
+    "ticker": "sah"
   },
   "298": {
     "title": "Ally Financial",
-    "website": "http://www.ally.com"
+    "website": "http://www.ally.com",
+    "ticker": "ally"
   },
   "299": {
     "title": "CST Brands",
-    "website": "http://www.cstbrands.com"
+    "website": "http://www.cstbrands.com",
+    "ticker": "cst"
   },
   "300": {
     "title": "eBay",
-    "website": "http://www.ebay.com"
+    "website": "http://www.ebay.com",
+    "ticker": "ebay"
   },
   "301": {
     "title": "Lennar",
-    "website": "http://www.lennar.com"
+    "website": "http://www.lennar.com",
+    "ticker": "len"
   },
   "302": {
     "title": "GameStop",
-    "website": "http://www.gamestopcorp.com"
+    "website": "http://www.gamestopcorp.com",
+    "ticker": "gme"
   },
   "303": {
     "title": "Reliance Steel & Aluminum",
-    "website": "http://www.rsac.com"
+    "website": "http://www.rsac.com",
+    "ticker": "rs"
   },
   "304": {
     "title": "Hormel Foods",
-    "website": "http://www.hormelfoods.com"
+    "website": "http://www.hormelfoods.com",
+    "ticker": "hrl"
   },
   "305": {
     "title": "Celgene",
-    "website": "http://www.celgene.com"
+    "website": "http://www.celgene.com",
+    "ticker": "celg"
   },
   "306": {
     "title": "Genworth Financial",
-    "website": "http://www.genworth.com"
+    "website": "http://www.genworth.com",
+    "ticker": "gnw"
   },
   "307": {
     "title": "PayPal Holdings",
-    "website": "http://www.paypal.com"
+    "website": "http://www.paypal.com",
+    "ticker": "pypl"
   },
   "308": {
     "title": "Priceline Group",
-    "website": "http://www.pricelinegroup.com"
+    "website": "http://www.pricelinegroup.com",
+    "ticker": "pcln"
   },
   "309": {
     "title": "MGM Resorts International",
-    "website": "http://www.mgmresorts.com"
+    "website": "http://www.mgmresorts.com",
+    "ticker": "mgm"
   },
   "310": {
     "title": "Autoliv",
-    "website": "http://www.autoliv.com"
+    "website": "http://www.autoliv.com",
+    "ticker": "alv"
   },
   "311": {
     "title": "Fidelity National Financial",
-    "website": "http://www.fnf.com"
+    "website": "http://www.fnf.com",
+    "ticker": "fnf"
   },
   "312": {
     "title": "Republic Services",
-    "website": "http://www.republicservices.com"
+    "website": "http://www.republicservices.com",
+    "ticker": "rsg"
   },
   "313": {
     "title": "Corning",
-    "website": "http://www.corning.com"
+    "website": "http://www.corning.com",
+    "ticker": "glw"
   },
   "314": {
     "title": "Peter Kiewit Sons’",
@@ -1257,15 +1552,18 @@
   },
   "315": {
     "title": "Univar",
-    "website": "http://www.univar.com"
+    "website": "http://www.univar.com",
+    "ticker": "unvr"
   },
   "316": {
     "title": "Mosaic",
-    "website": "http://www.mosaicco.com"
+    "website": "http://www.mosaicco.com",
+    "ticker": "mos"
   },
   "317": {
     "title": "Core-Mark Holding",
-    "website": "http://www.core-mark.com"
+    "website": "http://www.core-mark.com",
+    "ticker": "core"
   },
   "318": {
     "title": "Thrivent Financial for Lutherans",
@@ -1273,31 +1571,38 @@
   },
   "319": {
     "title": "Cameron International",
-    "website": "http://www.c-a-m.com"
+    "website": "http://www.c-a-m.com",
+    "ticker": "cam"
   },
   "320": {
     "title": "HD Supply Holdings",
-    "website": "http://www.hdsupply.com"
+    "website": "http://www.hdsupply.com",
+    "ticker": "hds"
   },
   "321": {
     "title": "Crown Holdings",
-    "website": "http://www.crowncork.com"
+    "website": "http://www.crowncork.com",
+    "ticker": "cck"
   },
   "322": {
     "title": "EOG Resources",
-    "website": "http://www.eogresources.com"
+    "website": "http://www.eogresources.com",
+    "ticker": "eog"
   },
   "323": {
     "title": "Veritiv",
-    "website": "http://www.veritivcorp.com"
+    "website": "http://www.veritivcorp.com",
+    "ticker": "vrtv"
   },
   "324": {
     "title": "Anadarko Petroleum",
-    "website": "http://www.anadarko.com"
+    "website": "http://www.anadarko.com",
+    "ticker": "apc"
   },
   "325": {
     "title": "Laboratory Corp. of America",
-    "website": "http://www.labcorp.com"
+    "website": "http://www.labcorp.com",
+    "ticker": "lh"
   },
   "326": {
     "title": "Pacific Life",
@@ -1305,7 +1610,8 @@
   },
   "327": {
     "title": "News Corp.",
-    "website": "http://www.newscorp.com"
+    "website": "http://www.newscorp.com",
+    "ticker": "nwsa"
   },
   "328": {
     "title": "Jarden",
@@ -1313,11 +1619,13 @@
   },
   "329": {
     "title": "SunTrust Banks",
-    "website": "http://www.suntrust.com"
+    "website": "http://www.suntrust.com",
+    "ticker": "sti"
   },
   "330": {
     "title": "Avis Budget Group",
-    "website": "http://www.avisbudgetgroup.com"
+    "website": "http://www.avisbudgetgroup.com",
+    "ticker": "car"
   },
   "331": {
     "title": "Broadcom",
@@ -1329,139 +1637,173 @@
   },
   "333": {
     "title": "Level 3 Communications",
-    "website": "http://www.level3.com"
+    "website": "http://www.level3.com",
+    "ticker": "lvlt"
   },
   "334": {
     "title": "Tenneco",
-    "website": "http://www.tenneco.com"
+    "website": "http://www.tenneco.com",
+    "ticker": "ten"
   },
   "335": {
     "title": "United Natural Foods",
-    "website": "http://www.unfi.com"
+    "website": "http://www.unfi.com",
+    "ticker": "unfi"
   },
   "336": {
     "title": "Dean Foods",
-    "website": "http://www.deanfoods.com"
+    "website": "http://www.deanfoods.com",
+    "ticker": "df"
   },
   "337": {
     "title": "Campbell Soup",
-    "website": "http://www.campbellsoupcompany.com"
+    "website": "http://www.campbellsoupcompany.com",
+    "ticker": "cpb"
   },
   "338": {
     "title": "Mohawk Industries",
-    "website": "http://www.mohawkind.com"
+    "website": "http://www.mohawkind.com",
+    "ticker": "mhk"
   },
   "339": {
     "title": "BorgWarner",
-    "website": "http://www.borgwarner.com"
+    "website": "http://www.borgwarner.com",
+    "ticker": "bwa"
   },
   "340": {
     "title": "PVH",
-    "website": "http://www.pvh.com"
+    "website": "http://www.pvh.com",
+    "ticker": "pvh"
   },
   "341": {
     "title": "Ball",
-    "website": "http://www.ball.com"
+    "website": "http://www.ball.com",
+    "ticker": "bll"
   },
   "342": {
     "title": "O’Reilly Automotive",
-    "website": "http://www.oreillyauto.com"
+    "website": "http://www.oreillyauto.com",
+    "ticker": "orly"
   },
   "343": {
     "title": "Eversource Energy",
-    "website": "http://www.eversource.com"
+    "website": "http://www.eversource.com",
+    "ticker": "es"
   },
   "344": {
     "title": "Franklin Resources",
-    "website": "http://www.franklinresources.com"
+    "website": "http://www.franklinresources.com",
+    "ticker": "ben"
   },
   "345": {
     "title": "Masco",
-    "website": "http://www.masco.com"
+    "website": "http://www.masco.com",
+    "ticker": "mas"
   },
   "346": {
     "title": "Lithia Motors",
-    "website": "http://www.lithiamotors.com"
+    "website": "http://www.lithiamotors.com",
+    "ticker": "lad"
   },
   "347": {
     "title": "KKR",
-    "website": "http://www.kkr.com"
+    "website": "http://www.kkr.com",
+    "ticker": "kkr"
   },
   "348": {
     "title": "Oneok",
-    "website": "http://www.oneok.com"
+    "website": "http://www.oneok.com",
+    "ticker": "oke"
   },
   "349": {
     "title": "Newmont Mining",
-    "website": "http://www.newmont.com"
+    "website": "http://www.newmont.com",
+    "ticker": "nem"
   },
   "350": {
     "title": "PPL",
-    "website": "http://www.pplweb.com"
+    "website": "http://www.pplweb.com",
+    "ticker": "ppl"
   },
   "351": {
     "title": "SpartanNash",
-    "website": "http://www.spartannash.com"
+    "website": "http://www.spartannash.com",
+    "ticker": "sptn"
   },
   "352": {
     "title": "Quanta Services",
-    "website": "http://www.quantaservices.com"
+    "website": "http://www.quantaservices.com",
+    "ticker": "pwr"
   },
   "353": {
     "title": "XPO Logistics",
-    "website": "http://www.xpo.com"
+    "website": "http://www.xpo.com",
+    "ticker": "xpo"
   },
   "354": {
     "title": "Ralph Lauren",
-    "website": "http://www.ralphlauren.com"
+    "website": "http://www.ralphlauren.com",
+    "ticker": "rl"
   },
   "355": {
     "title": "Interpublic Group",
-    "website": "http://www.interpublic.com"
+    "website": "http://www.interpublic.com",
+    "ticker": "ipg"
   },
   "356": {
     "title": "Steel Dynamics",
-    "website": "http://www.steeldynamics.com"
+    "website": "http://www.steeldynamics.com",
+    "ticker": "stld"
   },
   "357": {
     "title": "WESCO International",
-    "website": "http://www.wesco.com"
+    "website": "http://www.wesco.com",
+    "ticker": "wcc"
   },
   "358": {
     "title": "Quest Diagnostics",
-    "website": "http://www.questdiagnostics.com"
+    "website": "http://www.questdiagnostics.com",
+    "ticker": "dgx"
   },
   "359": {
     "title": "Boston Scientific",
-    "website": "http://www.bostonscientific.com"
+    "website": "http://www.bostonscientific.com",
+    "ticker": "bsx"
   },
   "360": {
     "title": "AGCO",
-    "website": "http://www.agcocorp.com"
+    "website": "http://www.agcocorp.com",
+    "ticker": "agco"
   },
   "361": {
     "title": "Foot Locker",
-    "website": "http://www.footlocker-inc.com"
+    "website": "http://www.footlocker-inc.com",
+    "ticker": "fl"
   },
   "362": {
     "title": "Hershey",
-    "website": "http://www.thehersheycompany.com"
+    "website": "http://www.thehersheycompany.com",
+    "ticker": "hsy"
   },
   "363": {
     "title": "CenterPoint Energy",
-    "website": "http://www.centerpointenergy.com"
+    "website": "http://www.centerpointenergy.com",
+    "ticker": "cnp"
   },
   "364": {
     "title": "Williams",
-    "website": "http://www.williams.com"
+    "website": "http://www.williams.com",
+    "ticker": "wmb"
   },
   "365": {
     "title": "Dick’s Sporting Goods",
-    "website": "http://www.dicks.com"
+    "website": "http://www.dicks.com",
+    "ticker": "dks"
   },
   "366": {
     "title": "Live Nation Entertainment",
-    "website": "http://www.livenation.com"
+    "website": "http://www.livenation.com",
+    "ticker": "lyv"
   },
   "367": {
     "title": "Mutual of Omaha Insurance",
@@ -1469,59 +1811,73 @@
   },
   "368": {
     "title": "W.R. Berkley",
-    "website": "http://www.wrberkley.com"
+    "website": "http://www.wrberkley.com",
+    "ticker": "wrb"
   },
   "369": {
     "title": "LKQ",
-    "website": "http://www.lkqcorp.com"
+    "website": "http://www.lkqcorp.com",
+    "ticker": "lkq"
   },
   "370": {
     "title": "Avon Products",
-    "website": "http://www.avoncompany.com"
+    "website": "http://www.avoncompany.com",
+    "ticker": "avp"
   },
   "371": {
     "title": "Darden Restaurants",
-    "website": "http://www.darden.com"
+    "website": "http://www.darden.com",
+    "ticker": "dri"
   },
   "372": {
     "title": "Kindred Healthcare",
-    "website": "http://www.kindredhealthcare.com"
+    "website": "http://www.kindredhealthcare.com",
+    "ticker": "knd"
   },
   "373": {
     "title": "Weyerhaeuser",
-    "website": "http://www.weyerhaeuser.com"
+    "website": "http://www.weyerhaeuser.com",
+    "ticker": "wy"
   },
   "374": {
     "title": "Casey’s General Stores",
-    "website": "http://www.caseys.com"
+    "website": "http://www.caseys.com",
+    "ticker": "casy"
   },
   "375": {
     "title": "Sealed Air",
-    "website": "http://www.sealedair.com"
+    "website": "http://www.sealedair.com",
+    "ticker": "see"
   },
   "376": {
     "title": "Fifth Third Bancorp",
-    "website": "http://www.53.com"
+    "website": "http://www.53.com",
+    "ticker": "fitb"
   },
   "377": {
     "title": "Dover",
-    "website": "http://www.dovercorporation.com"
+    "website": "http://www.dovercorporation.com",
+    "ticker": "dov"
   },
   "378": {
     "title": "Huntington Ingalls Industries",
-    "website": "http://www.huntingtoningalls.com%20"
+    "website": "http://www.huntingtoningalls.com%20",
+    "ticker": "hii"
   },
   "379": {
     "title": "Netflix",
-    "website": "http://www.netflix.com"
+    "website": "http://www.netflix.com",
+    "ticker": "nflx"
   },
   "380": {
     "title": "Dillard’s",
-    "website": "http://www.dillards.com"
+    "website": "http://www.dillards.com",
+    "ticker": "dds"
   },
   "381": {
     "title": "EMCOR Group",
-    "website": "http://www.emcorgroup.com"
+    "website": "http://www.emcorgroup.com",
+    "ticker": "eme"
   },
   "382": {
     "title": "Jones Financial",
@@ -1529,63 +1885,78 @@
   },
   "383": {
     "title": "AK Steel Holding",
-    "website": "http://www.aksteel.com"
+    "website": "http://www.aksteel.com",
+    "ticker": "aks"
   },
   "384": {
     "title": "UGI",
-    "website": "http://www.ugicorp.com"
+    "website": "http://www.ugicorp.com",
+    "ticker": "ugi"
   },
   "385": {
     "title": "Expedia",
-    "website": "http://www.expediainc.com"
+    "website": "http://www.expediainc.com",
+    "ticker": "expe"
   },
   "386": {
     "title": "salesforce.com",
-    "website": "http://www.salesforce.com"
+    "website": "http://www.salesforce.com",
+    "ticker": "crm"
   },
   "387": {
     "title": "Targa Resources",
-    "website": "http://www.targaresources.com"
+    "website": "http://www.targaresources.com",
+    "ticker": "trgp"
   },
   "388": {
     "title": "Apache",
-    "website": "http://www.apachecorp.com"
+    "website": "http://www.apachecorp.com",
+    "ticker": "apa"
   },
   "389": {
     "title": "Spirit AeroSystems Holdings",
-    "website": "http://www.spiritaero.com"
+    "website": "http://www.spiritaero.com",
+    "ticker": "spr"
   },
   "390": {
     "title": "Expeditors International of Washington",
-    "website": "http://www.expeditors.com"
+    "website": "http://www.expeditors.com",
+    "ticker": "expd"
   },
   "391": {
     "title": "Anixter International",
-    "website": "http://www.anixter.com"
+    "website": "http://www.anixter.com",
+    "ticker": "axe"
   },
   "392": {
     "title": "Fidelity National Information Services",
-    "website": "http://www.fisglobal.com"
+    "website": "http://www.fisglobal.com",
+    "ticker": "fis"
   },
   "393": {
     "title": "Asbury Automotive Group",
-    "website": "http://www.asburyauto.com"
+    "website": "http://www.asburyauto.com",
+    "ticker": "abg"
   },
   "394": {
     "title": "Hess",
-    "website": "http://www.hess.com"
+    "website": "http://www.hess.com",
+    "ticker": "hes"
   },
   "395": {
     "title": "Ryder System",
-    "website": "http://www.ryder.com"
+    "website": "http://www.ryder.com",
+    "ticker": "r"
   },
   "396": {
     "title": "Terex",
-    "website": "http://www.terex.com"
+    "website": "http://www.terex.com",
+    "ticker": "tex"
   },
   "397": {
     "title": "Coca-Cola European Partners",
-    "website": "http://www.cokecce.com"
+    "website": "http://www.cokecce.com",
+    "ticker": "cce"
   },
   "398": {
     "title": "Auto-Owners Insurance",
@@ -1593,51 +1964,63 @@
   },
   "399": {
     "title": "Cablevision Systems",
-    "website": "http://www.cablevision.com"
+    "website": "http://www.cablevision.com",
+    "ticker": ""
   },
   "400": {
     "title": "Symantec",
-    "website": "http://www.symantec.com"
+    "website": "http://www.symantec.com",
+    "ticker": "symc"
   },
   "401": {
     "title": "Charles Schwab",
-    "website": "http://www.aboutschwab.com"
+    "website": "http://www.aboutschwab.com",
+    "ticker": "schw"
   },
   "402": {
     "title": "Calpine",
-    "website": "http://www.calpine.com"
+    "website": "http://www.calpine.com",
+    "ticker": "cpn"
   },
   "403": {
     "title": "CMS Energy",
-    "website": "http://www.cmsenergy.com"
+    "website": "http://www.cmsenergy.com",
+    "ticker": "cms"
   },
   "404": {
     "title": "Alliance Data Systems",
-    "website": "http://www.alliancedata.com"
+    "website": "http://www.alliancedata.com",
+    "ticker": "ads"
   },
   "405": {
     "title": "JetBlue Airways",
-    "website": "http://www.jetblue.com"
+    "website": "http://www.jetblue.com",
+    "ticker": "jblu"
   },
   "406": {
     "title": "Discovery Communications",
-    "website": "http://www.discoverycommunications.com"
+    "website": "http://www.discoverycommunications.com",
+    "ticker": "disca"
   },
   "407": {
     "title": "Trinity Industries",
-    "website": "http://www.trin.net"
+    "website": "http://www.trin.net",
+    "ticker": "trn"
   },
   "408": {
     "title": "Sanmina",
-    "website": "http://www.sanmina.com"
+    "website": "http://www.sanmina.com",
+    "ticker": "sanm"
   },
   "409": {
     "title": "NCR",
-    "website": "http://www.ncr.com"
+    "website": "http://www.ncr.com",
+    "ticker": "ncr"
   },
   "410": {
     "title": "FMC Technologies",
-    "website": "http://www.fmctechnologies.com"
+    "website": "http://www.fmctechnologies.com",
+    "ticker": "fti"
   },
   "411": {
     "title": "Erie Insurance Group",
@@ -1645,47 +2028,58 @@
   },
   "412": {
     "title": "Rockwell Automation",
-    "website": "http://www.rockwellautomation.com"
+    "website": "http://www.rockwellautomation.com",
+    "ticker": "rok"
   },
   "413": {
     "title": "Dr Pepper Snapple Group",
-    "website": "http://www.drpeppersnapplegroup.com"
+    "website": "http://www.drpeppersnapplegroup.com",
+    "ticker": "dps"
   },
   "414": {
     "title": "iHeartMedia",
-    "website": "http://www.iheartmedia.com"
+    "website": "http://www.iheartmedia.com",
+    "ticker": "ihrt"
   },
   "415": {
     "title": "Tractor Supply",
-    "website": "http://www.tractorsupply.com"
+    "website": "http://www.tractorsupply.com",
+    "ticker": "tsco"
   },
   "416": {
     "title": "J.B. Hunt Transport Services",
-    "website": "http://www.jbhunt.com"
+    "website": "http://www.jbhunt.com",
+    "ticker": "jbht"
   },
   "417": {
     "title": "Commercial Metals",
-    "website": "http://www.cmc.com"
+    "website": "http://www.cmc.com",
+    "ticker": "cmc"
   },
   "418": {
     "title": "Owens-Illinois",
-    "website": "http://www.o-i.com"
+    "website": "http://www.o-i.com",
+    "ticker": "oi"
   },
   "419": {
     "title": "Harman International Industries",
-    "website": "http://www.harman.com"
+    "website": "http://www.harman.com",
+    "ticker": "har"
   },
   "420": {
     "title": "Baxalta",
-    "website": "http://www.baxalta.com"
+    "website": "http://www.baxalta.com",
+    "ticker": ""
   },
   "421": {
     "title": "American Financial Group",
-    "website": "http://www.afginc.com"
+    "website": "http://www.afginc.com",
+    "ticker": "afg"
   },
   "422": {
     "title": "NetApp",
-    "website": "http://www.netapp.com"
+    "website": "http://www.netapp.com",
+    "ticker": "ntap"
   },
   "423": {
     "title": "Graybar Electric",
@@ -1693,83 +2087,103 @@
   },
   "424": {
     "title": "Oshkosh",
-    "website": "http://www.oshkoshcorporation.com"
+    "website": "http://www.oshkoshcorporation.com",
+    "ticker": "osk"
   },
   "425": {
     "title": "Ameren",
-    "website": "http://www.ameren.com"
+    "website": "http://www.ameren.com",
+    "ticker": "aee"
   },
   "426": {
     "title": "A-Mark Precious Metals",
-    "website": "http://www.amark.com"
+    "website": "http://www.amark.com",
+    "ticker": "amrk"
   },
   "427": {
     "title": "Barnes & Noble",
-    "website": "http://www.barnesandnobleinc.com"
+    "website": "http://www.barnesandnobleinc.com",
+    "ticker": "bks"
   },
   "428": {
     "title": "Dana Holding",
-    "website": "http://www.dana.com"
+    "website": "http://www.dana.com",
+    "ticker": "dan"
   },
   "429": {
     "title": "Constellation Brands",
-    "website": "http://www.cbrands.com"
+    "website": "http://www.cbrands.com",
+    "ticker": "stz"
   },
   "430": {
     "title": "LifePoint Health",
-    "website": "http://www.lifepointhealth.net"
+    "website": "http://www.lifepointhealth.net",
+    "ticker": "lpnt"
   },
   "431": {
     "title": "Zimmer Biomet Holdings",
-    "website": "http://www.zimmerbiomet.com"
+    "website": "http://www.zimmerbiomet.com",
+    "ticker": "zbh"
   },
   "432": {
     "title": "Harley-Davidson",
-    "website": "http://www.harley-davidson.com"
+    "website": "http://www.harley-davidson.com",
+    "ticker": "hog"
   },
   "433": {
     "title": "PulteGroup",
-    "website": "http://www.pultegroupinc.com"
+    "website": "http://www.pultegroupinc.com",
+    "ticker": "phm"
   },
   "434": {
     "title": "Newell Brands",
-    "website": "http://www.newellbrands.com"
+    "website": "http://www.newellbrands.com",
+    "ticker": "nwl"
   },
   "435": {
     "title": "Avery Dennison",
-    "website": "http://www.averydennison.com"
+    "website": "http://www.averydennison.com",
+    "ticker": "avy"
   },
   "436": {
     "title": "Jones Lang LaSalle",
-    "website": "http://www.jll.com"
+    "website": "http://www.jll.com",
+    "ticker": "jll"
   },
   "437": {
     "title": "WEC Energy Group",
-    "website": "http://www.wecenergygroup.com"
+    "website": "http://www.wecenergygroup.com",
+    "ticker": "wec"
   },
   "438": {
     "title": "Marathon Oil",
-    "website": "http://www.marathonoil.com"
+    "website": "http://www.marathonoil.com",
+    "ticker": "mro"
   },
   "439": {
     "title": "TravelCenters of America",
-    "website": "http://www.ta-petrol.com"
+    "website": "http://www.ta-petrol.com",
+    "ticker": "ta"
   },
   "440": {
     "title": "United Rentals",
-    "website": "http://www.unitedrentals.com"
+    "website": "http://www.unitedrentals.com",
+    "ticker": "uri"
   },
   "441": {
     "title": "HRG Group",
-    "website": "http://www.hrggroup.com"
+    "website": "http://www.hrggroup.com",
+    "ticker": "hrg"
   },
   "442": {
     "title": "Old Republic International",
-    "website": "http://www.oldrepublic.com"
+    "website": "http://www.oldrepublic.com",
+    "ticker": "ori"
   },
   "443": {
     "title": "Windstream Holdings",
-    "website": "http://www.windstream.com"
+    "website": "http://www.windstream.com",
+    "ticker": "win"
   },
   "444": {
     "title": "Starwood Hotels & Resorts",
@@ -1777,71 +2191,88 @@
   },
   "445": {
     "title": "Delek US Holdings",
-    "website": "http://www.delekus.com"
+    "website": "http://www.delekus.com",
+    "ticker": "dk"
   },
   "446": {
     "title": "Packaging Corp. of America",
-    "website": "http://www.packagingcorp.com"
+    "website": "http://www.packagingcorp.com",
+    "ticker": "pkg"
   },
   "447": {
     "title": "Quintiles IMS Holdings",
-    "website": "http://www.quintilesims.com"
+    "website": "http://www.quintilesims.com",
+    "ticker": "q"
   },
   "448": {
     "title": "Hanesbrands",
-    "website": "http://www.hanes.com"
+    "website": "http://www.hanes.com",
+    "ticker": "hbi"
   },
   "449": {
     "title": "Realogy Holdings",
-    "website": "http://www.realogy.com"
+    "website": "http://www.realogy.com",
+    "ticker": "rlgy"
   },
   "450": {
     "title": "Mattel",
-    "website": "http://www.corporate.mattel.com"
+    "website": "http://www.corporate.mattel.com",
+    "ticker": "mat"
   },
   "451": {
     "title": "Motorola Solutions",
-    "website": "http://www.motorolasolutions.com"
+    "website": "http://www.motorolasolutions.com",
+    "ticker": "msi"
   },
   "452": {
     "title": "J.M. Smucker",
-    "website": "http://www.jmsmucker.com"
+    "website": "http://www.jmsmucker.com",
+    "ticker": "sjm"
   },
   "453": {
     "title": "Celanese",
-    "website": "http://www.celanese.com"
+    "website": "http://www.celanese.com",
+    "ticker": "ce"
   },
   "455": {
     "title": "Clorox",
-    "website": "http://www.thecloroxcompany.com"
+    "website": "http://www.thecloroxcompany.com",
+    "ticker": "clx"
   },
   "456": {
     "title": "Ingredion",
-    "website": "http://www.ingredion.com"
+    "website": "http://www.ingredion.com",
+    "ticker": "ingr"
   },
   "457": {
     "title": "Genesis Healthcare",
-    "website": "http://www.genesishcc.com"
+    "website": "http://www.genesishcc.com",
+    "ticker": "gen"
   },
   "458": {
     "title": "Peabody Energy",
-    "website": "http://www.peabodyenergy.com"
+    "website": "http://www.peabodyenergy.com",
+    "ticker": "btuuq"
   },
   "459": {
     "title": "Alaska Air Group",
-    "website": "http://www.alaskaair.com"
+    "website": "http://www.alaskaair.com",
+    "ticker": "alk"
   },
   "460": {
     "title": "Seaboard",
-    "website": "http://www.seaboardcorp.com"
+    "website": "http://www.seaboardcorp.com",
+    "ticker": "seb"
   },
   "461": {
     "title": "Frontier Communications",
-    "website": "http://www.frontier.com"
+    "website": "http://www.frontier.com",
+    "ticker": "ftr"
   },
   "462": {
     "title": "Amphenol",
-    "website": "http://www.amphenol.com"
+    "website": "http://www.amphenol.com",
+    "ticker": "aph"
   },
   "463": {
     "title": "Lansing Trade Group",
@@ -1849,23 +2280,28 @@
   },
   "464": {
     "title": "SanDisk",
-    "website": "http://www.sandisk.com"
+    "website": "http://www.sandisk.com",
+    "ticker": "sndk"
   },
   "465": {
     "title": "St. Jude Medical",
-    "website": "http://www.sjm.com"
+    "website": "http://www.sjm.com",
+    "ticker": "stj"
   },
   "466": {
     "title": "Wyndham Worldwide",
-    "website": "http://www.wyndhamworldwide.com"
+    "website": "http://www.wyndhamworldwide.com",
+    "ticker": "wyn"
   },
   "467": {
     "title": "Kelly Services",
-    "website": "http://www.kellyservices.com"
+    "website": "http://www.kellyservices.com",
+    "ticker": "kelya"
   },
   "468": {
     "title": "Western Union",
-    "website": "http://www.westernunion.com"
+    "website": "http://www.westernunion.com",
+    "ticker": "wu"
   },
   "469": {
     "title": "Envision Healthcare Holdings",
@@ -1873,19 +2309,23 @@
   },
   "470": {
     "title": "Visteon",
-    "website": "http://www.visteon.com"
+    "website": "http://www.visteon.com",
+    "ticker": "vc"
   },
   "471": {
     "title": "Arthur J. Gallagher",
-    "website": "http://www.ajg.com"
+    "website": "http://www.ajg.com",
+    "ticker": "ajg"
   },
   "472": {
     "title": "Ashland",
-    "website": "http://www.ashland.com"
+    "website": "http://www.ashland.com",
+    "ticker": "ash"
   },
   "474": {
     "title": "Insight Enterprises",
-    "website": "http://www.insight.com"
+    "website": "http://www.insight.com",
+    "ticker": "nsit"
   },
   "475": {
     "title": "Energy Future Holdings",
@@ -1893,11 +2333,13 @@
   },
   "476": {
     "title": "Markel",
-    "website": "http://www.markelcorp.com"
+    "website": "http://www.markelcorp.com",
+    "ticker": "mkl"
   },
   "477": {
     "title": "Essendant",
-    "website": "http://www.essendant.com"
+    "website": "http://www.essendant.com",
+    "ticker": "esnd"
   },
   "478": {
     "title": "CH2M Hill",
@@ -1909,7 +2351,8 @@
   },
   "480": {
     "title": "Owens Corning",
-    "website": "http://www.owenscorning.com"
+    "website": "http://www.owenscorning.com",
+    "ticker": "oc"
   },
   "481": {
     "title": "S&P Global",
@@ -1917,11 +2360,13 @@
   },
   "482": {
     "title": "Raymond James Financial",
-    "website": "http://www.raymondjames.com"
+    "website": "http://www.raymondjames.com",
+    "ticker": "rjf"
   },
   "483": {
     "title": "NiSource",
-    "website": "http://www.nisource.com"
+    "website": "http://www.nisource.com",
+    "ticker": "ni"
   },
   "484": {
     "title": "Airgas",
@@ -1929,71 +2374,88 @@
   },
   "485": {
     "title": "ABM Industries",
-    "website": "http://www.abm.com"
+    "website": "http://www.abm.com",
+    "ticker": "abm"
   },
   "486": {
     "title": "Citizens Financial Group",
-    "website": "http://www.citizensbank.com"
+    "website": "http://www.citizensbank.com",
+    "ticker": "cfg"
   },
   "487": {
     "title": "Booz Allen Hamilton Holding",
-    "website": "http://www.boozallen.com"
+    "website": "http://www.boozallen.com",
+    "ticker": "bah"
   },
   "488": {
     "title": "Simon Property Group",
-    "website": "http://www.simon.com"
+    "website": "http://www.simon.com",
+    "ticker": "spg"
   },
   "489": {
     "title": "Domtar",
-    "website": "http://www.domtar.com"
+    "website": "http://www.domtar.com",
+    "ticker": "ufs"
   },
   "490": {
     "title": "Rockwell Collins",
-    "website": "http://www.rockwellcollins.com"
+    "website": "http://www.rockwellcollins.com",
+    "ticker": "col"
   },
   "491": {
     "title": "Lam Research",
-    "website": "http://www.lamresearch.com"
+    "website": "http://www.lamresearch.com",
+    "ticker": "lrcx"
   },
   "492": {
     "title": "Fiserv",
-    "website": "http://www.fiserv.com"
+    "website": "http://www.fiserv.com",
+    "ticker": "fisv"
   },
   "493": {
     "title": "Spectra Energy",
-    "website": "http://www.spectraenergy.com"
+    "website": "http://www.spectraenergy.com",
+    "ticker": "se"
   },
   "494": {
     "title": "Navient",
-    "website": "http://www.navient.com"
+    "website": "http://www.navient.com",
+    "ticker": "navi"
   },
   "495": {
     "title": "Big Lots",
-    "website": "http://www.biglots.com"
+    "website": "http://www.biglots.com",
+    "ticker": "big"
   },
   "496": {
     "title": "Telephone & Data Systems",
-    "website": "http://www.tdsinc.com"
+    "website": "http://www.tdsinc.com",
+    "ticker": "tds"
   },
   "497": {
     "title": "First American Financial",
-    "website": "http://www.firstam.com"
+    "website": "http://www.firstam.com",
+    "ticker": "faf"
   },
   "498": {
     "title": "NVR",
-    "website": "http://www.nvrinc.com"
+    "website": "http://www.nvrinc.com",
+    "ticker": "nvr"
   },
   "499": {
     "title": "Cincinnati Financial",
-    "website": "http://www.cinfin.com"
+    "website": "http://www.cinfin.com",
+    "ticker": "cinf"
   },
   "500": {
     "title": "Burlington Stores",
-    "website": "http://www.burlingtonstores.com"
+    "website": "http://www.burlingtonstores.com",
+    "ticker": "burl"
   },
   "501": {
     "title": "KBR",
-    "website": "http://www.kbr.com"
+    "website": "http://www.kbr.com",
+    "ticker": "kbr"
   },
   "502": {
     "title": "Neiman Marcus Group",
@@ -2001,19 +2463,23 @@
   },
   "503": {
     "title": "Robert Half International",
-    "website": "http://www.roberthalf.com"
+    "website": "http://www.roberthalf.com",
+    "ticker": "rhi"
   },
   "504": {
     "title": "Leidos Holdings",
-    "website": "http://www.leidos.com"
+    "website": "http://www.leidos.com",
+    "ticker": "ldos"
   },
   "505": {
     "title": "Harris",
-    "website": "http://www.harris.com"
+    "website": "http://www.harris.com",
+    "ticker": "hrs"
   },
   "506": {
     "title": "Hanover Insurance Group",
-    "website": "http://www.hanover.com"
+    "website": "http://www.hanover.com",
+    "ticker": "thg"
   },
   "507": {
     "title": "Pepco Holdings",
@@ -2021,139 +2487,173 @@
   },
   "508": {
     "title": "Nvidia",
-    "website": "http://www.nvidia.com"
+    "website": "http://www.nvidia.com",
+    "ticker": "nvda"
   },
   "509": {
     "title": "Alleghany",
-    "website": "http://www.alleghany.com"
+    "website": "http://www.alleghany.com",
+    "ticker": "y"
   },
   "510": {
     "title": "M&T Bank Corp.",
-    "website": "http://www.mtb.com"
+    "website": "http://www.mtb.com",
+    "ticker": "mtb"
   },
   "511": {
     "title": "Rush Enterprises",
-    "website": "http://www.rushenterprises.com"
+    "website": "http://www.rushenterprises.com",
+    "ticker": "rushb"
   },
   "512": {
     "title": "Williams-Sonoma",
-    "website": "http://www.williams-sonomainc.com"
+    "website": "http://www.williams-sonomainc.com",
+    "ticker": "wsm"
   },
   "513": {
     "title": "Yahoo",
-    "website": "http://www.yahoo.com"
+    "website": "http://www.yahoo.com",
+    "ticker": "yhoo"
   },
   "514": {
     "title": "Sonoco Products",
-    "website": "http://www.sonoco.com"
+    "website": "http://www.sonoco.com",
+    "ticker": "son"
   },
   "515": {
     "title": "Brookdale Senior Living",
-    "website": "http://www.brookdale.com"
+    "website": "http://www.brookdale.com",
+    "ticker": "bkd"
   },
   "516": {
     "title": "Tutor Perini",
-    "website": "http://www.tutorperini.com"
+    "website": "http://www.tutorperini.com",
+    "ticker": "tpc"
   },
   "517": {
     "title": "Michaels Cos.",
-    "website": "http://www.michaels.com"
+    "website": "http://www.michaels.com",
+    "ticker": "mik"
   },
   "518": {
     "title": "Berry Plastics Group",
-    "website": "http://www.berryplastics.com"
+    "website": "http://www.berryplastics.com",
+    "ticker": "bery"
   },
   "519": {
     "title": "Juniper Networks",
-    "website": "http://www.juniper.net"
+    "website": "http://www.juniper.net",
+    "ticker": "jnpr"
   },
   "520": {
     "title": "Northern Trust",
-    "website": "http://www.northerntrust.com"
+    "website": "http://www.northerntrust.com",
+    "ticker": "ntrs"
   },
   "521": {
     "title": "YRC Worldwide",
-    "website": "http://www.yrcw.com"
+    "website": "http://www.yrcw.com",
+    "ticker": "yrcw"
   },
   "522": {
     "title": "Pioneer Natural Resources",
-    "website": "http://www.pxd.com"
+    "website": "http://www.pxd.com",
+    "ticker": "pxd"
   },
   "523": {
     "title": "Ascena Retail Group",
-    "website": "http://www.ascenaretail.com"
+    "website": "http://www.ascenaretail.com",
+    "ticker": "asna"
   },
   "524": {
     "title": "Adobe Systems",
-    "website": "http://www.adobe.com"
+    "website": "http://www.adobe.com",
+    "ticker": "adbe"
   },
   "525": {
     "title": "Liberty Media",
-    "website": "http://www.libertymedia.com"
+    "website": "http://www.libertymedia.com",
+    "ticker": "lmca"
   },
   "526": {
     "title": "American Tower",
-    "website": "http://www.americantower.com"
+    "website": "http://www.americantower.com",
+    "ticker": "amt"
   },
   "527": {
     "title": "Zoetis",
-    "website": "http://www.zoetis.com"
+    "website": "http://www.zoetis.com",
+    "ticker": "zts"
   },
   "528": {
     "title": "Polaris Industries",
-    "website": "http://www.polaris.com"
+    "website": "http://www.polaris.com",
+    "ticker": "pii"
   },
   "529": {
     "title": "Intercontinental Exchange",
-    "website": "http://www.theice.com"
+    "website": "http://www.theice.com",
+    "ticker": "ice"
   },
   "530": {
     "title": "Quad/Graphics",
-    "website": "http://www.qg.com"
+    "website": "http://www.qg.com",
+    "ticker": "quad"
   },
   "531": {
     "title": "AmTrust Financial Services",
-    "website": "http://www.amtrustgroup.com"
+    "website": "http://www.amtrustgroup.com",
+    "ticker": "afsi"
   },
   "532": {
     "title": "Activision Blizzard",
-    "website": "http://www.activisionblizzard.com"
+    "website": "http://www.activisionblizzard.com",
+    "ticker": "atvi"
   },
   "533": {
     "title": "Fortune Brands Home & Security",
-    "website": "http://www.fbhs.com"
+    "website": "http://www.fbhs.com",
+    "ticker": "fbhs"
   },
   "534": {
     "title": "Caesars Entertainment",
-    "website": "http://www.caesars.com"
+    "website": "http://www.caesars.com",
+    "ticker": "czr"
   },
   "535": {
     "title": "Post Holdings",
-    "website": "http://www.postholdings.com"
+    "website": "http://www.postholdings.com",
+    "ticker": "post"
   },
   "536": {
     "title": "Blackstone Group",
-    "website": "http://www.blackstone.com"
+    "website": "http://www.blackstone.com",
+    "ticker": "bx"
   },
   "537": {
     "title": "Magellan Health",
-    "website": "http://www.magellanhealth.com"
+    "website": "http://www.magellanhealth.com",
+    "ticker": "mgln"
   },
   "538": {
     "title": "RPM International",
-    "website": "http://www.rpminc.com"
+    "website": "http://www.rpminc.com",
+    "ticker": "rpm"
   },
   "539": {
     "title": "Flowserve",
-    "website": "http://www.flowserve.com"
+    "website": "http://www.flowserve.com",
+    "ticker": "fls"
   },
   "540": {
     "title": "KeyCorp",
-    "website": "http://www.key.com"
+    "website": "http://www.key.com",
+    "ticker": "key"
   },
   "541": {
     "title": "MRC Global",
-    "website": "http://www.mrcglobal.com"
+    "website": "http://www.mrcglobal.com",
+    "ticker": "mrc"
   },
   "542": {
     "title": "Keurig Green Mountain",
@@ -2161,19 +2661,23 @@
   },
   "543": {
     "title": "Electronic Arts",
-    "website": "http://www.ea.com"
+    "website": "http://www.ea.com",
+    "ticker": "ea"
   },
   "544": {
     "title": "General Cable",
-    "website": "http://www.generalcable.com"
+    "website": "http://www.generalcable.com",
+    "ticker": "bgc"
   },
   "545": {
     "title": "Cintas",
-    "website": "http://www.cintas.com"
+    "website": "http://www.cintas.com",
+    "ticker": "ctas"
   },
   "546": {
     "title": "Chipotle Mexican Grill",
-    "website": "http://www.chipotle.com"
+    "website": "http://www.chipotle.com",
+    "ticker": "cmg"
   },
   "547": {
     "title": "Levi Strauss",
@@ -2185,11 +2689,13 @@
   },
   "549": {
     "title": "Westlake Chemical",
-    "website": "http://www.westlake.com"
+    "website": "http://www.westlake.com",
+    "ticker": "wlk"
   },
   "550": {
     "title": "Hasbro",
-    "website": "http://www.hasbro.com"
+    "website": "http://www.hasbro.com",
+    "ticker": "has"
   },
   "551": {
     "title": "Securian Financial Group",
@@ -2197,39 +2703,48 @@
   },
   "552": {
     "title": "Intuit",
-    "website": "http://www.intuit.com"
+    "website": "http://www.intuit.com",
+    "ticker": "intu"
   },
   "553": {
     "title": "Cerner",
-    "website": "http://www.cerner.com"
+    "website": "http://www.cerner.com",
+    "ticker": "cern"
   },
   "554": {
     "title": "Coty",
-    "website": "http://www.coty.com"
+    "website": "http://www.coty.com",
+    "ticker": "coty"
   },
   "555": {
     "title": "Valspar",
-    "website": "http://www.valspar.com"
+    "website": "http://www.valspar.com",
+    "ticker": "val"
   },
   "556": {
     "title": "SCANA",
-    "website": "http://www.scana.com"
+    "website": "http://www.scana.com",
+    "ticker": "scg"
   },
   "557": {
     "title": "Bloomin’ Brands",
-    "website": "http://www.bloominbrands.com"
+    "website": "http://www.bloominbrands.com",
+    "ticker": "blmn"
   },
   "558": {
     "title": "MDU Resources Group",
-    "website": "http://www.mdu.com"
+    "website": "http://www.mdu.com",
+    "ticker": "mdu"
   },
   "559": {
     "title": "Patterson",
-    "website": "http://www.pattersoncompanies.com"
+    "website": "http://www.pattersoncompanies.com",
+    "ticker": "pdco"
   },
   "560": {
     "title": "Orbital ATK",
-    "website": "http://www.orbitalatk.com"
+    "website": "http://www.orbitalatk.com",
+    "ticker": "oa"
   },
   "561": {
     "title": "FM Global",
@@ -2237,75 +2752,93 @@
   },
   "562": {
     "title": "Hyatt Hotels",
-    "website": "http://www.hyatt.com"
+    "website": "http://www.hyatt.com",
+    "ticker": "h"
   },
   "563": {
     "title": "CA",
-    "website": "http://www.ca.com"
+    "website": "http://www.ca.com",
+    "ticker": "ca"
   },
   "564": {
     "title": "VWR",
-    "website": "http://www.vwr.com"
+    "website": "http://www.vwr.com",
+    "ticker": "vwr"
   },
   "565": {
     "title": "Science Applications International",
-    "website": "http://www.saic.com"
+    "website": "http://www.saic.com",
+    "ticker": "saic"
   },
   "566": {
     "title": "CF Industries Holdings",
-    "website": "http://www.cfindustries.com"
+    "website": "http://www.cfindustries.com",
+    "ticker": "cf"
   },
   "567": {
     "title": "McCormick",
-    "website": "http://www.mccormickcorporation.com"
+    "website": "http://www.mccormickcorporation.com",
+    "ticker": "mkc"
   },
   "568": {
     "title": "LPL Financial Holdings",
-    "website": "http://www.lpl.com"
+    "website": "http://www.lpl.com",
+    "ticker": "lpla"
   },
   "569": {
     "title": "Alon USA Energy",
-    "website": "http://www.alonusa.com"
+    "website": "http://www.alonusa.com",
+    "ticker": "alj"
   },
   "570": {
     "title": "Swift Transportation",
-    "website": "http://www.swifttrans.com"
+    "website": "http://www.swifttrans.com",
+    "ticker": "swft"
   },
   "571": {
     "title": "Calumet Specialty Products Partners",
-    "website": "http://www.calumetspecialty.com"
+    "website": "http://www.calumetspecialty.com",
+    "ticker": "clmt"
   },
   "572": {
     "title": "MasTec",
-    "website": "http://www.mastec.com"
+    "website": "http://www.mastec.com",
+    "ticker": "mtz"
   },
   "573": {
     "title": "T. Rowe Price",
-    "website": "http://www.troweprice.com"
+    "website": "http://www.troweprice.com",
+    "ticker": "trow"
   },
   "574": {
     "title": "Andersons",
-    "website": "http://www.andersonsinc.com"
+    "website": "http://www.andersonsinc.com",
+    "ticker": "ande"
   },
   "575": {
     "title": "Coach",
-    "website": "http://www.coach.com"
+    "website": "http://www.coach.com",
+    "ticker": "coh"
   },
   "576": {
     "title": "Toll Brothers",
-    "website": "http://www.tollbrothers.com"
+    "website": "http://www.tollbrothers.com",
+    "ticker": "tol"
   },
   "577": {
     "title": "Graphic Packaging Holding",
-    "website": "http://www.graphicpkg.com"
+    "website": "http://www.graphicpkg.com",
+    "ticker": "gpk"
   },
   "578": {
     "title": "Brunswick",
-    "website": "http://www.brunswick.com"
+    "website": "http://www.brunswick.com",
+    "ticker": "bc"
   },
   "579": {
     "title": "Atmos Energy",
-    "website": "http://www.atmosenergy.com"
+    "website": "http://www.atmosenergy.com",
+    "ticker": "ato"
   },
   "580": {
     "title": "Hexion",
@@ -2313,15 +2846,18 @@
   },
   "581": {
     "title": "Watsco",
-    "website": "http://www.watsco.com"
+    "website": "http://www.watsco.com",
+    "ticker": "wso"
   },
   "582": {
     "title": "Tiffany",
-    "website": "http://www.tiffany.com"
+    "website": "http://www.tiffany.com",
+    "ticker": "tif"
   },
   "583": {
     "title": "Regeneron Pharmaceuticals",
-    "website": "http://www.regeneron.com"
+    "website": "http://www.regeneron.com",
+    "ticker": "regn"
   },
   "584": {
     "title": "Avaya",
@@ -2329,59 +2865,73 @@
   },
   "585": {
     "title": "Wynn Resorts",
-    "website": "http://www.wynnresorts.com"
+    "website": "http://www.wynnresorts.com",
+    "ticker": "wynn"
   },
   "586": {
     "title": "Bemis",
-    "website": "http://www.bemis.com"
+    "website": "http://www.bemis.com",
+    "ticker": "bms"
   },
   "587": {
     "title": "Mead Johnson Nutrition",
-    "website": "http://www.meadjohnson.com"
+    "website": "http://www.meadjohnson.com",
+    "ticker": "mjn"
   },
   "588": {
     "title": "Tesla Motors",
-    "website": "http://www.teslamotors.com"
+    "website": "http://www.teslamotors.com",
+    "ticker": "tsla"
   },
   "589": {
     "title": "Agilent Technologies",
-    "website": "http://www.agilent.com"
+    "website": "http://www.agilent.com",
+    "ticker": "a"
   },
   "590": {
     "title": "Torchmark",
-    "website": "http://www.torchmarkcorp.com"
+    "website": "http://www.torchmarkcorp.com",
+    "ticker": "tmk"
   },
   "591": {
     "title": "Thor Industries",
-    "website": "http://www.thorindustries.com"
+    "website": "http://www.thorindustries.com",
+    "ticker": "tho"
   },
   "592": {
     "title": "Cabela’s",
-    "website": "http://www.cabelas.com"
+    "website": "http://www.cabelas.com",
+    "ticker": "cab"
   },
   "593": {
     "title": "Advanced Micro Devices",
-    "website": "http://www.amd.com"
+    "website": "http://www.amd.com",
+    "ticker": "amd"
   },
   "594": {
     "title": "Ametek",
-    "website": "http://www.ametek.com"
+    "website": "http://www.ametek.com",
+    "ticker": "ame"
   },
   "595": {
     "title": "Smart & Final Stores",
-    "website": "http://www.smartandfinal.com"
+    "website": "http://www.smartandfinal.com",
+    "ticker": "sfs"
   },
   "596": {
     "title": "Colfax",
-    "website": "http://www.colfaxcorp.com"
+    "website": "http://www.colfaxcorp.com",
+    "ticker": "cfx"
   },
   "597": {
     "title": "Under Armour",
-    "website": "http://www.uabiz.com"
+    "website": "http://www.uabiz.com",
+    "ticker": "uaa"
   },
   "598": {
     "title": "Antero Resources",
-    "website": "http://www.anteroresources.com"
+    "website": "http://www.anteroresources.com",
+    "ticker": "ar"
   },
   "599": {
     "title": "Nexeo Solutions Holdings",
@@ -2393,51 +2943,63 @@
   },
   "601": {
     "title": "Leggett & Platt",
-    "website": "http://www.leggett.com"
+    "website": "http://www.leggett.com",
+    "ticker": "leg"
   },
   "602": {
     "title": "Ulta Salon Cosmetics & Fragrance",
-    "website": "http://www.ulta.com"
+    "website": "http://www.ulta.com",
+    "ticker": "ulta"
   },
   "603": {
     "title": "CIT Group",
-    "website": "http://www.cit.com"
+    "website": "http://www.cit.com",
+    "ticker": "cit"
   },
   "604": {
     "title": "American Axle & Manufacturing",
-    "website": "http://www.aam.com"
+    "website": "http://www.aam.com",
+    "ticker": "axl"
   },
   "605": {
     "title": "Triumph Group",
-    "website": "http://www.triumphgroup.com"
+    "website": "http://www.triumphgroup.com",
+    "ticker": "tgi"
   },
   "606": {
     "title": "Dynegy",
-    "website": "http://www.dynegy.com"
+    "website": "http://www.dynegy.com",
+    "ticker": "dyn"
   },
   "607": {
     "title": "Fastenal",
-    "website": "http://www.fastenal.com"
+    "website": "http://www.fastenal.com",
+    "ticker": "fast"
   },
   "608": {
     "title": "WhiteWave Foods",
-    "website": "http://www.whitewave.com"
+    "website": "http://www.whitewave.com",
+    "ticker": "wwav"
   },
   "609": {
     "title": "Welltower",
-    "website": "http://www.welltower.com"
+    "website": "http://www.welltower.com",
+    "ticker": "hcn"
   },
   "610": {
     "title": "Sally Beauty Holdings",
-    "website": "http://www.sallybeautyholdings.com"
+    "website": "http://www.sallybeautyholdings.com",
+    "ticker": "sbh"
   },
   "611": {
     "title": "CNO Financial Group",
-    "website": "http://www.cnoinc.com"
+    "website": "http://www.cnoinc.com",
+    "ticker": "cno"
   },
   "612": {
     "title": "CommScope Holding",
-    "website": "http://www.commscope.com"
+    "website": "http://www.commscope.com",
+    "ticker": "comm"
   },
   "613": {
     "title": "Axiall",
@@ -2445,51 +3007,63 @@
   },
   "614": {
     "title": "Ingles Markets",
-    "website": "http://www.ingles-markets.com"
+    "website": "http://www.ingles-markets.com",
+    "ticker": "imkta"
   },
   "615": {
     "title": "Flowers Foods",
-    "website": "http://www.flowersfoods.com"
+    "website": "http://www.flowersfoods.com",
+    "ticker": "flo"
   },
   "616": {
     "title": "USG",
-    "website": "http://www.usg.com"
+    "website": "http://www.usg.com",
+    "ticker": "usg"
   },
   "617": {
     "title": "Silgan Holdings",
-    "website": "http://www.silganholdings.com"
+    "website": "http://www.silganholdings.com",
+    "ticker": "slgn"
   },
   "618": {
     "title": "Select Medical Holdings",
-    "website": "http://www.selectmedicalholdings.com"
+    "website": "http://www.selectmedicalholdings.com",
+    "ticker": "sem"
   },
   "619": {
     "title": "Crown Castle International",
-    "website": "http://www.crowncastle.com"
+    "website": "http://www.crowncastle.com",
+    "ticker": "cci"
   },
   "620": {
     "title": "Allegheny Technologies",
-    "website": "http://www.atimetals.com"
+    "website": "http://www.atimetals.com",
+    "ticker": "ati"
   },
   "621": {
     "title": "HSN",
-    "website": "http://www.hsni.com"
+    "website": "http://www.hsni.com",
+    "ticker": "hsni"
   },
   "622": {
     "title": "Xylem",
-    "website": "http://www.xyleminc.com"
+    "website": "http://www.xyleminc.com",
+    "ticker": "xyl"
   },
   "623": {
     "title": "Zebra Technologies",
-    "website": "http://www.zebra.com"
+    "website": "http://www.zebra.com",
+    "ticker": "zbra"
   },
   "624": {
     "title": "Albemarle",
-    "website": "http://www.albemarle.com"
+    "website": "http://www.albemarle.com",
+    "ticker": "alb"
   },
   "625": {
     "title": "Resolute Forest Products",
-    "website": "http://www.resolutefp.com"
+    "website": "http://www.resolutefp.com",
+    "ticker": "rfp"
   },
   "626": {
     "title": "Towers Watson",
@@ -2497,35 +3071,43 @@
   },
   "627": {
     "title": "Boise Cascade",
-    "website": "http://www.bc.com"
+    "website": "http://www.bc.com",
+    "ticker": "bcc"
   },
   "628": {
     "title": "Greif",
-    "website": "http://www.greif.com"
+    "website": "http://www.greif.com",
+    "ticker": "gef"
   },
   "629": {
     "title": "Team Health Holdings",
-    "website": "http://www.teamhealth.com"
+    "website": "http://www.teamhealth.com",
+    "ticker": "tmh"
   },
   "630": {
     "title": "Snap-on",
-    "website": "http://www.snapon.com"
+    "website": "http://www.snapon.com",
+    "ticker": "sna"
   },
   "631": {
     "title": "Sprouts Farmers Market",
-    "website": "http://www.sprouts.com"
+    "website": "http://www.sprouts.com",
+    "ticker": "sfm"
   },
   "632": {
     "title": "Roper Technologies",
-    "website": "http://www.ropertech.com"
+    "website": "http://www.ropertech.com",
+    "ticker": "rop"
   },
   "633": {
     "title": "First Solar",
-    "website": "http://www.firstsolar.com"
+    "website": "http://www.firstsolar.com",
+    "ticker": "fslr"
   },
   "634": {
     "title": "Pitney Bowes",
-    "website": "http://www.pb.com"
+    "website": "http://www.pb.com",
+    "ticker": "pbi"
   },
   "635": {
     "title": "ADT",
@@ -2533,11 +3115,13 @@
   },
   "636": {
     "title": "Molson Coors Brewing",
-    "website": "http://www.molsoncoors.com"
+    "website": "http://www.molsoncoors.com",
+    "ticker": "tap"
   },
   "637": {
     "title": "Builders FirstSource",
-    "website": "http://www.bldr.com"
+    "website": "http://www.bldr.com",
+    "ticker": "bldr"
   },
   "638": {
     "title": "Lexmark International",
@@ -2545,27 +3129,33 @@
   },
   "639": {
     "title": "Carlisle",
-    "website": "http://www.carlisle.com"
+    "website": "http://www.carlisle.com",
+    "ticker": "csl"
   },
   "640": {
     "title": "CalAtlantic Group",
-    "website": "http://www.calatlantichomes.com"
+    "website": "http://www.calatlantichomes.com",
+    "ticker": "caa"
   },
   "641": {
     "title": "Martin Marietta Materials",
-    "website": "http://www.martinmarietta.com"
+    "website": "http://www.martinmarietta.com",
+    "ticker": "mlm"
   },
   "642": {
     "title": "Hub Group",
-    "website": "http://www.hubgroup.com"
+    "website": "http://www.hubgroup.com",
+    "ticker": "hubg"
   },
   "643": {
     "title": "American Eagle Outfitters",
-    "website": "http://www.ae.com"
+    "website": "http://www.ae.com",
+    "ticker": "aeo"
   },
   "644": {
     "title": "Abercrombie & Fitch",
-    "website": "http://www.abercrombie.com"
+    "website": "http://www.abercrombie.com",
+    "ticker": "anf"
   },
   "645": {
     "title": "Regal Beloit",
@@ -2577,7 +3167,8 @@
   },
   "647": {
     "title": "Meritor",
-    "website": "http://www.meritor.com"
+    "website": "http://www.meritor.com",
+    "ticker": "mtor"
   },
   "648": {
     "title": "Tailored Brands",
@@ -2585,71 +3176,88 @@
   },
   "649": {
     "title": "ON Semiconductor",
-    "website": "http://www.onsemi.com"
+    "website": "http://www.onsemi.com",
+    "ticker": "on"
   },
   "650": {
     "title": "Pinnacle West Capital",
-    "website": "http://www.pinnaclewest.com"
+    "website": "http://www.pinnaclewest.com",
+    "ticker": "pnw"
   },
   "651": {
     "title": "Ventas",
-    "website": "http://www.ventasreit.com"
+    "website": "http://www.ventasreit.com",
+    "ticker": "vtr"
   },
   "652": {
     "title": "Moody’s",
-    "website": "http://www.moodys.com"
+    "website": "http://www.moodys.com",
+    "ticker": "mco"
   },
   "653": {
     "title": "Sprague Resources",
-    "website": "http://www.spragueenergy.com"
+    "website": "http://www.spragueenergy.com",
+    "ticker": "srlp"
   },
   "654": {
     "title": "FMC",
-    "website": "http://www.fmc.com"
+    "website": "http://www.fmc.com",
+    "ticker": "fmc"
   },
   "655": {
     "title": "Lennox International",
-    "website": "http://www.lennoxinternational.com"
+    "website": "http://www.lennoxinternational.com",
+    "ticker": "lii"
   },
   "656": {
     "title": "Buckeye Partners",
-    "website": "http://www.buckeye.com"
+    "website": "http://www.buckeye.com",
+    "ticker": "bpl"
   },
   "657": {
     "title": "Urban Outfitters",
-    "website": "http://www.urbanoutfittersinc.com"
+    "website": "http://www.urbanoutfittersinc.com",
+    "ticker": "urbn"
   },
   "658": {
     "title": "Manitowoc",
-    "website": "http://www.manitowoc.com"
+    "website": "http://www.manitowoc.com",
+    "ticker": "mtw"
   },
   "659": {
     "title": "Analog Devices",
-    "website": "http://www.analog.com"
+    "website": "http://www.analog.com",
+    "ticker": "adi"
   },
   "660": {
     "title": "Vulcan Materials",
-    "website": "http://www.vulcanmaterials.com"
+    "website": "http://www.vulcanmaterials.com",
+    "ticker": "vmc"
   },
   "661": {
     "title": "C.R. Bard",
-    "website": "http://www.crbard.com"
+    "website": "http://www.crbard.com",
+    "ticker": "bcr"
   },
   "662": {
     "title": "Murphy Oil",
-    "website": "http://www.murphyoilcorp.com"
+    "website": "http://www.murphyoilcorp.com",
+    "ticker": "mur"
   },
   "663": {
     "title": "Nasdaq",
-    "website": "http://www.business.nasdaq.com"
+    "website": "http://www.business.nasdaq.com",
+    "ticker": "ndaq"
   },
   "664": {
     "title": "Darling Ingredients",
-    "website": "http://www.darlingii.com"
+    "website": "http://www.darlingii.com",
+    "ticker": "dar"
   },
   "665": {
     "title": "Church & Dwight",
-    "website": "http://www.churchdwight.com"
+    "website": "http://www.churchdwight.com",
+    "ticker": "chd"
   },
   "666": {
     "title": "Hubbell",
@@ -2657,71 +3265,88 @@
   },
   "667": {
     "title": "Worthington Industries",
-    "website": "http://www.worthingtonindustries.com"
+    "website": "http://www.worthingtonindustries.com",
+    "ticker": "wor"
   },
   "668": {
     "title": "PolyOne",
-    "website": "http://www.polyone.com"
+    "website": "http://www.polyone.com",
+    "ticker": "pol"
   },
   "669": {
     "title": "Diplomat Pharmacy",
-    "website": "http://www.diplomat.is"
+    "website": "http://www.diplomat.is",
+    "ticker": "dplo"
   },
   "670": {
     "title": "Cooper-Standard Holdings",
-    "website": "http://www.cooperstandard.com"
+    "website": "http://www.cooperstandard.com",
+    "ticker": "cps"
   },
   "671": {
     "title": "CME Group",
-    "website": "http://www.cmegroup.com"
+    "website": "http://www.cmegroup.com",
+    "ticker": "cme"
   },
   "672": {
     "title": "Landstar System",
-    "website": "http://www.landstar.com"
+    "website": "http://www.landstar.com",
+    "ticker": "lstr"
   },
   "673": {
     "title": "CACI International",
-    "website": "http://www.caci.com"
+    "website": "http://www.caci.com",
+    "ticker": "caci"
   },
   "674": {
     "title": "Westinghouse Air Brake Technologies",
-    "website": "http://www.wabtec.com"
+    "website": "http://www.wabtec.com",
+    "ticker": "wab"
   },
   "675": {
     "title": "Rent-A-Center",
-    "website": "http://www.rentacenter.com"
+    "website": "http://www.rentacenter.com",
+    "ticker": "rcii"
   },
   "676": {
     "title": "Citrix Systems",
-    "website": "http://www.citrix.com"
+    "website": "http://www.citrix.com",
+    "ticker": "ctxs"
   },
   "677": {
     "title": "Clean Harbors",
-    "website": "http://www.cleanharbors.com"
+    "website": "http://www.cleanharbors.com",
+    "ticker": "clh"
   },
   "678": {
     "title": "Skyworks Solutions",
-    "website": "http://www.skyworksinc.com"
+    "website": "http://www.skyworksinc.com",
+    "ticker": "swks"
   },
   "679": {
     "title": "Alliant Energy",
-    "website": "http://www.alliantenergy.com"
+    "website": "http://www.alliantenergy.com",
+    "ticker": "lnt"
   },
   "680": {
     "title": "TD Ameritrade Holding",
-    "website": "http://www.amtd.com"
+    "website": "http://www.amtd.com",
+    "ticker": "amtd"
   },
   "681": {
     "title": "TEGNA",
-    "website": "http://www.tegna.com"
+    "website": "http://www.tegna.com",
+    "ticker": "tgna"
   },
   "682": {
     "title": "IAC/InterActiveCorp",
-    "website": "http://www.iac.com"
+    "website": "http://www.iac.com",
+    "ticker": "iac"
   },
   "683": {
     "title": "Fossil Group",
-    "website": "http://www.fossilgroup.com"
+    "website": "http://www.fossilgroup.com",
+    "ticker": "fosl"
   },
   "684": {
     "title": "NBTY",
@@ -2729,11 +3354,13 @@
   },
   "685": {
     "title": "ScanSource",
-    "website": "http://www.scansource.com"
+    "website": "http://www.scansource.com",
+    "ticker": "scsc"
   },
   "686": {
     "title": "TreeHouse Foods",
-    "website": "http://www.treehousefoods.com"
+    "website": "http://www.treehousefoods.com",
+    "ticker": "ths"
   },
   "687": {
     "title": "Aleris",
@@ -2741,39 +3368,48 @@
   },
   "688": {
     "title": "Groupon",
-    "website": "http://www.groupon.com"
+    "website": "http://www.groupon.com",
+    "ticker": "grpn"
   },
   "689": {
     "title": "Aaron’s",
-    "website": "http://www.aarons.com"
+    "website": "http://www.aarons.com",
+    "ticker": "aan"
   },
   "690": {
     "title": "Joy Global",
-    "website": "http://www.joyglobal.com"
+    "website": "http://www.joyglobal.com",
+    "ticker": "joy"
   },
   "691": {
     "title": "Ryerson Holding",
-    "website": "http://www.ryerson.com"
+    "website": "http://www.ryerson.com",
+    "ticker": "ryi"
   },
   "692": {
     "title": "Helmerich & Payne",
-    "website": "http://www.hpinc.com"
+    "website": "http://www.hpinc.com",
+    "ticker": "hp"
   },
   "693": {
     "title": "HealthSouth",
-    "website": "http://www.healthsouth.com"
+    "website": "http://www.healthsouth.com",
+    "ticker": "hls"
   },
   "694": {
     "title": "Vantiv",
-    "website": "http://www.vantiv.com"
+    "website": "http://www.vantiv.com",
+    "ticker": "vntv"
   },
   "695": {
     "title": "Skechers U.S.A.",
-    "website": "http://www.skx.com"
+    "website": "http://www.skx.com",
+    "ticker": "skx"
   },
   "696": {
     "title": "American Water Works",
-    "website": "http://www.amwater.com"
+    "website": "http://www.amwater.com",
+    "ticker": "awk"
   },
   "697": {
     "title": "Iasis Healthcare",
@@ -2781,15 +3417,18 @@
   },
   "698": {
     "title": "Huntington Bancshares",
-    "website": "http://www.huntington.com"
+    "website": "http://www.huntington.com",
+    "ticker": "hban"
   },
   "699": {
     "title": "Tempur Sealy International",
-    "website": "http://www.tempursealy.com"
+    "website": "http://www.tempursealy.com",
+    "ticker": "tpx"
   },
   "700": {
     "title": "EchoStar",
-    "website": "http://www.echostar.com"
+    "website": "http://www.echostar.com",
+    "ticker": "sats"
   },
   "701": {
     "title": "CUNA Mutual Group",
@@ -2797,35 +3436,43 @@
   },
   "702": {
     "title": "Brown-Forman",
-    "website": "http://www.brown-forman.com"
+    "website": "http://www.brown-forman.com",
+    "ticker": "bfb"
   },
   "703": {
     "title": "Southwestern Energy",
-    "website": "http://www.swn.com"
+    "website": "http://www.swn.com",
+    "ticker": "swn"
   },
   "705": {
     "title": "Regal Entertainment Group",
-    "website": "http://www.regmovies.com"
+    "website": "http://www.regmovies.com",
+    "ticker": "rgc"
   },
   "706": {
     "title": "Consol Energy",
-    "website": "http://www.consolenergy.com"
+    "website": "http://www.consolenergy.com",
+    "ticker": "cnx"
   },
   "707": {
     "title": "Time",
-    "website": "http://www.timeinc.com"
+    "website": "http://www.timeinc.com",
+    "ticker": "time"
   },
   "708": {
     "title": "Varian Medical Systems",
-    "website": "http://www.varian.com"
+    "website": "http://www.varian.com",
+    "ticker": "var"
   },
   "709": {
     "title": "SkyWest",
-    "website": "http://www.skywest.com"
+    "website": "http://www.skywest.com",
+    "ticker": "skyw"
   },
   "710": {
     "title": "BGC Partners",
-    "website": "http://www.bgcpartners.com"
+    "website": "http://www.bgcpartners.com",
+    "ticker": "bgcp"
   },
   "711": {
     "title": "Puget Energy",
@@ -2833,83 +3480,103 @@
   },
   "712": {
     "title": "H&R Block",
-    "website": "http://www.hrblock.com"
+    "website": "http://www.hrblock.com",
+    "ticker": "hrb"
   },
   "713": {
     "title": "Amerco",
-    "website": "http://www.amerco.com"
+    "website": "http://www.amerco.com",
+    "ticker": "uhal"
   },
   "714": {
     "title": "Brink’s",
-    "website": "http://www.brinks.com"
+    "website": "http://www.brinks.com",
+    "ticker": "bco"
   },
   "715": {
     "title": "Oceaneering International",
-    "website": "http://www.oceaneering.com"
+    "website": "http://www.oceaneering.com",
+    "ticker": "oii"
   },
   "716": {
     "title": "Steelcase",
-    "website": "http://www.steelcase.com"
+    "website": "http://www.steelcase.com",
+    "ticker": "scs"
   },
   "717": {
     "title": "W.R. Grace",
-    "website": "http://www.grace.com"
+    "website": "http://www.grace.com",
+    "ticker": "gra"
   },
   "718": {
     "title": "Metaldyne Performance Group",
-    "website": "http://www.mpgdriven.com"
+    "website": "http://www.mpgdriven.com",
+    "ticker": "mpg"
   },
   "719": {
     "title": "KB Home",
-    "website": "http://www.kbhome.com"
+    "website": "http://www.kbhome.com",
+    "ticker": "kbh"
   },
   "720": {
     "title": "International Flavors & Fragrances",
-    "website": "http://www.iff.com"
+    "website": "http://www.iff.com",
+    "ticker": "iff"
   },
   "721": {
     "title": "Genesco",
-    "website": "http://www.genesco.com"
+    "website": "http://www.genesco.com",
+    "ticker": "gco"
   },
   "722": {
     "title": "Scripps Networks Interactive",
-    "website": "http://www.scrippsnetworksinteractive.com"
+    "website": "http://www.scrippsnetworksinteractive.com",
+    "ticker": "sni"
   },
   "723": {
     "title": "American National Insurance",
-    "website": "http://www.americannational.com"
+    "website": "http://www.americannational.com",
+    "ticker": "anat"
   },
   "724": {
     "title": "Scotts Miracle-Gro",
-    "website": "http://www.scotts.com"
+    "website": "http://www.scotts.com",
+    "ticker": "smg"
   },
   "725": {
     "title": "Unisys",
-    "website": "http://www.unisys.com"
+    "website": "http://www.unisys.com",
+    "ticker": "uis"
   },
   "726": {
     "title": "Carter’s",
-    "website": "http://www.carters.com"
+    "website": "http://www.carters.com",
+    "ticker": "cri"
   },
   "727": {
     "title": "NOW",
-    "website": "http://www.distributionnow.com"
+    "website": "http://www.distributionnow.com",
+    "ticker": "dnow"
   },
   "728": {
     "title": "Mercury General",
-    "website": "http://www.mercuryinsurance.com"
+    "website": "http://www.mercuryinsurance.com",
+    "ticker": "mcy"
   },
   "729": {
     "title": "Iron Mountain",
-    "website": "http://www.ironmountain.com"
+    "website": "http://www.ironmountain.com",
+    "ticker": "irm"
   },
   "730": {
     "title": "Carlyle Group",
-    "website": "http://www.carlyle.com"
+    "website": "http://www.carlyle.com",
+    "ticker": "cg"
   },
   "731": {
     "title": "Brinker International",
-    "website": "http://www.brinker.com"
+    "website": "http://www.brinker.com",
+    "ticker": "eat"
   },
   "732": {
     "title": "Northern Tier Energy",
@@ -2921,31 +3588,38 @@
   },
   "734": {
     "title": "Service Corp. International",
-    "website": "http://www.sci-corp.com"
+    "website": "http://www.sci-corp.com",
+    "ticker": "sci"
   },
   "735": {
     "title": "Stericycle",
-    "website": "http://www.stericycle.com"
+    "website": "http://www.stericycle.com",
+    "ticker": "srcl"
   },
   "736": {
     "title": "Sabre",
-    "website": "http://www.sabre.com"
+    "website": "http://www.sabre.com",
+    "ticker": "sabr"
   },
   "737": {
     "title": "Graham Holdings",
-    "website": "http://www.ghco.com"
+    "website": "http://www.ghco.com",
+    "ticker": "ghc"
   },
   "738": {
     "title": "Taylor Morrison Home",
-    "website": "http://www.taylormorrison.com"
+    "website": "http://www.taylormorrison.com",
+    "ticker": "tmhc"
   },
   "739": {
     "title": "Cooper Tire & Rubber",
-    "website": "http://www.coopertire.com"
+    "website": "http://www.coopertire.com",
+    "ticker": "ctb"
   },
   "740": {
     "title": "Old Dominion Freight Line",
-    "website": "http://www.odfl.com"
+    "website": "http://www.odfl.com",
+    "ticker": "odfl"
   },
   "741": {
     "title": "Warner Music Group",
@@ -2953,15 +3627,18 @@
   },
   "742": {
     "title": "Green Plains",
-    "website": "http://www.gpreinc.com"
+    "website": "http://www.gpreinc.com",
+    "ticker": "gpre"
   },
   "743": {
     "title": "Alpha Natural Resources",
-    "website": "http://www.alphanr.com"
+    "website": "http://www.alphanr.com",
+    "ticker": ""
   },
   "744": {
     "title": "Convergys",
-    "website": "http://www.convergys.com"
+    "website": "http://www.convergys.com",
+    "ticker": "cvg"
   },
   "745": {
     "title": "TECO Energy",
@@ -2973,15 +3650,18 @@
   },
   "747": {
     "title": "MSC Industrial Direct",
-    "website": "http://www.mscdirect.com"
+    "website": "http://www.mscdirect.com",
+    "ticker": "msm"
   },
   "748": {
     "title": "Systemax",
-    "website": "http://www.systemax.com"
+    "website": "http://www.systemax.com",
+    "ticker": "syx"
   },
   "749": {
     "title": "Triple-S Management",
-    "website": "http://www.triplesmanagement.com"
+    "website": "http://www.triplesmanagement.com",
+    "ticker": "gts"
   },
   "750": {
     "title": "StanCorp Financial Group",
@@ -2989,19 +3669,23 @@
   },
   "751": {
     "title": "Universal Forest Products",
-    "website": "http://www.ufpi.com"
+    "website": "http://www.ufpi.com",
+    "ticker": "ufpi"
   },
   "752": {
     "title": "Gannett",
-    "website": "http://www.gannett.com"
+    "website": "http://www.gannett.com",
+    "ticker": "gci"
   },
   "753": {
     "title": "Amkor Technology",
-    "website": "http://www.amkor.com"
+    "website": "http://www.amkor.com",
+    "ticker": "amkr"
   },
   "754": {
     "title": "Linn Energy",
-    "website": "http://www.linnenergy.com"
+    "website": "http://www.linnenergy.com",
+    "ticker": "line"
   },
   "755": {
     "title": "Sentry Insurance Group",
@@ -3009,15 +3693,18 @@
   },
   "756": {
     "title": "Weis Markets",
-    "website": "http://www.weismarkets.com"
+    "website": "http://www.weismarkets.com",
+    "ticker": "wmk"
   },
   "757": {
     "title": "Timken",
-    "website": "http://www.timken.com"
+    "website": "http://www.timken.com",
+    "ticker": "tkr"
   },
   "758": {
     "title": "Cabot",
-    "website": "http://www.cabotcorp.com"
+    "website": "http://www.cabotcorp.com",
+    "ticker": "cbt"
   },
   "759": {
     "title": "Univision Communications",
@@ -3025,147 +3712,183 @@
   },
   "760": {
     "title": "Keysight Technologies",
-    "website": "http://www.keysight.com"
+    "website": "http://www.keysight.com",
+    "ticker": "keys"
   },
   "761": {
     "title": "Olin",
-    "website": "http://www.olin.com"
+    "website": "http://www.olin.com",
+    "ticker": "oln"
   },
   "762": {
     "title": "Cinemark Holdings",
-    "website": "http://www.cinemark.com"
+    "website": "http://www.cinemark.com",
+    "ticker": "cnk"
   },
   "763": {
     "title": "Cracker Barrel Old Country Store",
-    "website": "http://www.crackerbarrel.com"
+    "website": "http://www.crackerbarrel.com",
+    "ticker": "cbrl"
   },
   "764": {
     "title": "Penn National Gaming",
-    "website": "http://www.pngaming.com"
+    "website": "http://www.pngaming.com",
+    "ticker": "penn"
   },
   "765": {
     "title": "Comerica",
-    "website": "http://www.comerica.com"
+    "website": "http://www.comerica.com",
+    "ticker": "cma"
   },
   "766": {
     "title": "Envision Healthcare",
-    "website": "http://www.evhc.net"
+    "website": "http://www.evhc.net",
+    "ticker": "evhc"
   },
   "767": {
     "title": "DST Systems",
-    "website": "http://www.dstsystems.com"
+    "website": "http://www.dstsystems.com",
+    "ticker": "dst"
   },
   "768": {
     "title": "Legg Mason",
-    "website": "http://www.leggmason.com"
+    "website": "http://www.leggmason.com",
+    "ticker": "lm"
   },
   "769": {
     "title": "KLA-Tencor",
-    "website": "http://www.kla-tencor.com"
+    "website": "http://www.kla-tencor.com",
+    "ticker": "klac"
   },
   "770": {
     "title": "Sanderson Farms",
-    "website": "http://www.sandersonfarms.com"
+    "website": "http://www.sandersonfarms.com",
+    "ticker": "safm"
   },
   "771": {
     "title": "PriceSmart",
-    "website": "http://www.pricesmart.com"
+    "website": "http://www.pricesmart.com",
+    "ticker": "psmt"
   },
   "772": {
     "title": "Superior Energy Services",
-    "website": "http://www.superiorenergy.com"
+    "website": "http://www.superiorenergy.com",
+    "ticker": "spn"
   },
   "773": {
     "title": "Bon-Ton Stores",
-    "website": "http://www.bonton.com"
+    "website": "http://www.bonton.com",
+    "ticker": "bont"
   },
   "774": {
     "title": "KapStone Paper & Packaging",
-    "website": "http://www.kapstonepaper.com"
+    "website": "http://www.kapstonepaper.com",
+    "ticker": "ks"
   },
   "775": {
     "title": "Mednax",
-    "website": "http://www.mednax.com"
+    "website": "http://www.mednax.com",
+    "ticker": "md"
   },
   "776": {
     "title": "Total System Services",
-    "website": "http://www.tsys.com"
+    "website": "http://www.tsys.com",
+    "ticker": "tss"
   },
   "777": {
     "title": "Global Payments",
-    "website": "http://www.globalpaymentsinc.com"
+    "website": "http://www.globalpaymentsinc.com",
+    "ticker": "gpn"
   },
   "778": {
     "title": "Diebold Nixdorf",
-    "website": "http://www.dieboldnixdorf.com"
+    "website": "http://www.dieboldnixdorf.com",
+    "ticker": "dbd"
   },
   "779": {
     "title": "Scientific Games",
-    "website": "http://www.scientificgames.com"
+    "website": "http://www.scientificgames.com",
+    "ticker": "sgms"
   },
   "780": {
     "title": "Applied Industrial Technologies",
-    "website": "http://www.applied.com"
+    "website": "http://www.applied.com",
+    "ticker": "ait"
   },
   "781": {
     "title": "Equity Residential",
-    "website": "http://www.equityresidential.com"
+    "website": "http://www.equityresidential.com",
+    "ticker": "eqr"
   },
   "782": {
     "title": "Crane",
-    "website": "http://www.craneco.com"
+    "website": "http://www.craneco.com",
+    "ticker": "cr"
   },
   "783": {
     "title": "Paychex",
-    "website": "http://www.paychex.com"
+    "website": "http://www.paychex.com",
+    "ticker": "payx"
   },
   "784": {
     "title": "New Jersey Resources",
-    "website": "http://www.njresources.com"
+    "website": "http://www.njresources.com",
+    "ticker": "njr"
   },
   "785": {
     "title": "B/E Aerospace",
-    "website": "http://www.beaerospace.com"
+    "website": "http://www.beaerospace.com",
+    "ticker": "beav"
   },
   "786": {
     "title": "Equinix",
-    "website": "http://www.equinix.com"
+    "website": "http://www.equinix.com",
+    "ticker": "eqix"
   },
   "787": {
     "title": "Monster Beverage",
-    "website": "http://www.monsterbevcorp.com"
+    "website": "http://www.monsterbevcorp.com",
+    "ticker": "mnst"
   },
   "788": {
     "title": "TransDigm Group",
-    "website": "http://www.transdigm.com"
+    "website": "http://www.transdigm.com",
+    "ticker": "tdg"
   },
   "789": {
     "title": "Acuity Brands",
-    "website": "http://www.acuitybrands.com"
+    "website": "http://www.acuitybrands.com",
+    "ticker": "ayi"
   },
   "790": {
     "title": "Hologic",
-    "website": "http://www.hologic.com"
+    "website": "http://www.hologic.com",
+    "ticker": "holx"
   },
   "791": {
     "title": "TrueBlue",
-    "website": "http://www.trueblue.com"
+    "website": "http://www.trueblue.com",
+    "ticker": "tbi"
   },
   "792": {
     "title": "Broadridge Financial Solutions",
-    "website": "http://www.broadridge.com"
+    "website": "http://www.broadridge.com",
+    "ticker": "br"
   },
   "793": {
     "title": "Verso",
-    "website": "http://www.versoco.com"
+    "website": "http://www.versoco.com",
+    "ticker": "vrs"
   },
   "794": {
     "title": "Wolverine World Wide",
-    "website": "http://www.wolverineworldwide.com"
+    "website": "http://www.wolverineworldwide.com",
+    "ticker": "www"
   },
   "795": {
     "title": "Hain Celestial Group",
-    "website": "http://www.hain.com"
+    "website": "http://www.hain.com",
+    "ticker": "hain"
   },
   "796": {
     "title": "Heartland Payment Systems",
@@ -3173,123 +3896,153 @@
   },
   "797": {
     "title": "Panera Bread",
-    "website": "http://www.panerabread.com"
+    "website": "http://www.panerabread.com",
+    "ticker": "pnra"
   },
   "798": {
     "title": "Continental Resources",
-    "website": "http://www.clr.com"
+    "website": "http://www.clr.com",
+    "ticker": "clr"
   },
   "799": {
     "title": "Dentsply Sirona",
-    "website": "http://www.dentsplysirona.com"
+    "website": "http://www.dentsplysirona.com",
+    "ticker": "xray"
   },
   "800": {
     "title": "ArcBest",
-    "website": "http://www.arcb.com"
+    "website": "http://www.arcb.com",
+    "ticker": "arcb"
   },
   "801": {
     "title": "Equifax",
-    "website": "http://www.equifax.com"
+    "website": "http://www.equifax.com",
+    "ticker": "efx"
   },
   "802": {
     "title": "WGL Holdings",
-    "website": "http://www.wglholdings.com"
+    "website": "http://www.wglholdings.com",
+    "ticker": "wgl"
   },
   "803": {
     "title": "TriNet Group",
-    "website": "http://www.trinet.com"
+    "website": "http://www.trinet.com",
+    "ticker": "tnet"
   },
   "804": {
     "title": "Pinnacle Foods",
-    "website": "http://www.pinnaclefoods.com"
+    "website": "http://www.pinnaclefoods.com",
+    "ticker": "pf"
   },
   "805": {
     "title": "Plexus",
-    "website": "http://www.plexus.com"
+    "website": "http://www.plexus.com",
+    "ticker": "plxs"
   },
   "806": {
     "title": "Kennametal",
-    "website": "http://www.kennametal.com"
+    "website": "http://www.kennametal.com",
+    "ticker": "kmt"
   },
   "807": {
     "title": "Chico’s FAS",
-    "website": "http://www.chicosfas.com"
+    "website": "http://www.chicosfas.com",
+    "ticker": "chs"
   },
   "808": {
     "title": "Kar Auction Services",
-    "website": "http://www.karauctionservices.com"
+    "website": "http://www.karauctionservices.com",
+    "ticker": "kar"
   },
   "809": {
     "title": "GNC Holdings",
-    "website": "http://www.gnc.com"
+    "website": "http://www.gnc.com",
+    "ticker": "gnc"
   },
   "810": {
     "title": "Crestwood Equity Partners",
-    "website": "http://www.crestwoodlp.com"
+    "website": "http://www.crestwoodlp.com",
+    "ticker": "ceqp"
   },
   "811": {
     "title": "WABCO Holdings",
-    "website": "http://www.wabco-auto.com"
+    "website": "http://www.wabco-auto.com",
+    "ticker": "wbc"
   },
   "812": {
     "title": "DSW",
-    "website": "http://www.dswinc.com"
+    "website": "http://www.dswinc.com",
+    "ticker": "dsw"
   },
   "813": {
     "title": "Valmont Industries",
-    "website": "http://www.valmont.com"
+    "website": "http://www.valmont.com",
+    "ticker": "vmi"
   },
   "814": {
     "title": "Greenbrier Cos.",
-    "website": "http://www.gbrx.com"
+    "website": "http://www.gbrx.com",
+    "ticker": "gbx"
   },
   "815": {
     "title": "Alexion Pharmaceuticals",
-    "website": "http://www.alexion.com"
+    "website": "http://www.alexion.com",
+    "ticker": "alxn"
   },
   "816": {
     "title": "Insperity",
-    "website": "http://www.insperity.com"
+    "website": "http://www.insperity.com",
+    "ticker": "nsp"
   },
   "817": {
     "title": "Hawaiian Electric Industries",
-    "website": "http://www.hei.com"
+    "website": "http://www.hei.com",
+    "ticker": "he"
   },
   "818": {
     "title": "Alere",
-    "website": "http://www.alere.com"
+    "website": "http://www.alere.com",
+    "ticker": "alr"
   },
   "819": {
     "title": "ServiceMaster Global Holdings",
-    "website": "http://www.servicemaster.com"
+    "website": "http://www.servicemaster.com",
+    "ticker": "serv"
   },
   "820": {
     "title": "Apollo Education Group",
-    "website": "http://www.apollogrp.edu"
+    "website": "http://www.apollogrp.edu",
+    "ticker": "apol"
   },
   "821": {
     "title": "AMC Networks",
-    "website": "http://www.amcnetworks.com"
+    "website": "http://www.amcnetworks.com",
+    "ticker": "amcx"
   },
   "822": {
     "title": "Meritage Homes",
-    "website": "http://www.meritagehomes.com"
+    "website": "http://www.meritagehomes.com",
+    "ticker": "mth"
   },
   "823": {
     "title": "Hyster-Yale Materials Handling",
-    "website": "http://www.hyster-yale.com"
+    "website": "http://www.hyster-yale.com",
+    "ticker": "hy"
   },
   "824": {
     "title": "Caleres",
-    "website": "http://www.caleres.com"
+    "website": "http://www.caleres.com",
+    "ticker": "cal"
   },
   "825": {
     "title": "PC Connection",
-    "website": "http://www.pcconnection.com"
+    "website": "http://www.pcconnection.com",
+    "ticker": "cnxn"
   },
   "826": {
     "title": "Arch Coal",
-    "website": "http://www.archcoal.com"
+    "website": "http://www.archcoal.com",
+    "ticker": "arch"
   },
   "827": {
     "title": "Mattress Firm Holding",
@@ -3297,31 +4050,38 @@
   },
   "828": {
     "title": "HCP",
-    "website": "http://www.hcpi.com"
+    "website": "http://www.hcpi.com",
+    "ticker": "hcp"
   },
   "829": {
     "title": "Platform Specialty Products",
-    "website": "http://www.platformspecialtyproducts.com"
+    "website": "http://www.platformspecialtyproducts.com",
+    "ticker": "pah"
   },
   "830": {
     "title": "Benchmark Electronics",
-    "website": "http://www.bench.com"
+    "website": "http://www.bench.com",
+    "ticker": "bhe"
   },
   "831": {
     "title": "A.O. Smith",
-    "website": "http://www.aosmith.com"
+    "website": "http://www.aosmith.com",
+    "ticker": "aos"
   },
   "832": {
     "title": "Lincoln Electric Holdings",
-    "website": "http://www.lincolnelectric.com"
+    "website": "http://www.lincolnelectric.com",
+    "ticker": "leco"
   },
   "833": {
     "title": "Vornado Realty Trust",
-    "website": "http://www.vno.com"
+    "website": "http://www.vno.com",
+    "ticker": "vno"
   },
   "834": {
     "title": "Teradata",
-    "website": "http://www.teradata.com"
+    "website": "http://www.teradata.com",
+    "ticker": "tdc"
   },
   "835": {
     "title": "Nortek",
@@ -3333,11 +4093,13 @@
   },
   "837": {
     "title": "Beacon Roofing Supply",
-    "website": "http://www.becn.com"
+    "website": "http://www.becn.com",
+    "ticker": "becn"
   },
   "838": {
     "title": "National General Holdings",
-    "website": "http://www.nationalgeneral.com"
+    "website": "http://www.nationalgeneral.com",
+    "ticker": "nghc"
   },
   "839": {
     "title": "Aretec Group",
@@ -3349,15 +4111,18 @@
   },
   "841": {
     "title": "EnerSys",
-    "website": "http://www.enersys.com"
+    "website": "http://www.enersys.com",
+    "ticker": "ens"
   },
   "842": {
     "title": "Autodesk",
-    "website": "http://www.autodesk.com"
+    "website": "http://www.autodesk.com",
+    "ticker": "adsk"
   },
   "843": {
     "title": "Great Plains Energy",
-    "website": "http://www.greatplainsenergy.com"
+    "website": "http://www.greatplainsenergy.com",
+    "ticker": "gxp"
   },
   "844": {
     "title": "Mutual of America Life Insurance",
@@ -3365,19 +4130,23 @@
   },
   "845": {
     "title": "Edwards Lifesciences",
-    "website": "http://www.edwards.com"
+    "website": "http://www.edwards.com",
+    "ticker": "ew"
   },
   "846": {
     "title": "Boston Properties",
-    "website": "http://www.bostonproperties.com"
+    "website": "http://www.bostonproperties.com",
+    "ticker": "bxp"
   },
   "847": {
     "title": "ITT",
-    "website": "http://www.itt.com"
+    "website": "http://www.itt.com",
+    "ticker": "itt"
   },
   "848": {
     "title": "Affiliated Managers Group",
-    "website": "http://www.amg.com"
+    "website": "http://www.amg.com",
+    "ticker": "amg"
   },
   "849": {
     "title": "Tops Holding",
@@ -3389,7 +4158,8 @@
   },
   "851": {
     "title": "Southwest Gas",
-    "website": "http://www.swgas.com"
+    "website": "http://www.swgas.com",
+    "ticker": "swx"
   },
   "852": {
     "title": "Medical Mutual of Ohio",
@@ -3397,59 +4167,73 @@
   },
   "853": {
     "title": "Westar Energy",
-    "website": "http://www.westarenergy.com"
+    "website": "http://www.westarenergy.com",
+    "ticker": "wr"
   },
   "854": {
     "title": "Ciena",
-    "website": "http://www.ciena.com"
+    "website": "http://www.ciena.com",
+    "ticker": "cien"
   },
   "855": {
     "title": "Vectren",
-    "website": "http://www.vectren.com"
+    "website": "http://www.vectren.com",
+    "ticker": "vvc"
   },
   "856": {
     "title": "Edgewell Personal Care",
-    "website": "http://www.edgewell.com"
+    "website": "http://www.edgewell.com",
+    "ticker": "epc"
   },
   "857": {
     "title": "Armstrong World Industries",
-    "website": "http://www.armstrong.com"
+    "website": "http://www.armstrong.com",
+    "ticker": "awi"
   },
   "858": {
     "title": "Kansas City Southern",
-    "website": "http://www.kcsouthern.com"
+    "website": "http://www.kcsouthern.com",
+    "ticker": "ksu"
   },
   "859": {
     "title": "Enable Midstream Partners",
-    "website": "http://www.enablemidstream.com"
+    "website": "http://www.enablemidstream.com",
+    "ticker": "enbl"
   },
   "860": {
     "title": "Cliffs Natural Resources",
-    "website": "http://www.cliffsnaturalresources.com"
+    "website": "http://www.cliffsnaturalresources.com",
+    "ticker": "clf"
   },
   "861": {
     "title": "General Growth Properties",
-    "website": "http://www.ggp.com"
+    "website": "http://www.ggp.com",
+    "ticker": "ggp"
   },
   "862": {
     "title": "California Resources",
-    "website": "http://www.crc.com"
+    "website": "http://www.crc.com",
+    "ticker": "crc"
   },
   "863": {
     "title": "TRI Pointe Group",
-    "website": "http://www.tripointegroup.com"
+    "website": "http://www.tripointegroup.com",
+    "ticker": "tph"
   },
   "864": {
     "title": "Mettler-Toledo International",
-    "website": "http://www.mt.com"
+    "website": "http://www.mt.com",
+    "ticker": "mtd"
   },
   "865": {
     "title": "A. Schulman",
-    "website": "http://www.aschulman.com"
+    "website": "http://www.aschulman.com",
+    "ticker": "shlm"
   },
   "866": {
     "title": "Toro",
-    "website": "http://www.thetorocompany.com"
+    "website": "http://www.thetorocompany.com",
+    "ticker": "ttc"
   },
   "867": {
     "title": "SPX FLOW",
@@ -3457,63 +4241,78 @@
   },
   "868": {
     "title": "Intuitive Surgical",
-    "website": "http://www.intuitivesurgical.com"
+    "website": "http://www.intuitivesurgical.com",
+    "ticker": "isrg"
   },
   "869": {
     "title": "West",
-    "website": "http://www.west.com"
+    "website": "http://www.west.com",
+    "ticker": "wstc"
   },
   "870": {
     "title": "Public Storage",
-    "website": "http://www.publicstorage.com"
+    "website": "http://www.publicstorage.com",
+    "ticker": "psa"
   },
   "871": {
     "title": "Xilinx",
-    "website": "http://www.xilinx.com"
+    "website": "http://www.xilinx.com",
+    "ticker": "xlnx"
   },
   "872": {
     "title": "Stifel Financial",
-    "website": "http://www.stifel.com"
+    "website": "http://www.stifel.com",
+    "ticker": "sf"
   },
   "873": {
     "title": "Donaldson",
-    "website": "http://www.donaldson.com"
+    "website": "http://www.donaldson.com",
+    "ticker": "dci"
   },
   "874": {
     "title": "Granite Construction",
-    "website": "http://www.graniteconstruction.com"
+    "website": "http://www.graniteconstruction.com",
+    "ticker": "gva"
   },
   "875": {
     "title": "Pool",
-    "website": "http://www.poolcorp.com"
+    "website": "http://www.poolcorp.com",
+    "ticker": "pool"
   },
   "876": {
     "title": "Express",
-    "website": "http://www.express.com"
+    "website": "http://www.express.com",
+    "ticker": "expr"
   },
   "877": {
     "title": "G-III Apparel Group",
-    "website": "http://www.g-iii.com"
+    "website": "http://www.g-iii.com",
+    "ticker": "giii"
   },
   "878": {
     "title": "Kemper",
-    "website": "http://www.kemper.com"
+    "website": "http://www.kemper.com",
+    "ticker": "kmpr"
   },
   "879": {
     "title": "EQT",
-    "website": "http://www.eqt.com"
+    "website": "http://www.eqt.com",
+    "ticker": "eqt"
   },
   "880": {
     "title": "Nationstar Mortgage Holdings",
-    "website": "http://www.nationstarmtg.com"
+    "website": "http://www.nationstarmtg.com",
+    "ticker": "nsm"
   },
   "881": {
     "title": "Parexel International",
-    "website": "http://www.parexel.com"
+    "website": "http://www.parexel.com",
+    "ticker": "prxl"
   },
   "882": {
     "title": "Columbia Sportswear",
-    "website": "http://www.columbia.com"
+    "website": "http://www.columbia.com",
+    "ticker": "colm"
   },
   "883": {
     "title": "inVentiv Health",
@@ -3521,47 +4320,58 @@
   },
   "884": {
     "title": "Hawaiian Holdings",
-    "website": "http://www.hawaiianairlines.com"
+    "website": "http://www.hawaiianairlines.com",
+    "ticker": "ha"
   },
   "885": {
     "title": "AptarGroup",
-    "website": "http://www.aptar.com"
+    "website": "http://www.aptar.com",
+    "ticker": "atr"
   },
   "886": {
     "title": "IHS Markit",
-    "website": "http://www.ihs.com"
+    "website": "http://www.ihs.com",
+    "ticker": "info"
   },
   "887": {
     "title": "Belden",
-    "website": "http://www.belden.com"
+    "website": "http://www.belden.com",
+    "ticker": "bdc"
   },
   "888": {
     "title": "Maxim Integrated Products",
-    "website": "http://www.maximintegrated.com"
+    "website": "http://www.maximintegrated.com",
+    "ticker": "mxim"
   },
   "889": {
     "title": "Coca-Cola Bottling",
-    "website": "http://www.cokeconsolidated.com"
+    "website": "http://www.cokeconsolidated.com",
+    "ticker": "coke"
   },
   "890": {
     "title": "HNI",
-    "website": "http://www.hnicorp.com"
+    "website": "http://www.hnicorp.com",
+    "ticker": "hni"
   },
   "891": {
     "title": "Vishay Intertechnology",
-    "website": "http://www.vishay.com"
+    "website": "http://www.vishay.com",
+    "ticker": "vsh"
   },
   "892": {
     "title": "Tetra Tech",
-    "website": "http://www.tetratech.com"
+    "website": "http://www.tetratech.com",
+    "ticker": "ttek"
   },
   "893": {
     "title": "Teledyne Technologies",
-    "website": "http://www.teledyne.com"
+    "website": "http://www.teledyne.com",
+    "ticker": "tdy"
   },
   "894": {
     "title": "Party City Holdco",
-    "website": "http://www.partycity.com"
+    "website": "http://www.partycity.com",
+    "ticker": "prty"
   },
   "895": {
     "title": "Pinnacle Entertainment",
@@ -3569,7 +4379,8 @@
   },
   "896": {
     "title": "Trimble",
-    "website": "http://www.trimble.com"
+    "website": "http://www.trimble.com",
+    "ticker": "trmb"
   },
   "897": {
     "title": "Penn Mutual Life Insurance",
@@ -3581,47 +4392,58 @@
   },
   "899": {
     "title": "Sears Hometown & Outlet Stores",
-    "website": "http://www.shos.com"
+    "website": "http://www.shos.com",
+    "ticker": "shos"
   },
   "900": {
     "title": "Tupperware Brands",
-    "website": "http://www.tupperwarebrands.com"
+    "website": "http://www.tupperwarebrands.com",
+    "ticker": "tup"
   },
   "901": {
     "title": "Alliance Holdings",
-    "website": "http://www.ahgp.com"
+    "website": "http://www.ahgp.com",
+    "ticker": "ahgp"
   },
   "902": {
     "title": "Universal",
-    "website": "http://www.universalcorp.com"
+    "website": "http://www.universalcorp.com",
+    "ticker": "uvv"
   },
   "903": {
     "title": "Curtiss-Wright",
-    "website": "http://www.curtisswright.com"
+    "website": "http://www.curtisswright.com",
+    "ticker": "cw"
   },
   "904": {
     "title": "Brocade Communications Systems",
-    "website": "http://www.brocade.com"
+    "website": "http://www.brocade.com",
+    "ticker": "brcd"
   },
   "905": {
     "title": "PerkinElmer",
-    "website": "http://www.perkinelmer.com"
+    "website": "http://www.perkinelmer.com",
+    "ticker": "pki"
   },
   "906": {
     "title": "Wayfair",
-    "website": "http://www.wayfair.com"
+    "website": "http://www.wayfair.com",
+    "ticker": "w"
   },
   "907": {
     "title": "Nu Skin Enterprises",
-    "website": "http://www.nuskinenterprises.com"
+    "website": "http://www.nuskinenterprises.com",
+    "ticker": "nus"
   },
   "908": {
     "title": "Genesis Energy",
-    "website": "http://www.genesisenergy.com"
+    "website": "http://www.genesisenergy.com",
+    "ticker": "gel"
   },
   "909": {
     "title": "Synopsys",
-    "website": "http://www.synopsys.com"
+    "website": "http://www.synopsys.com",
+    "ticker": "snps"
   },
   "910": {
     "title": "Amica Mutual Insurance",
@@ -3629,47 +4451,58 @@
   },
   "911": {
     "title": "Carpenter Technology",
-    "website": "http://www.cartech.com"
+    "website": "http://www.cartech.com",
+    "ticker": "crs"
   },
   "912": {
     "title": "Illumina",
-    "website": "http://www.illumina.com"
+    "website": "http://www.illumina.com",
+    "ticker": "ilmn"
   },
   "913": {
     "title": "Sinclair Broadcast Group",
-    "website": "http://www.sbgi.net"
+    "website": "http://www.sbgi.net",
+    "ticker": "sbgi"
   },
   "914": {
     "title": "Twitter",
-    "website": "http://www.twitter.com"
+    "website": "http://www.twitter.com",
+    "ticker": "twtr"
   },
   "915": {
     "title": "Domino’s Pizza",
-    "website": "http://www.dominos.com"
+    "website": "http://www.dominos.com",
+    "ticker": "dpz"
   },
   "916": {
     "title": "Zions Bancorp.",
-    "website": "http://www.zionsbancorporation.com"
+    "website": "http://www.zionsbancorporation.com",
+    "ticker": "zion"
   },
   "917": {
     "title": "Guess",
-    "website": "http://www.guess.com"
+    "website": "http://www.guess.com",
+    "ticker": "ges"
   },
   "918": {
     "title": "Boyd Gaming",
-    "website": "http://www.boydgaming.com"
+    "website": "http://www.boydgaming.com",
+    "ticker": "byd"
   },
   "919": {
     "title": "Akamai Technologies",
-    "website": "http://www.akamai.com"
+    "website": "http://www.akamai.com",
+    "ticker": "akam"
   },
   "920": {
     "title": "Prologis",
-    "website": "http://www.prologis.com"
+    "website": "http://www.prologis.com",
+    "ticker": "pld"
   },
   "921": {
     "title": "OGE Energy",
-    "website": "http://www.oge.com"
+    "website": "http://www.oge.com",
+    "ticker": "oge"
   },
   "922": {
     "title": "Outerwall",
@@ -3677,11 +4510,13 @@
   },
   "923": {
     "title": "OneMain Holdings",
-    "website": "http://www.springleaf.com"
+    "website": "http://www.springleaf.com",
+    "ticker": "omf"
   },
   "924": {
     "title": "Magellan Midstream Partners",
-    "website": "http://www.magellanlp.com"
+    "website": "http://www.magellanlp.com",
+    "ticker": "mmp"
   },
   "925": {
     "title": "Knights of Columbus",
@@ -3693,167 +4528,208 @@
   },
   "927": {
     "title": "Gartner",
-    "website": "http://www.gartner.com"
+    "website": "http://www.gartner.com",
+    "ticker": "it"
   },
   "928": {
     "title": "Fred’s",
-    "website": "http://www.fredsinc.com"
+    "website": "http://www.fredsinc.com",
+    "ticker": "fred"
   },
   "929": {
     "title": "Hovnanian Enterprises",
-    "website": "http://www.khov.com"
+    "website": "http://www.khov.com",
+    "ticker": "hov"
   },
   "930": {
     "title": "Kirby",
-    "website": "http://www.kirbycorp.com"
+    "website": "http://www.kirbycorp.com",
+    "ticker": "kex"
   },
   "931": {
     "title": "Microchip Technology",
-    "website": "http://www.microchip.com"
+    "website": "http://www.microchip.com",
+    "ticker": "mchp"
   },
   "932": {
     "title": "Herman Miller",
-    "website": "http://www.hermanmiller.com"
+    "website": "http://www.hermanmiller.com",
+    "ticker": "mlhr"
   },
   "933": {
     "title": "Spirit Airlines",
-    "website": "http://www.spirit.com"
+    "website": "http://www.spirit.com",
+    "ticker": "save"
   },
   "934": {
     "title": "NewMarket",
-    "website": "http://www.newmarket.com"
+    "website": "http://www.newmarket.com",
+    "ticker": "neu"
   },
   "935": {
     "title": "VCA",
-    "website": "http://www.vca.com"
+    "website": "http://www.vca.com",
+    "ticker": "woof"
   },
   "936": {
     "title": "Selective Insurance Group",
-    "website": "http://www.selective.com"
+    "website": "http://www.selective.com",
+    "ticker": "sigi"
   },
   "937": {
     "title": "hhgregg",
-    "website": "http://www.hhgregg.com"
+    "website": "http://www.hhgregg.com",
+    "ticker": "hgg"
   },
   "938": {
     "title": "Popular",
-    "website": "http://www.popular.com"
+    "website": "http://www.popular.com",
+    "ticker": "bpop"
   },
   "939": {
     "title": "Waste Connections",
-    "website": "http://www.wasteconnections.com"
+    "website": "http://www.wasteconnections.com",
+    "ticker": "wcn"
   },
   "940": {
     "title": "Restoration Hardware",
-    "website": "http://www.restorationhardware.com"
+    "website": "http://www.restorationhardware.com",
+    "ticker": "rh"
   },
   "941": {
     "title": "Cheesecake Factory",
-    "website": "http://www.thecheesecakefactory.com"
+    "website": "http://www.thecheesecakefactory.com",
+    "ticker": "cake"
   },
   "942": {
     "title": "Mueller Industries",
-    "website": "http://www.muellerindustries.com"
+    "website": "http://www.muellerindustries.com",
+    "ticker": "mli"
   },
   "943": {
     "title": "Maximus",
-    "website": "http://www.maximus.com"
+    "website": "http://www.maximus.com",
+    "ticker": "mms"
   },
   "944": {
     "title": "TTM Technologies",
-    "website": "http://www.ttmtech.com"
+    "website": "http://www.ttmtech.com",
+    "ticker": "ttmi"
   },
   "945": {
     "title": "Werner Enterprises",
-    "website": "http://www.werner.com"
+    "website": "http://www.werner.com",
+    "ticker": "wern"
   },
   "946": {
     "title": "Engility Holdings",
-    "website": "http://www.engilitycorp.com"
+    "website": "http://www.engilitycorp.com",
+    "ticker": "egl"
   },
   "947": {
     "title": "Rexnord",
-    "website": "http://www.rexnord.com"
+    "website": "http://www.rexnord.com",
+    "ticker": "rxn"
   },
   "948": {
     "title": "NuStar Energy",
-    "website": "http://www.nustarenergy.com"
+    "website": "http://www.nustarenergy.com",
+    "ticker": "ns"
   },
   "949": {
     "title": "H.B. Fuller",
-    "website": "http://www.hbfuller.com"
+    "website": "http://www.hbfuller.com",
+    "ticker": "ful"
   },
   "950": {
     "title": "Vista Outdoor",
-    "website": "http://www.vistaoutdoor.com"
+    "website": "http://www.vistaoutdoor.com",
+    "ticker": "vsto"
   },
   "951": {
     "title": "On Assignment",
-    "website": "http://www.onassignment.com"
+    "website": "http://www.onassignment.com",
+    "ticker": "asgn"
   },
   "952": {
     "title": "Verisk Analytics",
-    "website": "http://www.verisk.com"
+    "website": "http://www.verisk.com",
+    "ticker": "vrsk"
   },
   "953": {
     "title": "Par Pacific Holdings",
-    "website": "http://www.parpacific.com"
+    "website": "http://www.parpacific.com",
+    "ticker": "parr"
   },
   "954": {
     "title": "Alliance One International",
-    "website": "http://www.aointl.com"
+    "website": "http://www.aointl.com",
+    "ticker": "aoi"
   },
   "955": {
     "title": "Whiting Petroleum",
-    "website": "http://www.whiting.com"
+    "website": "http://www.whiting.com",
+    "ticker": "wll"
   },
   "956": {
     "title": "Waters",
-    "website": "http://www.waters.com"
+    "website": "http://www.waters.com",
+    "ticker": "wat"
   },
   "957": {
     "title": "Tower International",
-    "website": "http://www.towerinternational.com"
+    "website": "http://www.towerinternational.com",
+    "ticker": "towr"
   },
   "958": {
     "title": "Woodward",
-    "website": "http://www.woodward.com"
+    "website": "http://www.woodward.com",
+    "ticker": "wwd"
   },
   "959": {
     "title": "Stewart Information Services",
-    "website": "http://www.stewart.com"
+    "website": "http://www.stewart.com",
+    "ticker": "stc"
   },
   "960": {
     "title": "PharMerica",
-    "website": "http://www.pharmerica.com"
+    "website": "http://www.pharmerica.com",
+    "ticker": "pmc"
   },
   "961": {
     "title": "Wabash National",
-    "website": "http://www.wabashnational.com"
+    "website": "http://www.wabashnational.com",
+    "ticker": "wnc"
   },
   "962": {
     "title": "Ferrellgas Partners",
-    "website": "http://www.ferrellgas.com"
+    "website": "http://www.ferrellgas.com",
+    "ticker": "fgp"
   },
   "963": {
     "title": "Dycom Industries",
-    "website": "http://www.dycomind.com"
+    "website": "http://www.dycomind.com",
+    "ticker": "dy"
   },
   "964": {
     "title": "IDEX",
-    "website": "http://www.idexcorp.com"
+    "website": "http://www.idexcorp.com",
+    "ticker": "iex"
   },
   "965": {
     "title": "Bio-Rad Laboratories",
-    "website": "http://www.bio-rad.com"
+    "website": "http://www.bio-rad.com",
+    "ticker": "bio"
   },
   "966": {
     "title": "QEP Resources",
-    "website": "http://www.qepres.com"
+    "website": "http://www.qepres.com",
+    "ticker": "qep"
   },
   "967": {
     "title": "Griffon",
-    "website": "http://www.griffoncorp.com"
+    "website": "http://www.griffoncorp.com",
+    "ticker": "gff"
   },
   "968": {
     "title": "American Greetings",
@@ -3861,7 +4737,8 @@
   },
   "969": {
     "title": "Tribune Media",
-    "website": "http://www.tribunemedia.com"
+    "website": "http://www.tribunemedia.com",
+    "ticker": "trco"
   },
   "970": {
     "title": "Rackspace Hosting",
@@ -3869,11 +4746,13 @@
   },
   "971": {
     "title": "VeriFone Systems",
-    "website": "http://www.verifone.com"
+    "website": "http://www.verifone.com",
+    "ticker": "pay"
   },
   "972": {
     "title": "Genesee & Wyoming",
-    "website": "http://www.gwrr.com"
+    "website": "http://www.gwrr.com",
+    "ticker": "gwr"
   },
   "973": {
     "title": "99 Cents Only Stores",
@@ -3881,55 +4760,68 @@
   },
   "974": {
     "title": "Roadrunner Transportation Systems",
-    "website": "http://www.rrts.com"
+    "website": "http://www.rrts.com",
+    "ticker": "rrts"
   },
   "975": {
     "title": "Super Micro Computer",
-    "website": "http://www.supermicro.com"
+    "website": "http://www.supermicro.com",
+    "ticker": "smci"
   },
   "976": {
     "title": "First Republic Bank",
-    "website": "http://www.firstrepublic.com"
+    "website": "http://www.firstrepublic.com",
+    "ticker": "frc"
   },
   "977": {
     "title": "Hill-Rom Holdings",
-    "website": "http://www.hill-rom.com"
+    "website": "http://www.hill-rom.com",
+    "ticker": "hrc"
   },
   "978": {
     "title": "Providence Service",
-    "website": "http://www.prscholdings.com"
+    "website": "http://www.prscholdings.com",
+    "ticker": "prsc"
   },
   "979": {
     "title": "Allison Transmission Holdings",
-    "website": "http://www.allisontransmission.com"
+    "website": "http://www.allisontransmission.com",
+    "ticker": "alsn"
   },
   "980": {
     "title": "Spire",
-    "website": "http://www.spireenergy.com"
+    "website": "http://www.spireenergy.com",
+    "ticker": "sr"
   },
   "981": {
     "title": "WPX Energy",
-    "website": "http://www.wpxenergy.com"
+    "website": "http://www.wpxenergy.com",
+    "ticker": "wpx"
   },
   "982": {
     "title": "Century Aluminum",
-    "website": "http://www.centuryaluminum.com"
+    "website": "http://www.centuryaluminum.com",
+    "ticker": "cenx"
   },
   "983": {
     "title": "Adams Resources & Energy",
-    "website": "http://www.adamsresources.com"
+    "website": "http://www.adamsresources.com",
+    "ticker": "ae"
   },
   "984": {
     "title": "Nuance Communications",
-    "website": "http://www.nuance.com"
+    "website": "http://www.nuance.com",
+    "ticker": "nuan"
   },
   "985": {
     "title": "Primoris Services",
-    "website": "http://www.prim.com"
+    "website": "http://www.prim.com",
+    "ticker": "prim"
   },
   "986": {
     "title": "Schnitzer Steel Industries",
-    "website": "http://www.schnitzersteel.com"
+    "website": "http://www.schnitzersteel.com",
+    "ticker": "schn"
   },
   "987": {
     "title": "Delta Tucker Holdings",
@@ -3937,50 +4829,62 @@
   },
   "988": {
     "title": "Hospitality Properties Trust",
-    "website": "http://www.hptreit.com"
+    "website": "http://www.hptreit.com",
+    "ticker": "hpt"
   },
   "989": {
     "title": "Cenveo",
-    "website": "http://www.cenveo.com"
+    "website": "http://www.cenveo.com",
+    "ticker": "cvo"
   },
   "990": {
     "title": "F5 Networks",
-    "website": "http://www.f5.com"
+    "website": "http://www.f5.com",
+    "ticker": "ffiv"
   },
   "991": {
     "title": "BlueLinx Holdings",
-    "website": "http://www.bluelinxco.com"
+    "website": "http://www.bluelinxco.com",
+    "ticker": "bxc"
   },
   "992": {
     "title": "Revlon",
-    "website": "http://www.revloninc.com"
+    "website": "http://www.revloninc.com",
+    "ticker": "rev"
   },
   "993": {
     "title": "DeVry Education Group",
-    "website": "http://www.devryeducationgroup.com"
+    "website": "http://www.devryeducationgroup.com",
+    "ticker": "dv"
   },
   "994": {
     "title": "MDC Holdings",
-    "website": "http://www.richmondamerican.com"
+    "website": "http://www.richmondamerican.com",
+    "ticker": "mdc"
   },
   "995": {
     "title": "EP Energy",
-    "website": "http://www.epenergy.com"
+    "website": "http://www.epenergy.com",
+    "ticker": "epe"
   },
   "996": {
     "title": "New York Community Bancorp",
-    "website": "http://www.mynycb.com"
+    "website": "http://www.mynycb.com",
+    "ticker": "nycb"
   },
   "997": {
     "title": "DCP Midstream Partners",
-    "website": "http://www.dcppartners.com"
+    "website": "http://www.dcppartners.com",
+    "ticker": "dpm"
   },
   "999": {
     "title": "Wendy’s",
-    "website": "http://www.aboutwendys.com%20"
+    "website": "http://www.aboutwendys.com%20",
+    "ticker": "wen"
   },
   "1000": {
     "title": "Briggs & Stratton",
-    "website": "http://www.basco.com"
+    "website": "http://www.basco.com",
+    "ticker": "bgg"
   }
 }
